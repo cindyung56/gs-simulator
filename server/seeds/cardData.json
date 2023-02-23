@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Beyond the Reflection in My Eyes",
+        "idol": "Touma Amagase",
+        "rarity": "SSR",
+        "attribute": "physical",
+        "unawakened": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzIzNzlcL2VudHJ5XC9MT3pUZzkzYS5wbmciLCJlZGl0cyI6eyJ0b0Zvcm1hdCI6IndlYnAifX0=",
+        "awakened": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzIzNzlcL2VudHJ5XC9NV1FQZzVBaS5wbmciLCJlZGl0cyI6eyJ0b0Zvcm1hdCI6IndlYnAifX0=",
+        "limited": false
+    },
+    {
+        "name": "Soul-Burning Hero",
+        "idol": "Teru Tendo",
+        "rarity": "SSR",
+        "attribute": "physical",
+        "unawakened": "https://project-imas.wiki/images/f/f3/Teru_GS_SSR1.jpg",
+        "awakened": "https://project-imas.wiki/images/4/40/Teru_GS_SSR1%2B.jpg",
+        "limited": false
+    }
+]
