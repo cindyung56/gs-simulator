@@ -1,7 +1,7 @@
 import React from "react";
 import '../style.css';
 
-export default function Banner(){
+export default function Card(){
     return(
         <></>
     )
