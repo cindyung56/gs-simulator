@@ -1,0 +1,46 @@
+.main-interface {
+  position: relative;
+  height: 90vh;
+  padding: 5vh 0;
+  background-color: azure;
+}
+
+.inventory-btn {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 5vh 2vw;
+  color: black;
+  background-color: white;
+  width: 60px;
+  height: 60px;
+}
+
+.pull-buttons-container {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.pull-btn {
+  border-radius: 10px;
+  padding: 30px 50px;
+  color: black;
+  background-color: white;
+  margin-bottom: 5vh;
+  margin: 0px 2vw 5vh;
+  font-size: 40px;
+  cursor: pointer;
+}
+
+.pull-btn:hover {
+  box-shadow: 3px 3px 0.1em lightslategray;
+}
+
+.pull-btn:active {
+  box-shadow: 3px 3px grey;
+}
+
+h1 {
+  margin-top: 0;
+}
