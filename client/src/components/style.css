@@ -94,7 +94,7 @@ h1 {
   position: absolute;
   left: 10vh;
   top: 0;
-  background-color: lightgray;
+  background-color: rgba(211, 211, 211, 0.5);
 }
 
 .active-banner{

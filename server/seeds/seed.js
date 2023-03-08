@@ -1,7 +1,8 @@
 const sequelize = require('../config/connection');
-const { Card } = require('../models');
+const { Card, Banner } = require('../models');
 
 const cardData = require('./cardData.json');
+const bannerData = require('./bannerData.json');
 
 const seedDatabase = async() => {
     await sequelize.sync({force: true});
@@ -9,6 +10,12 @@ const seedDatabase = async() => {
     for (const card of cardData){
         await Card.create({
             ...card
+        });
+    }
+
+    for (const banner of bannerData){
+        await Banner.create({
+            ...banner
         });
     }
 
