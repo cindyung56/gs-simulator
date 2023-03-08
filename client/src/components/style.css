@@ -87,3 +87,20 @@ h1 {
   color: white;
   font-size: 1rem;
 }
+
+.banner-carousel{
+  height: 100%;
+  width: 50vh;
+  position: absolute;
+  left: 10vh;
+  top: 0;
+  background-color: lightgray;
+}
+
+.active-banner{
+  right: 10px;
+}
+
+.active-banner img{
+  border: 10px solid var(--silver-tree);
+}
