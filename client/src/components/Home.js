@@ -38,7 +38,7 @@ export default function Home(props) {
         {bannerList.slice(0).reverse().map((b) => (
           <div
             key={b.id}
-            className={b.id === activeBanner ? "active-banner" : ""}
+            className={b.id === activeBanner ? "active-banner" : "inactive-banner"}
             style={{
               position: "relative",
               width: "100%",
