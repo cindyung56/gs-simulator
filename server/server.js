@@ -14,6 +14,10 @@ app.get("/api", (req, res) => {
   res.json({ message: "Hello from server!" });
 });
 
+app.get("/banners", (req, res) => {
+  res.json({ message: "Hello from server!" });
+});
+
 app.get("*", (req, res) => {
   res.sendFile(path.join(__dirname, "../client/build/index.html"));
 });

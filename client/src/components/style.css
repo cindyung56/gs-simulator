@@ -1,3 +1,11 @@
+:root {
+  --silver-tree: #5abd87;
+}
+
+.banner-carousel::-webkit-scrollbar {
+  display: none;
+}
+
 .main-interface {
   position: relative;
   height: 90vh;
@@ -5,15 +13,46 @@
   background-color: azure;
 }
 
-.inventory-btn {
+.info-buttons-container {
   position: absolute;
-  top: 0;
-  right: 0;
-  margin: 5vh 2vw;
+  display: flex;
+  top: 5vh;
+  right: 5vh;
+}
+
+.inventory-btn,
+.details-btn {
+  display: inline-block;
+  margin-left: 5vh;
   color: black;
   background-color: white;
   width: 60px;
   height: 60px;
+  cursor: pointer;
+  border-radius: 10px;
+  font-size: 1.5rem;
+  padding: 5px;
+}
+
+.details-btn {
+  position: relative;
+  border-radius: 50%;
+  /* top: 15px; */
+}
+
+.inventory-btn {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.small-square {
+  border: 2px solid black;
+  width: 30%;
+  height: 30%;
+  border-radius: 2px;
+  display: inline-block;
 }
 
 .pull-buttons-container {
@@ -24,23 +63,65 @@
 
 .pull-btn {
   border-radius: 10px;
-  padding: 30px 50px;
+  padding: 15px 50px;
   color: black;
   background-color: white;
   margin-bottom: 5vh;
   margin: 0px 2vw 5vh;
-  font-size: 40px;
+  font-size: 2.5em;
   cursor: pointer;
 }
 
-.pull-btn:hover {
-  box-shadow: 3px 3px 0.1em lightslategray;
+.pull-btn:hover,
+.inventory-btn:hover,
+.details-btn:hover {
+  box-shadow: 4px 4px var(--silver-tree);
 }
 
 .pull-btn:active {
-  box-shadow: 3px 3px grey;
+  transform: translateY(4px);
+  box-shadow: 4px 4px var(--silver-tree);
 }
 
 h1 {
   margin-top: 0;
+}
+
+.currency-cost {
+  margin: 0;
+  margin-top: 5px;
+  background-color: darkblue;
+  color: white;
+  font-size: 1rem;
+}
+
+.banner-carousel {
+  z-index: 1;
+  height: 100%;
+  width: 50vh;
+  position: absolute;
+  left: 10vh;
+  top: 0;
+  background-color: rgba(211, 211, 211, 0.5);
+  overflow-x: visible;
+  overflow-y: auto;
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+.banner-carousel div {
+  margin: 0 auto;
+}
+
+.inactive-banner {
+  width: 100%;
+}
+
+.active-banner {
+  right: 10px;
+  width: 95% !important;
+}
+
+.active-banner img {
+  border: 10px solid var(--silver-tree);
 }
