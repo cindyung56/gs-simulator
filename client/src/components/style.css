@@ -2,6 +2,7 @@
   --silver-tree: #5abd87;
 }
 
+
 .banner-carousel::-webkit-scrollbar {
   display: none;
 }
@@ -10,7 +11,7 @@
   position: relative;
   height: 90vh;
   padding: 5vh 0;
-  background-color: azure;
+  background-size: cover;
 }
 
 .info-buttons-container {
@@ -102,7 +103,7 @@ h1 {
   position: absolute;
   left: 10vh;
   top: 0;
-  background-color: rgba(211, 211, 211, 0.5);
+  background-color: rgb(211, 211, 211);
   overflow-x: visible;
   overflow-y: auto;
   -ms-overflow-style: none; /* IE and Edge */
@@ -115,6 +116,7 @@ h1 {
 
 .inactive-banner {
   width: 100%;
+  opacity: 0.6;
 }
 
 .active-banner {
