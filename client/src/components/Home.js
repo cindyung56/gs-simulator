@@ -2,7 +2,6 @@ import React, { useState, useEffect } from "react";
 import "./style.css";
 
 export default function Home(props) {
-
   const { bannerList, activeBanner, updateView, changeActiveBanner } = props;
 
   return (
@@ -35,28 +34,33 @@ export default function Home(props) {
 
       <div className="banner-carousel">
         {/* map each banner in carousel */}
-        {bannerList.slice(0).reverse().map((b) => (
-          <div
-            key={b.id}
-            className={b.id === activeBanner ? "active-banner" : "inactive-banner"}
-            style={{
-              position: "relative",
-              width: "100%",
-              marginTop: "1vh",
-            }}
-            onClick={() => changeActiveBanner(b)}
-          >
-            <img
-              src={b.bannerArt}
-              alt="banner"
+        {bannerList
+          .slice(0)
+          .reverse()
+          .map((b) => (
+            <div
+              key={b.id}
+              className={
+                b.id === activeBanner.id ? "active-banner" : "inactive-banner"
+              }
               style={{
+                position: "relative",
                 width: "100%",
-                height: "100%",
-                cursor: "pointer",
+                marginTop: "1vh",
               }}
-            />
-          </div>
-        ))}
+              onClick={() => changeActiveBanner(b)}
+            >
+              <img
+                src={b.bannerArt}
+                alt="banner"
+                style={{
+                  width: "100%",
+                  height: "100%",
+                  cursor: "pointer",
+                }}
+              />
+            </div>
+          ))}
       </div>
     </div>
   );
