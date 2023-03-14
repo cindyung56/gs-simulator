@@ -6,6 +6,11 @@ export default function Home(props) {
 
   return (
     <div className="main-interface">
+      <div className="spark-reset-container">
+      <button className="spark-counter"><span>★</span> 0</button>
+        <button className="reset-counter"></button>
+      </div>
+      
       <div className="info-buttons-container">
         <button className="details-btn" onClick={() => updateView("details")}>
           i
