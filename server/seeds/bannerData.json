@@ -4,7 +4,8 @@
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8CChocolate%20Night%20%EF%BD%9E%E9%AD%85%E6%83%91%E3%81%AE%E3%83%90%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%B3%E3%83%8A%E3%82%A4%E3%83%88%EF%BD%9E%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=d7f0b7321f13f342f8bdce87439f2b0a&t=20230211152844",
     "backgroundImages": ["", ""],
     "cardPool": [],
-    "featured": []
+    "featured": [],
+    "sparkCounter": 0
   },
   {
     "name": "",
