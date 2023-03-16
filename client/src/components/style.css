@@ -2,8 +2,21 @@
   --silver-tree: #5abd87;
 }
 
+/* gets rid of the scroll bar but the div should still be scrollable */
 .banner-carousel::-webkit-scrollbar {
   display: none;
+}
+
+li{
+  list-style: none;
+}
+
+a{
+  color: var(--silver-tree);
+}
+
+a:hover{
+  color: green;
 }
 
 .main-interface {
@@ -96,7 +109,8 @@
 .inventory-btn:hover,
 .details-btn:hover,
 .reset-counter:hover,
-.go-home-btn:hover {
+.go-home-btn:hover,
+.continue-btn:hover {
   box-shadow: 4px 4px var(--silver-tree);
 }
 
@@ -115,6 +129,13 @@ h1 {
   background-color: darkblue;
   color: white;
   font-size: 1rem;
+}
+
+.currency-counter{
+  background-color: white;
+  padding: 15px;
+  margin-left: 2vw;
+  border: 2px solid black;
 }
 
 .banner-carousel {
@@ -149,12 +170,11 @@ h1 {
   border: 10px solid var(--silver-tree);
 }
 
-.go-home-btn {
+.go-home-btn, .continue-btn {
   position: absolute;
   bottom: 5vh;
-  left: 15vh;
-  width: 60px;
-  height: 60px;
+  /* width: 60px;
+  height: 60px; */
   cursor: pointer;
   border-radius: 10px;
   z-index: 1;
@@ -162,6 +182,15 @@ h1 {
   background-color: white;
   font-size: 2rem;
   font-weight: bold;
+  padding: 10px;
+}
+
+.go-home-btn{
+    left: 15vh;
+}
+
+.continue-btn{
+  right: 15vh;
 }
 
 .details-container {
@@ -177,6 +206,7 @@ h1 {
   height: 81vh;
   padding: 30px;
   background-color: white;
+  font-size: 1.2rem;
 }
 
 .details-options {
@@ -208,14 +238,8 @@ h1 {
   display: inline;
 }
 
-li{
-  list-style: none;
-}
-
-a{
-  color: var(--silver-tree);
-}
-
-a:hover{
-  color: green;
+.active-option{
+  position: relative;
+  border: 10px solid var(--silver-tree);
+  right: 10px;
 }

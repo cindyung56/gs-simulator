@@ -72,7 +72,7 @@ export default function Details(props) {
             <p>
               Credits for assets:
               <ul>
-                <li>Full SSR Art: <a href="https://project-imas.wiki/Main_Page">project-imas wiki</a></li>
+                <li>Full SSR Art: <a href="https://project-imas.wiki/THE_iDOLM@STER_SideM_GROWING_STARS">project-imas wiki</a></li>
                 <li>
                   Card Art:{" "}
                   <a href="https://gamerch.com/sidem-gs/">

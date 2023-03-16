@@ -1,13 +1,20 @@
-import React, {useState, useEffect} from "react";
+import React, { useState, useEffect } from "react";
 import "./style.css";
-import DetailOption from './DetailOption.js';
+import DetailOption from "./DetailOption.js";
 
 export default function Details(props) {
   const { goHome } = props;
 
+  const optionsArray = [
+    { name: "Information", key: "info" },
+    { name: "Probabilities", key: "prob" },
+    { name: "Wish History", key: "wish" },
+    { name: "Update Log", key: "update" },
+  ];
+
   const [activeOption, setActiveOption] = useState("info");
 
-  function updateActiveOption(a){
+  function updateActiveOption(a) {
     setActiveOption(a);
   }
 
@@ -17,16 +24,24 @@ export default function Details(props) {
 
   return (
     <div className="details-container">
-      {/* <h1>DETAILS PAGE</h1> */}
       <div className="details-options">
-        
-      <div className="d-option" onClick={() => updateActiveOption("info")}>Information</div>
-      <div className="d-option" onClick={() => updateActiveOption("prob")}>Probabilities</div>
-      <div className="d-option" onClick={() => updateActiveOption("wish")}>Wish History</div>
-      <div className="d-option" onClick={() => updateActiveOption("update")}>Update Log</div>
+        {optionsArray.map((o) => (
+          <div
+            className={
+              o.key === activeOption
+                ? "active-option d-option"
+                : "d-option"
+            }
+            onClick={() => updateActiveOption(`${o.key}`)}
+          >
+            {o.name}
+          </div>
+        ))}
       </div>
       <DetailOption activeOption={activeOption} />
-      <button className="go-home-btn" onClick={goHome}>←</button>
+      <button className="go-home-btn" onClick={goHome}>
+        ←
+      </button>
     </div>
   );
 }

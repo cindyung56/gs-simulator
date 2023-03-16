@@ -47,7 +47,9 @@ function App() {
     },
     {
       id: 7,
-      bgImages: ["https://project-imas.wiki/images/f/fa/Tsubasa_GS_SSR3%2B.jpg"],
+      bgImages: [
+        "https://project-imas.wiki/images/f/fa/Tsubasa_GS_SSR3%2B.jpg",
+      ],
       bannerArt:
         "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8CChocolate%20Night%20%EF%BD%9E%E9%AD%85%E6%83%91%E3%81%AE%E3%83%90%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%B3%E3%83%8A%E3%82%A4%E3%83%88%EF%BD%9E%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=d7f0b7321f13f342f8bdce87439f2b0a&t=20230211152844",
     },
@@ -72,33 +74,31 @@ function App() {
   // }, []);
   // const [bannerList, setBannerList] = useState(null);
 
-
   // STATES
   const [view, setView] = useState("home");
   const [activeBanner, setActiveBanner] = useState(
     bannerList[bannerList.length - 1]
   );
-
+  const [counter, setCounter] = useState(0);
+  const [pull, setPull] = useState(1);
 
   // EFFECTS
   // change main container background image when active banner has been changed
   useEffect(() => {
     changeBgImage();
-  }, [activeBanner])
+  }, [activeBanner]);
 
   // display bg image of active banner after coming back to home page
   useEffect(() => {
-    if(view === "home"){
+    if (view === "home") {
       changeBgImage();
-    };
-  }, [view])
-
+    }
+  }, [view]);
 
   // FUNCTIONS
   // prop that updates view to go to the home page
   function goHome() {
     setView("home");
-    console.log(activeBanner);
   }
 
   // prop that changes the returned page view
@@ -112,10 +112,13 @@ function App() {
   }
 
   // function to update background image
-  function changeBgImage(){
+  function changeBgImage() {
     const bgUrlArray = activeBanner.bgImages[0];
-    const mainInterface = document.querySelector('.main-interface');
-    mainInterface.setAttribute("style", `background-image: url('${bgUrlArray}')`);
+    const mainInterface = document.querySelector(".main-interface");
+    mainInterface.setAttribute(
+      "style",
+      `background-image: url('${bgUrlArray}')`
+    );
   }
 
   // function that updates website based on view state
@@ -126,7 +129,7 @@ function App() {
       case "inventory":
         return <Inventory goHome={goHome} />;
       case "wish":
-        return <Wish goHome={goHome} />;
+        return <Wish goHome={goHome} pull={pull} setPull={setPull} />;
       default:
         return (
           <Home
@@ -134,6 +137,9 @@ function App() {
             activeBanner={activeBanner}
             updateView={updateView}
             changeActiveBanner={changeActiveBanner}
+            counter={counter}
+            setCounter={setCounter}
+            setPull={setPull}
           />
         );
     }
