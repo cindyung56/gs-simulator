@@ -8,20 +8,40 @@ export default function Home(props) {
     updateView,
     changeActiveBanner,
     counter,
+    bgIndex,
     setCounter,
-    setPull
+    setPull,
+    setBgIndex,
   } = props;
 
+  // EFFECT HOOKS
+  // change bgIndex after 7 seconds
+  useEffect(() => {
+    const timer = setInterval(() => {
+      if (bgIndex === activeBanner.bgImages.length - 1) {
+        setBgIndex(0);
+      } else {
+        setBgIndex(bgIndex + 1);
+      }
+    }, 7000);
+
+    return () => clearInterval(timer);
+  }, [bgIndex]);
+
+  // FUNCTIONS
+  // updates to wish view, adds to number of gems spent, and specifies which wish button has been pressed (x1 or x10)
   function updateWishView(n) {
     updateView("wish");
     setCounter(counter + n);
     n===250 ? setPull(1) : setPull(10);
   }
 
+  // reset the counter to 0
   function resetCounter(){
     setCounter(0);
   }
 
+  // render home view
   return (
     <div className="main-interface">
       <div className="spark-reset-container">

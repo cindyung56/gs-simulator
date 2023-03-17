@@ -17,7 +17,11 @@ function App() {
     },
     {
       id: 2,
-      bgImages: ["https://project-imas.wiki/images/a/a0/Hokuto_GS_SSR2.jpg"],
+      bgImages: [
+        "https://project-imas.wiki/images/a/a0/Hokuto_GS_SSR2.jpg",
+        "https://project-imas.wiki/images/7/73/Teru_GS_SSR3.jpg",
+        "https://project-imas.wiki/images/d/d0/Rui_GS_SSR2.jpg",
+      ],
       bannerArt:
         "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8CGROWING%20FES%20-%E7%AA%AE%E6%9C%88%E3%81%AE%E3%82%B0%E3%83%AD%E3%83%AA%E3%82%A2%E3%82%B9%E3%83%8A%E3%82%A4%E3%83%88-%E3%80%8D/::ref/banner.png.webp?rev=6670d5978896f055f320e4b030720dc0&t=20221228202057",
     },
@@ -61,7 +65,10 @@ function App() {
     },
     {
       id: 9,
-      bgImages: ["https://project-imas.wiki/images/a/a5/Shu_GS_SSR3%2B.jpg"],
+      bgImages: [
+        "https://project-imas.wiki/images/a/a5/Shu_GS_SSR3%2B.jpg",
+        "https://project-imas.wiki/images/4/49/Haruna_GS_SSR3%2B.jpg",
+      ],
       bannerArt:
         "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8C%E4%BC%9D%E3%81%88%E3%81%9F%E3%81%84%E6%83%B3%E3%81%84%E3%82%92%E9%81%8B%E3%82%93%E3%81%A7%20Teddy%20bear%EF%BC%86Letter%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=82626f6864527620623af2c16697c3a5&t=20230228163829",
     },
@@ -81,12 +88,13 @@ function App() {
   );
   const [counter, setCounter] = useState(0);
   const [pull, setPull] = useState(1);
+  const [bgIndex, setBgIndex] = useState(0);
 
   // EFFECTS
-  // change main container background image when active banner has been changed
+  // change main container background image when active banner or bgIndex has been changed
   useEffect(() => {
     changeBgImage();
-  }, [activeBanner]);
+  }, [activeBanner, bgIndex]);
 
   // display bg image of active banner after coming back to home page
   useEffect(() => {
@@ -109,11 +117,12 @@ function App() {
   // prop that changes which banner has been chosen by the user
   function changeActiveBanner(b) {
     setActiveBanner(b);
+    setBgIndex(0);
   }
 
   // function to update background image
   function changeBgImage() {
-    const bgUrlArray = activeBanner.bgImages[0];
+    const bgUrlArray = activeBanner.bgImages[bgIndex];
     const mainInterface = document.querySelector(".main-interface");
     mainInterface.setAttribute(
       "style",
@@ -129,7 +138,7 @@ function App() {
       case "inventory":
         return <Inventory goHome={goHome} />;
       case "wish":
-        return <Wish goHome={goHome} pull={pull} setPull={setPull} />;
+        return <Wish goHome={goHome} pull={pull} />;
       default:
         return (
           <Home
@@ -138,8 +147,10 @@ function App() {
             updateView={updateView}
             changeActiveBanner={changeActiveBanner}
             counter={counter}
+            bgIndex={bgIndex}
             setCounter={setCounter}
             setPull={setPull}
+            setBgIndex={setBgIndex}
           />
         );
     }

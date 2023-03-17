@@ -18,7 +18,10 @@
   {
     "name": "Teddy Bear & Letter",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8C%E4%BC%9D%E3%81%88%E3%81%9F%E3%81%84%E6%83%B3%E3%81%84%E3%82%92%E9%81%8B%E3%82%93%E3%81%A7%20Teddy%20bear%EF%BC%86Letter%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=82626f6864527620623af2c16697c3a5&t=20230228163829",
-    "backgroundImages": ["", ""],
+    "backgroundImages": [
+      "https://project-imas.wiki/images/a/a5/Shu_GS_SSR3%2B.jpg",
+      "https://project-imas.wiki/images/4/49/Haruna_GS_SSR3%2B.jpg"
+    ],
     "cardPool": [],
     "featured": [],
     "sparkCounter": 0
