@@ -70,9 +70,14 @@ export default function Details(props) {
             </p>
 
             <p>
-              Credits for assets:
+              <u>Credits:</u>
               <ul>
-                <li>Full SSR Art: <a href="https://project-imas.wiki/THE_iDOLM@STER_SideM_GROWING_STARS">project-imas wiki</a></li>
+                <li>
+                  Full SSR Art:{" "}
+                  <a href="https://project-imas.wiki/THE_iDOLM@STER_SideM_GROWING_STARS">
+                    project-imas wiki
+                  </a>
+                </li>
                 <li>
                   Card Art:{" "}
                   <a href="https://gamerch.com/sidem-gs/">
@@ -85,18 +90,30 @@ export default function Details(props) {
                     GROWING STARS Wiki (wikiwiki.jp)
                   </a>
                 </li>
+                <li>
+                  Card & Banner Translations:{" "}
+                  <a href="https://twitter.com/SideM_Eng">SideM ENG Twitter</a>
+                </li>
               </ul>
             </p>
 
             <p>
-              This application is in no way affliated with THE iDOLM@STER series
-              or Bandai Namco. This website can be used for free with no
-              monetary transactions involved. It is purely for fun. If any
-              associated parties would like this taken down, please email me{" "}
+              <b>
+                This application is in no way affliated with THE iDOLM@STER
+                series or Bandai Namco.{" "}
+              </b>{" "}
+              This website can be used for free with no monetary transactions
+              involved. It is purely for fun. If any associated parties would
+              like this taken down, please email me{" "}
               <a href="mailto:cindyung56@gmail.com">here</a>.
             </p>
 
-            <p>Check out the GitHub repository <a href="https://github.com/cindyung56/gs-simulator">here!</a></p>
+            <p>
+              Check out the{" "}
+              <a href="https://github.com/cindyung56/gs-simulator">
+                GitHub repository!
+              </a>
+            </p>
           </>
         );
     }

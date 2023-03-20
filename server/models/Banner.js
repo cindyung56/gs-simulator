@@ -16,20 +16,26 @@ Banner.init(
       unique: false,
     },
     backgroundImages: {
-      type: DataTypes.ARRAY,
+      type: DataTypes.STRING,
       allowNull: false,
-      unique: false
+      unique: false,
+      get(){
+        return this.getDataValue('backgroundImages').split(';')
+      },
+      set(val){
+        this.setDataValue('backgroundImages', val.join(";"))
+      }
     },
-    cardPool: {
-      type: DataTypes.ARRAY,
-      allowNull: false,
-      unique: false
-    },
-    featured: {
-      type: DataTypes.ARRAY,
-      allowNull: false,
-      unique: false
-    },
+    // cardPool: {
+    //   type: DataTypes.ARRAY,
+    //   allowNull: false,
+    //   unique: false
+    // },
+    // featured: {
+    //   type: DataTypes.ARRAY,
+    //   allowNull: false,
+    //   unique: false
+    // },
     sparkCounter: {
       type: DataTypes.INTEGER,
       allowNull: false,

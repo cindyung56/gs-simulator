@@ -171,3 +171,18 @@ export default App;
 // }, []);
 
 /* <p>{!data ? "Loading..." : data}</p> */
+
+
+/*
+
+  {
+    "name": "A Product to Decorate the New Chapter of Your Life ~Stationery Collab~ Gacha",
+    "bannerArt": "",
+    "backgroundImages": [
+      "https://project-imas.wiki/images/f/ff/Suzaku_GS_SSR3%2B.jpg",
+      "https://project-imas.wiki/images/a/a5/Soichiro_GS_SSR3%2B.jpg"
+    ],
+    "sparkCounter": 0
+  }
+
+*/
