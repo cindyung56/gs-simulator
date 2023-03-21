@@ -1,7 +1,7 @@
 const express = require("express");
 const path = require("path");
 const sqDB = require("./config/connection");
-// const routes = require('./controllers');
+const routes = require('./controllers');
 
 const app = express();
 const PORT = process.env.PORT || 3001;
@@ -9,20 +9,21 @@ const PORT = process.env.PORT || 3001;
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(express.static(path.resolve(__dirname, "../client/build")));
+app.use(routes);
 
-app.get("/api", (req, res) => {
-  res.json({ message: "Hello from server!" });
-});
+// app.get("/api", (req, res) => {
+//   res.json({ message: "Hello from server!" });
+// });
 
-app.get("/banners", (req, res) => {
-  res.json({ message: "Hello from server!" });
-});
+// app.get("/banners", (req, res) => {
+//   res.json({ message: "Hello from server!" });
+// });
 
 app.get("*", (req, res) => {
   res.sendFile(path.join(__dirname, "../client/build/index.html"));
 });
 
-// app.use(routes);
+
 
 sqDB.sync({ force: false }).then(() => {
   app.listen(PORT, () =>
