@@ -75,30 +75,31 @@ function App() {
   // ];
 
   // STATES
-  const [view, setView] = useState("home");
-  const [counter, setCounter] = useState(0);
-  const [pull, setPull] = useState(1);
-  const [bgIndex, setBgIndex] = useState(0);
   const [bannerList, setBannerList] = useState([]);
   const [activeBanner, setActiveBanner] = useState(
     bannerList[bannerList.length - 1]
   );
+  const [view, setView] = useState("home");
+  const [counter, setCounter] = useState(0);
+  const [pull, setPull] = useState(1);
+  const [bgIndex, setBgIndex] = useState(0);
+  
 
   // EFFECTS
   // change main container background image when active banner or bgIndex has been changed
   useEffect(() => {
     fetch("/api/banner")
       .then((res) => res.json())
-      .then((data) => setBannerList(data));
+      .then((data) => {setBannerList(data)}, (error) => {console.log(error)});
 
   }, []);
 
   useEffect(() => {
+    console.log(bannerList);
     const b = bannerList;
     for (let i = 0; i < bannerList.length; i++){
       console.log(b[i])
     }
-    // setBannerList(b);
   }, [bannerList])
   
   useEffect(() => {

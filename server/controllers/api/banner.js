@@ -9,7 +9,7 @@ router.get("/", async (req, res) => {
     });
     // const banner = bannerData.get({ plain: true });
     // console.log(bannerData);
-    res.json(bannerData);
+    res.status(200).json(bannerData);
   } catch (err) {
     res.status(500).json(err);
   }
