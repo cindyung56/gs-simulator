@@ -18,7 +18,7 @@ export default function Home(props) {
   // change bgIndex after 7 seconds
   useEffect(() => {
     const timer = setInterval(() => {
-      if (bgIndex === activeBanner.bgImages.length - 1) {
+      if (bgIndex === activeBanner.backgroundImages.length - 1) {
         setBgIndex(0);
       } else {
         setBgIndex(bgIndex + 1);
