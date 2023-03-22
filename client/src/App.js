@@ -5,40 +5,21 @@ import "./App.css";
 import Main from "./components/Main";
 
 function App() {
-  // STATES
 
+  // STATES
   const [bannerL, setBannerL] = useState([]);
   const [loading, setLoading] = useState(true);
 
   // EFFECTS
-  // useEffect(() => {
-  //   fetch("/api/banner")
-  //     .then((res) => res.json())
-  //     .then(
-  //       (data) => {
-  //         const b = data;
-  //         for (let i = 0; i < b.length; i++) {
-  //           b[i].backgroundImages = b[i].backgroundImages.split(";");
-  //         }
-  //         // console.log(b);
-  //         setBannerL(b);
-  //       },
-  //       (error) => {
-  //         console.log(error);
-  //       }
-  //     );
-  // }, []);
-
+  // hook to call banner API data
   useEffect(() => {
     const fetchData = async () => {
       const response = await fetch("/api/banner");
       const newData = await response.json();
-      // console.log(newData);
       let b = newData;
       for (let i = 0; i < b.length; i++) {
         b[i].backgroundImages = b[i].backgroundImages.split(";");
       }
-      // console.log(b);
       setBannerL(b);
       setLoading(false);
     };

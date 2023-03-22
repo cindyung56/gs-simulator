@@ -1,4 +1,6 @@
 import React, { useState, useEffect } from "react";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faArrowRotateRight, faInfo } from '@fortawesome/free-solid-svg-icons'
 import "./style.css";
 
 export default function Home(props) {
@@ -48,13 +50,15 @@ export default function Home(props) {
         <button className="spark-counter">
           <span>★</span> 0
         </button>
-        <button className="reset-counter" onClick={resetCounter}></button>
+        <button className="reset-counter" onClick={resetCounter}>
+          <FontAwesomeIcon icon={faArrowRotateRight}/>
+        </button>
         <div className="currency-counter">Gems spent: {counter}</div>
       </div>
 
       <div className="info-buttons-container">
         <button className="details-btn" onClick={() => updateView("details")}>
-          i
+          <FontAwesomeIcon icon={faInfo}/>
         </button>
         <button
           className="inventory-btn"

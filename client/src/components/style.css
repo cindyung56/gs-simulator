@@ -1,5 +1,6 @@
 :root {
   --silver-tree: #5abd87;
+  --violent-violet: #1A0E4A;
 }
 
 /* gets rid of the scroll bar but the div should still be scrollable */
@@ -42,7 +43,7 @@ a:hover{
 }
 
 .spark-counter {
-  color: black;
+  color: var(--violent-violet);
   background-color: white;
   padding: 10px 20px;
   font-size: 2rem;
@@ -57,7 +58,7 @@ a:hover{
 .reset-counter {
   display: inline-block;
   margin-left: 5vh;
-  color: black;
+  color: var(--violent-violet);
   background-color: white;
   width: 60px;
   height: 60px;
@@ -81,10 +82,11 @@ a:hover{
 }
 
 .small-square {
-  border: 2px solid black;
+  background-color: var(--violent-violet);
+  border: 2px solid var(--violent-violet);
   width: 30%;
   height: 30%;
-  border-radius: 2px;
+  border-radius: 4px;
   display: inline-block;
 }
 
@@ -97,7 +99,7 @@ a:hover{
 .pull-btn {
   border-radius: 10px;
   padding: 15px 50px;
-  color: black;
+  color: var(--violent-violet);
   background-color: white;
   margin-bottom: 5vh;
   margin: 0px 2vw 5vh;
@@ -135,7 +137,7 @@ h1 {
   background-color: white;
   padding: 15px;
   margin-left: 2vw;
-  border: 2px solid black;
+  border: 2px solid var(--violent-violet);
 }
 
 .banner-carousel {
@@ -178,7 +180,7 @@ h1 {
   cursor: pointer;
   border-radius: 10px;
   z-index: 1;
-  color: black;
+  color: var(--violent-violet);
   background-color: white;
   font-size: 2rem;
   font-weight: bold;

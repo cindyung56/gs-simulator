@@ -7,8 +7,6 @@ router.get("/", async (req, res) => {
     const bannerData = await Banner.findAll({
       raw: true,
     });
-    // const banner = bannerData.get({ plain: true });
-    // console.log(bannerData);
     res.status(200).json(bannerData);
   } catch (err) {
     res.status(500).json(err);
