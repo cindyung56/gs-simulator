@@ -1,9 +1,23 @@
 :root {
   --silver-tree: #5abd87;
+  --violent-violet: #1A0E4A;
 }
 
+/* gets rid of the scroll bar but the div should still be scrollable */
 .banner-carousel::-webkit-scrollbar {
   display: none;
+}
+
+li{
+  list-style: none;
+}
+
+a{
+  color: var(--silver-tree);
+}
+
+a:hover{
+  color: green;
 }
 
 .main-interface {
@@ -29,7 +43,7 @@
 }
 
 .spark-counter {
-  color: black;
+  color: var(--violent-violet);
   background-color: white;
   padding: 10px 20px;
   font-size: 2rem;
@@ -44,7 +58,7 @@
 .reset-counter {
   display: inline-block;
   margin-left: 5vh;
-  color: black;
+  color: var(--violent-violet);
   background-color: white;
   width: 60px;
   height: 60px;
@@ -68,10 +82,11 @@
 }
 
 .small-square {
-  border: 2px solid black;
+  background-color: var(--violent-violet);
+  border: 2px solid var(--violent-violet);
   width: 30%;
   height: 30%;
-  border-radius: 2px;
+  border-radius: 4px;
   display: inline-block;
 }
 
@@ -84,7 +99,7 @@
 .pull-btn {
   border-radius: 10px;
   padding: 15px 50px;
-  color: black;
+  color: var(--violent-violet);
   background-color: white;
   margin-bottom: 5vh;
   margin: 0px 2vw 5vh;
@@ -96,7 +111,8 @@
 .inventory-btn:hover,
 .details-btn:hover,
 .reset-counter:hover,
-.go-home-btn:hover {
+.go-home-btn:hover,
+.continue-btn:hover {
   box-shadow: 4px 4px var(--silver-tree);
 }
 
@@ -115,6 +131,13 @@ h1 {
   background-color: darkblue;
   color: white;
   font-size: 1rem;
+}
+
+.currency-counter{
+  background-color: white;
+  padding: 15px;
+  margin-left: 2vw;
+  border: 2px solid var(--violent-violet);
 }
 
 .banner-carousel {
@@ -149,19 +172,27 @@ h1 {
   border: 10px solid var(--silver-tree);
 }
 
-.go-home-btn {
+.go-home-btn, .continue-btn {
   position: absolute;
   bottom: 5vh;
-  left: 15vh;
-  width: 60px;
-  height: 60px;
+  /* width: 60px;
+  height: 60px; */
   cursor: pointer;
   border-radius: 10px;
   z-index: 1;
-  color: black;
+  color: var(--violent-violet);
   background-color: white;
   font-size: 2rem;
   font-weight: bold;
+  padding: 10px;
+}
+
+.go-home-btn{
+    left: 15vh;
+}
+
+.continue-btn{
+  right: 15vh;
 }
 
 .details-container {
@@ -177,6 +208,7 @@ h1 {
   height: 81vh;
   padding: 30px;
   background-color: white;
+  font-size: 1.2rem;
 }
 
 .details-options {
@@ -208,14 +240,8 @@ h1 {
   display: inline;
 }
 
-li{
-  list-style: none;
-}
-
-a{
-  color: var(--silver-tree);
-}
-
-a:hover{
-  color: green;
+.active-option{
+  position: relative;
+  border: 10px solid var(--silver-tree);
+  right: 10px;
 }

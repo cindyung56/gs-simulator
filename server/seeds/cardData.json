@@ -1,47 +1,47 @@
 [
-    {
-        "name": "GROWING STARS",
-        "idol": "Touma Amagase",
-        "rarity": "R",
-        "attribute": "physical",
-        "unawakened": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzIzNzlcL2VudHJ5XC85d2Q2Qm45aS5wbmciLCJlZGl0cyI6eyJ0b0Zvcm1hdCI6IndlYnAifX0=",
-        "awakened": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzIzNzlcL2VudHJ5XC9XSDZYbGVObS5wbmciLCJlZGl0cyI6eyJ0b0Zvcm1hdCI6IndlYnAifX0=",
-        "limited": false
-    },
-    {
-        "name": "GROWING STARS",
-        "idol": "Shouta Mitarai",
-        "rarity": "R",
-        "attribute": "mental",
-        "unawakened": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzIzNzlcL2VudHJ5XC9MN29yYnhDUi5wbmciLCJlZGl0cyI6eyJ0b0Zvcm1hdCI6IndlYnAifX0=",
-        "awakened": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzIzNzlcL2VudHJ5XC9Ldms0U0kyWS5wbmciLCJlZGl0cyI6eyJ0b0Zvcm1hdCI6IndlYnAifX0=",
-        "limited": false
-    },
-    {
-        "name": "GROWING STARS",
-        "idol": "Hokuto Ijuuin",
-        "rarity": "R",
-        "attribute": "intelligent",
-        "unawakened": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzIzNzlcL2VudHJ5XC9Nam9hUDlBRS5wbmciLCJlZGl0cyI6eyJ0b0Zvcm1hdCI6IndlYnAifX0=",
-        "awakened": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzIzNzlcL2VudHJ5XC9rdEZWY0NRTi5qcGciLCJlZGl0cyI6eyJ0b0Zvcm1hdCI6IndlYnAiLCJqcGVnIjp7InF1YWxpdHkiOjg1fX19",
-        "limited": false
-    },
-    {
-        "name": "Beyond the Reflection in My Eyes",
-        "idol": "Touma Amagase",
-        "rarity": "SSR",
-        "attribute": "physical",
-        "unawakened": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzIzNzlcL2VudHJ5XC9MT3pUZzkzYS5wbmciLCJlZGl0cyI6eyJ0b0Zvcm1hdCI6IndlYnAifX0=",
-        "awakened": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzIzNzlcL2VudHJ5XC9NV1FQZzVBaS5wbmciLCJlZGl0cyI6eyJ0b0Zvcm1hdCI6IndlYnAifX0=",
-        "limited": false
-    },
-    {
-        "name": "Soul-Burning Hero",
-        "idol": "Teru Tendo",
-        "rarity": "SSR",
-        "attribute": "physical",
-        "unawakened": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzIzNzlcL2VudHJ5XC8wbXJNVTc1aS5wbmciLCJlZGl0cyI6eyJ0b0Zvcm1hdCI6IndlYnAifX0=",
-        "awakened": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzIzNzlcL2VudHJ5XC9taGJWdzN4TS5wbmciLCJlZGl0cyI6eyJ0b0Zvcm1hdCI6IndlYnAifX0=",
-        "limited": false
-    }
+  {
+    "name": "GROWING STARS",
+    "idol": "Touma Amagase",
+    "rarity": "R",
+    "attribute": "physical",
+    "unawakened": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzIzNzlcL2VudHJ5XC85d2Q2Qm45aS5wbmciLCJlZGl0cyI6eyJ0b0Zvcm1hdCI6IndlYnAifX0=",
+    "awakened": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzIzNzlcL2VudHJ5XC9XSDZYbGVObS5wbmciLCJlZGl0cyI6eyJ0b0Zvcm1hdCI6IndlYnAifX0=",
+    "limited": false
+  },
+  {
+    "name": "GROWING STARS",
+    "idol": "Shouta Mitarai",
+    "rarity": "R",
+    "attribute": "mental",
+    "unawakened": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzIzNzlcL2VudHJ5XC9MN29yYnhDUi5wbmciLCJlZGl0cyI6eyJ0b0Zvcm1hdCI6IndlYnAifX0=",
+    "awakened": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzIzNzlcL2VudHJ5XC9Ldms0U0kyWS5wbmciLCJlZGl0cyI6eyJ0b0Zvcm1hdCI6IndlYnAifX0=",
+    "limited": false
+  },
+  {
+    "name": "GROWING STARS",
+    "idol": "Hokuto Ijuuin",
+    "rarity": "R",
+    "attribute": "intelligent",
+    "unawakened": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzIzNzlcL2VudHJ5XC9Nam9hUDlBRS5wbmciLCJlZGl0cyI6eyJ0b0Zvcm1hdCI6IndlYnAifX0=",
+    "awakened": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzIzNzlcL2VudHJ5XC9rdEZWY0NRTi5qcGciLCJlZGl0cyI6eyJ0b0Zvcm1hdCI6IndlYnAiLCJqcGVnIjp7InF1YWxpdHkiOjg1fX19",
+    "limited": false
+  },
+  {
+    "name": "Beyond the Reflection in My Eyes",
+    "idol": "Touma Amagase",
+    "rarity": "SSR",
+    "attribute": "physical",
+    "unawakened": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzIzNzlcL2VudHJ5XC9MT3pUZzkzYS5wbmciLCJlZGl0cyI6eyJ0b0Zvcm1hdCI6IndlYnAifX0=",
+    "awakened": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzIzNzlcL2VudHJ5XC9NV1FQZzVBaS5wbmciLCJlZGl0cyI6eyJ0b0Zvcm1hdCI6IndlYnAifX0=",
+    "limited": false
+  },
+  {
+    "name": "Soul-Burning Hero",
+    "idol": "Teru Tendo",
+    "rarity": "SSR",
+    "attribute": "physical",
+    "unawakened": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzIzNzlcL2VudHJ5XC8wbXJNVTc1aS5wbmciLCJlZGl0cyI6eyJ0b0Zvcm1hdCI6IndlYnAifX0=",
+    "awakened": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzIzNzlcL2VudHJ5XC9taGJWdzN4TS5wbmciLCJlZGl0cyI6eyJ0b0Zvcm1hdCI6IndlYnAifX0=",
+    "limited": false
+  }
 ]
