@@ -7,17 +7,17 @@ import Inventory from "./Inventory";
 import Wish from "./Wish";
 
 function Main(props) {
+  // STATES
   const { bannerList, setBannerList } = props;
-
   const [activeBanner, setActiveBanner] = useState(
     bannerList[bannerList.length - 1]
   );
-
   const [view, setView] = useState("home");
   const [counter, setCounter] = useState(0);
   const [pull, setPull] = useState(1);
   const [bgIndex, setBgIndex] = useState(0);
 
+  // EFFECT HOOKS
   // change main container background image when active banner or bgIndex has been changed
   useEffect(() => {
     changeBgImage();

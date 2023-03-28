@@ -27,6 +27,451 @@
     "limited": false
   },
   {
+    "name": "GROWING STARS",
+    "idol": "Teru Tendo",
+    "rarity": "R",
+    "attribute": "physical",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "GROWING STARS",
+    "idol": "Kaoru Sakuraba",
+    "rarity": "R",
+    "attribute": "intelligent",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "GROWING STARS",
+    "idol": "Tsubasa",
+    "rarity": "R",
+    "attribute": "mental",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "GROWING STARS",
+    "idol": "Rei Kagura",
+    "rarity": "R",
+    "attribute": "intelligent",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "GROWING STARS",
+    "idol": "Kei Tsuzuki",
+    "rarity": "R",
+    "attribute": "mental",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "GROWING STARS",
+    "idol": "Kyoji Takajo",
+    "rarity": "R",
+    "attribute": "intelligent",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "GROWING STARS",
+    "idol": "Pierre",
+    "rarity": "R",
+    "attribute": "mental",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "GROWING STARS",
+    "idol": "Minori Watanabe",
+    "rarity": "R",
+    "attribute": "physical",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+    {
+    "name": "GROWING STARS",
+    "idol": "Yusuke Aoi",
+    "rarity": "R",
+    "attribute": "mental",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "GROWING STARS",
+    "idol": "Kyosuke Aoi",
+    "rarity": "R",
+    "attribute": "intelligent",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "GROWING STARS",
+    "idol": "Hideo Akuno",
+    "rarity": "R",
+    "attribute": "intelligent",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "GROWING STARS",
+    "idol": "Ryu Kimura",
+    "rarity": "R",
+    "attribute": "physical",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "GROWING STARS",
+    "idol": "Seiji Shingen",
+    "rarity": "R",
+    "attribute": "mental",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "GROWING STARS",
+    "idol": "Shoma Hanamura",
+    "rarity": "R",
+    "attribute": "mental",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "GROWING STARS",
+    "idol": "Kirio Nekoyanagi",
+    "rarity": "R",
+    "attribute": "intelligent",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "GROWING STARS",
+    "idol": "Kuro Kiyosumi",
+    "rarity": "R",
+    "attribute": "mental",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "GROWING STARS",
+    "idol": "Shiki Iseya",
+    "rarity": "R",
+    "attribute": "physical",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "GROWING STARS",
+    "idol": "Hayato Akiyama",
+    "rarity": "R",
+    "attribute": "physical",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "GROWING STARS",
+    "idol": "Jun Fuyumi",
+    "rarity": "R",
+    "attribute": "intelligent",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "GROWING STARS",
+    "idol": "Natsuki Sakaki",
+    "rarity": "R",
+    "attribute": "intelligent",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "GROWING STARS",
+    "idol": "Haruna Wakazato",
+    "rarity": "R",
+    "attribute": "mental",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "GROWING STARS",
+    "idol": "Suzaku Akai",
+    "rarity": "R",
+    "attribute": "physical",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "GROWING STARS",
+    "idol": "Genbu Kurono",
+    "rarity": "R",
+    "attribute": "intelligent",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "GROWING STARS",
+    "idol": "Yukihiro Kamiya",
+    "rarity": "R",
+    "attribute": "mental",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "GROWING STARS",
+    "idol": "Soichiro Sononome",
+    "rarity": "R",
+    "attribute": "intelligent",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "GROWING STARS",
+    "idol": "Asselin BB II",
+    "rarity": "R",
+    "attribute": "physical",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "GROWING STARS",
+    "idol": "Makio Uzuki",
+    "rarity": "R",
+    "attribute": "mental",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "GROWING STARS",
+    "idol": "Saki Mizushima",
+    "rarity": "R",
+    "attribute": "physical",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "GROWING STARS",
+    "idol": "Nao Okamura",
+    "rarity": "R",
+    "attribute": "intelligent",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "GROWING STARS",
+    "idol": "Shiro Tachibana",
+    "rarity": "R",
+    "attribute": "physical",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "GROWING STARS",
+    "idol": "Kanon Himeno",
+    "rarity": "R",
+    "attribute": "mental",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "GROWING STARS",
+    "idol": "Michio Hazama",
+    "rarity": "R",
+    "attribute": "intelligent",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "GROWING STARS",
+    "idol": "Rui Maita",
+    "rarity": "R",
+    "attribute": "mental",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "GROWING STARS",
+    "idol": "Jiro Yamashita",
+    "rarity": "R",
+    "attribute": "intelligent",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "GROWING STARS",
+    "idol": "Takeru Taiga",
+    "rarity": "R",
+    "attribute": "physical",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "GROWING STARS",
+    "idol": "Ren Kizaki",
+    "rarity": "R",
+    "attribute": "physical",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "GROWING STARS",
+    "idol": "Michiru Enjoji",
+    "rarity": "R",
+    "attribute": "physical",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "GROWING STARS",
+    "idol": "Ryo Akizuki",
+    "rarity": "R",
+    "attribute": "mental",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "GROWING STARS",
+    "idol": "Kazuki Tsukumo",
+    "rarity": "R",
+    "attribute": "intelligent",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "GROWING STARS",
+    "idol": "Daigo Kabuto",
+    "rarity": "R",
+    "attribute": "physical",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "GROWING STARS",
+    "idol": "Amehiko Kuzunoha",
+    "rarity": "R",
+    "attribute": "intelligent",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "GROWING STARS",
+    "idol": "Sora Kitamura",
+    "rarity": "R",
+    "attribute": "mental",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "GROWING STARS",
+    "idol": "Chris Koron",
+    "rarity": "R",
+    "attribute": "intelligent",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "GROWING STARS",
+    "idol": "Shu Amamine",
+    "rarity": "R",
+    "attribute": "intelligent",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "GROWING STARS",
+    "idol": "Momohito Hanazono",
+    "rarity": "R",
+    "attribute": "mental",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "GROWING STARS",
+    "idol": "Eishin Mayumi",
+    "rarity": "R",
+    "attribute": "physical",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+
+  {
+    "name": "",
+    "idol": "",
+    "rarity": "SR",
+    "attribute": "",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "",
+    "idol": "",
+    "rarity": "SR",
+    "attribute": "",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "",
+    "idol": "",
+    "rarity": "SR",
+    "attribute": "",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+
+
+
+  {
     "name": "Beyond the Reflection in My Eyes",
     "idol": "Touma Amagase",
     "rarity": "SSR",
