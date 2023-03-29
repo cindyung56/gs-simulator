@@ -46,7 +46,7 @@
   },
   {
     "name": "GROWING STARS",
-    "idol": "Tsubasa",
+    "idol": "Tsubasa Kashiwagi",
     "rarity": "R",
     "attribute": "mental",
     "unawakened": "",
@@ -442,33 +442,446 @@
   },
 
   {
-    "name": "",
-    "idol": "",
+    "name": "Going Up Straight Ahead",
+    "idol": "Touma Amagase",
     "rarity": "SR",
-    "attribute": "",
+    "attribute": "physical",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "Infinite Abilities",
+    "idol": "Shouta Mitarai",
+    "rarity": "SR",
+    "attribute": "mental",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "Where My Heart Wishes to Go",
+    "idol": "Hokuto Ijuuin",
+    "rarity": "SR",
+    "attribute": "intelligent",
     "unawakened": "",
     "awakened": "",
     "limited": false
   },
   {
     "name": "",
-    "idol": "",
+    "idol": "Teru Tendo",
     "rarity": "SR",
-    "attribute": "",
+    "attribute": "physical",
     "unawakened": "",
     "awakened": "",
     "limited": false
   },
   {
     "name": "",
-    "idol": "",
+    "idol": "Kaoru Sakuraba",
     "rarity": "SR",
-    "attribute": "",
+    "attribute": "intelligent",
     "unawakened": "",
     "awakened": "",
     "limited": false
   },
-
+  {
+    "name": "",
+    "idol": "Tsubasa Kashiwagi",
+    "rarity": "SR",
+    "attribute": "mental",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "",
+    "idol": "Rei Kagura",
+    "rarity": "SR",
+    "attribute": "intelligent",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+    {
+    "name": "",
+    "idol": "Kei Tsuzuki",
+    "rarity": "SR",
+    "attribute": "mental",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+    {
+    "name": "",
+    "idol": "Kyoji Takajo",
+    "rarity": "SR",
+    "attribute": "intelligent",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+    {
+    "name": "",
+    "idol": "Pierre",
+    "rarity": "SR",
+    "attribute": "mental",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+    {
+    "name": "",
+    "idol": "Minori Watanabe",
+    "rarity": "SR",
+    "attribute": "physical",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "",
+    "idol": "Hideo Akuno",
+    "rarity": "SR",
+    "attribute": "intelligent",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "",
+    "idol": "Ryu Kimura",
+    "rarity": "SR",
+    "attribute": "physical",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "",
+    "idol": "Seiji Shingen",
+    "rarity": "SR",
+    "attribute": "mental",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "",
+    "idol": "Yusuke Aoi",
+    "rarity": "SR",
+    "attribute": "mental",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "",
+    "idol": "Kyosuke Aoi",
+    "rarity": "SR",
+    "attribute": "intelligent",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "",
+    "idol": "Shoma Hanamura",
+    "rarity": "SR",
+    "attribute": "mental",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "",
+    "idol": "Kirio Nekoyanagi",
+    "rarity": "SR",
+    "attribute": "intelligent",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "",
+    "idol": "Kuro Kiyosumi",
+    "rarity": "SR",
+    "attribute": "mental",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "",
+    "idol": "Shiki Iseya",
+    "rarity": "SR",
+    "attribute": "physical",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "",
+    "idol": "Hayato Akiyama",
+    "rarity": "SR",
+    "attribute": "physical",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "",
+    "idol": "Jun Fuyumi",
+    "rarity": "SR",
+    "attribute": "intelligent",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "",
+    "idol": "Natsuki Sakaki",
+    "rarity": "SR",
+    "attribute": "intelligent",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "",
+    "idol": "Haruna Wakazato",
+    "rarity": "SR",
+    "attribute": "mental",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "",
+    "idol": "Suzaku Akai",
+    "rarity": "SR",
+    "attribute": "physical",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "",
+    "idol": "Genbu Kurono",
+    "rarity": "SR",
+    "attribute": "intelligent",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "",
+    "idol": "Yukihiro Kamiya",
+    "rarity": "SR",
+    "attribute": "mental",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "",
+    "idol": "Soichiro Sononome",
+    "rarity": "SR",
+    "attribute": "intelligent",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "",
+    "idol": "Asselin BB II",
+    "rarity": "SR",
+    "attribute": "physical",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "",
+    "idol": "Makio Uzuki",
+    "rarity": "SR",
+    "attribute": "mental",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "",
+    "idol": "Saki Mizushima",
+    "rarity": "SR",
+    "attribute": "physical",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "",
+    "idol": "Nao Okamura",
+    "rarity": "SR",
+    "attribute": "intelligent",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "",
+    "idol": "Shiro Tachibana",
+    "rarity": "SR",
+    "attribute": "physical",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "",
+    "idol": "Kanon Himeno",
+    "rarity": "SR",
+    "attribute": "mental",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "",
+    "idol": "Michio Hazama",
+    "rarity": "SR",
+    "attribute": "intelligent",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "",
+    "idol": "Rui Maita",
+    "rarity": "SR",
+    "attribute": "mental",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "",
+    "idol": "Jiro Yamashita",
+    "rarity": "SR",
+    "attribute": "intelligent",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "",
+    "idol": "Takeru Taiga",
+    "rarity": "SR",
+    "attribute": "physical",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "",
+    "idol": "Ren Kizaki",
+    "rarity": "SR",
+    "attribute": "physical",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "",
+    "idol": "Michiru Enjoji",
+    "rarity": "SR",
+    "attribute": "physical",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "",
+    "idol": "Ryo Akizuki",
+    "rarity": "SR",
+    "attribute": "mental",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "",
+    "idol": "Kazuki Tsukumo",
+    "rarity": "SR",
+    "attribute": "intelligent",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "",
+    "idol": "Daigo Kabuto",
+    "rarity": "SR",
+    "attribute": "physical",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "",
+    "idol": "Amehiko Kuzunoha",
+    "rarity": "SR",
+    "attribute": "intelligent",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "",
+    "idol": "Sora Kitamura",
+    "rarity": "SR",
+    "attribute": "mental",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "",
+    "idol": "Chris Koron",
+    "rarity": "SR",
+    "attribute": "intelligent",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "",
+    "idol": "Shu Amamine",
+    "rarity": "SR",
+    "attribute": "intelligent",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "",
+    "idol": "Momohito Hanazono",
+    "rarity": "SR",
+    "attribute": "mental",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "",
+    "idol": "Eishin Mayumi",
+    "rarity": "SR",
+    "attribute": "physical",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
 
 
   {
@@ -488,5 +901,320 @@
     "unawakened": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzIzNzlcL2VudHJ5XC8wbXJNVTc1aS5wbmciLCJlZGl0cyI6eyJ0b0Zvcm1hdCI6IndlYnAifX0=",
     "awakened": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzIzNzlcL2VudHJ5XC9taGJWdzN4TS5wbmciLCJlZGl0cyI6eyJ0b0Zvcm1hdCI6IndlYnAifX0=",
     "limited": false
+  },
+  {
+    "name": "",
+    "idol": "Hideo Akuno",
+    "rarity": "SSR",
+    "attribute": "intelligent",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "",
+    "idol": "Yukihiro Kamiya",
+    "rarity": "SSR",
+    "attribute": "mental",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "",
+    "idol": "Ryo Akizuki",
+    "rarity": "SSR",
+    "attribute": "mental",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "",
+    "idol": "Shu Amamine",
+    "rarity": "SSR",
+    "attribute": "intelligent",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+
+  {
+    "name": "",
+    "idol": "Shiki Iseya",
+    "rarity": "SSR",
+    "attribute": "physical",
+    "unawakened": "",
+    "awakened": "",
+    "limited": true
+  },
+  {
+    "name": "",
+    "idol": "Amehiko Kuzunoha",
+    "rarity": "SSR",
+    "attribute": "intelligent",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "",
+    "idol": "Kei Tsuzuki",
+    "rarity": "SR",
+    "attribute": "mental",
+    "unawakened": "",
+    "awakened": "",
+    "limited": true
+  },
+  {
+    "name": "",
+    "idol": "Suzaku Akai",
+    "rarity": "R",
+    "attribute": "physical",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+
+  {
+    "name": "",
+    "idol": "Jiro Yamashita",
+    "rarity": "SSR",
+    "attribute": "intelligent",
+    "unawakened": "",
+    "awakened": "",
+    "limited": true
+  },
+  {
+    "name": "",
+    "idol": "Shoma Hanamura",
+    "rarity": "SSR",
+    "attribute": "mental",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "",
+    "idol": "Saki Mizushima",
+    "rarity": "SR",
+    "attribute": "physical",
+    "unawakened": "",
+    "awakened": "",
+    "limited": true
+  },
+  {
+    "name": "",
+    "idol": "Kazuki Tsukumo",
+    "rarity": "R",
+    "attribute": "intelligent",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+
+  {
+    "name": "",
+    "idol": "Daigo Kabuto",
+    "rarity": "SSR",
+    "attribute": "physical",
+    "unawakened": "",
+    "awakened": "",
+    "limited": true
+  },
+  {
+    "name": "",
+    "idol": "Rei Kagura",
+    "rarity": "SSR",
+    "attribute": "intelligent",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "",
+    "idol": "Momohito Hanazono",
+    "rarity": "SR",
+    "attribute": "mental",
+    "unawakened": "",
+    "awakened": "",
+    "limited": true
+  },
+  {
+    "name": "",
+    "idol": "Kirio Nekoyanagi",
+    "rarity": "R",
+    "attribute": "intelligent",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+
+  {
+    "name": "",
+    "idol": "Eishin Mayumi",
+    "rarity": "SSR",
+    "attribute": "physical",
+    "unawakened": "",
+    "awakened": "",
+    "limited": true
+  },
+  {
+    "name": "",
+    "idol": "Kaoru Sakuraba",
+    "rarity": "SSR",
+    "attribute": "intelligent",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "Resonance Waltz",
+    "idol": "Hokuto Ijuuin",
+    "rarity": "SR",
+    "attribute": "intelligent",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+
+  {
+    "name": "",
+    "idol": "Kuro Kiyosumi",
+    "rarity": "SSR",
+    "attribute": "mental",
+    "unawakened": "",
+    "awakened": "",
+    "limited": true
+  },
+  {
+    "name": "",
+    "idol": "Ryu Kimura",
+    "rarity": "SSR",
+    "attribute": "physical",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "",
+    "idol": "Nao Okamura",
+    "rarity": "SR",
+    "attribute": "intelligent",
+    "unawakened": "",
+    "awakened": "",
+    "limited": true
+  },
+  {
+    "name": "",
+    "idol": "Ryo Akizuki",
+    "rarity": "R",
+    "attribute": "mental",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+
+  {
+    "name": "",
+    "idol": "Pierre",
+    "rarity": "SSR",
+    "attribute": "mental",
+    "unawakened": "",
+    "awakened": "",
+    "limited": true
+  },
+  {
+    "name": "",
+    "idol": "Hayato Akiyama",
+    "rarity": "SSR",
+    "attribute": "physical",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "",
+    "idol": "Shu Amamine",
+    "rarity": "SR",
+    "attribute": "intelligent",
+    "unawakened": "",
+    "awakened": "",
+    "limited": true
+  },
+  {
+    "name": "Snowflake Steps",
+    "idol": "Touma Amagase",
+    "rarity": "R",
+    "attribute": "physical",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+
+  {
+    "name": "",
+    "idol": "Kyosuke Aoi",
+    "rarity": "SSR",
+    "attribute": "intelligent",
+    "unawakened": "",
+    "awakened": "",
+    "limited": true
+  },
+  {
+    "name": "",
+    "idol": "Kei Tsuzuki",
+    "rarity": "SSR",
+    "attribute": "mental",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "",
+    "idol": "Suzaku Akai",
+    "rarity": "SR",
+    "attribute": "physical",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+
+  {
+    "name": "",
+    "idol": "Takeru Taiga",
+    "rarity": "SSR",
+    "attribute": "physical",
+    "unawakened": "",
+    "awakened": "",
+    "limited": true
+  },
+  {
+    "name": "",
+    "idol": "Kirio Nekoyanagi",
+    "rarity": "SSR",
+    "attribute": "intelligent",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
+  },
+  {
+    "name": "",
+    "idol": "Ryu Kimura",
+    "rarity": "SR",
+    "attribute": "physical",
+    "unawakened": "",
+    "awakened": "",
+    "limited": true
+  },
+  {
+    "name": "",
+    "idol": "Shiro Tachibana",
+    "rarity": "R",
+    "attribute": "physical",
+    "unawakened": "",
+    "awakened": "",
+    "limited": false
   }
+
 ]

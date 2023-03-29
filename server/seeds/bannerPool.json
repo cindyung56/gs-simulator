@@ -1,5 +1,4 @@
 [
-    {"banner_id": 1,
-    "cards": []
-    }
+  { "bannerId": 1, "rateUp": [105, 106, 107, 108] },
+  { "bannerId": 2, "rateUp": [109, 110, 111, 112] }
 ]
