@@ -18,7 +18,19 @@ function App() {
       let b = newData;
       for (let i = 0; i < b.length; i++) {
         b[i].backgroundImages = b[i].backgroundImages.split(";");
+        b[i].featured = b[i].featured.split(";");
+
+        // if (b[i].featured) {
+        //   var new_featured = [];
+        //   for (let j = 0; i < b[i].featured.length; j++) {
+        //     new_featured.push(parseInt(b[i].featured[j]));
+        //   }
+
+        //   b[i].featured = new_featured;
+        // }
+
       }
+      console.log(b);
       setBannerL(b);
       setLoading(false);
     };
@@ -26,8 +38,6 @@ function App() {
     fetchData();
   }, []);
 
-
-  
   // render
   if (loading) {
     return <div>"loading..."</div>;
