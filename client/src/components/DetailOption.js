@@ -92,7 +92,12 @@ export default function Details(props) {
                 </li>
                 <li>
                   Card & Banner Translations:{" "}
-                  <a href="https://twitter.com/SideM_Eng">SideM ENG Twitter</a>
+                  <a href="https://twitter.com/SideM_Eng">SideM ENG Twitter</a>{" "}
+                  &{" "}
+                  <a href="https://project-imas.wiki/THE_iDOLM@STER_SideM_GROWING_STARS">
+                    project-imas wiki
+                  </a>
+                  (with a few stylistic edits based on context)
                 </li>
               </ul>
             </p>
