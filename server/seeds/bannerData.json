@@ -13,7 +13,7 @@
     "name": "GROWING TWILIGHT LIVE Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8CGROWING%20TWILIGHT%20LIVE%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=294a0a34a722cdded30555cb0b17e381&t=20211023225728",
     "backgroundImages": [
-      "https://project-imas.wiki/images/c/c7/Jiro_GS_SSR1%2B.jpg",
+      "./images/background-images/JiroSSR1.png",
       "https://project-imas.wiki/images/e/e7/Shoma_GS_SSR1%2B.jpg"
     ],
     "featured": [],
@@ -546,8 +546,8 @@
     "name": "Full Stomach and Full Heart Festival Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8C%E3%81%8A%E8%85%B9%E3%82%82%E3%82%B3%E3%82%B3%E3%83%AD%E3%82%82%E3%81%BE%E3%82%93%E3%81%B7%E3%81%8F%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=f5c68aa46694a97aa29b6efa336ce854&t=20230311162920",
     "backgroundImages": [
-      "https://project-imas.wiki/images/5/5a/Jiro_GS_SSR3%2B.jpg",
-      "https://project-imas.wiki/images/4/4a/Asselin_GS_SSR3%2B.jpg"
+      "https://project-imas.wiki/images/d/d0/Jiro_GS_SSR3%2B.png",
+      "https://project-imas.wiki/images/0/01/Asselin_GS_SSR3%2B.png"
     ],
     "featured": [],
     "sparkCounter": 0
