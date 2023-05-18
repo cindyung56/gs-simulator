@@ -17,7 +17,18 @@ function App() {
       const newData = await response.json();
       let b = newData;
       for (let i = 0; i < b.length; i++) {
+        // if (b[i].name == "GROWING TWILIGHT LIVE GACHA"){
+        //   const bgArraySplit = b[i].backgroundImages.split(';');
+        //   console.log(bgArraySplit);
+        //   const backgroundImagesArray = [];
+        //   for (let j = 0; j < bgArraySplit.length; j++){
+        //     backgroundImagesArray.push(require(bgArraySplit[j]));
+        //   }
+        //   b[i].backgroundImages = backgroundImagesArray;
+        // }
+        
         b[i].backgroundImages = b[i].backgroundImages.split(";");
+        
         b[i].featured = b[i].featured.split(";");
 
         // if (b[i].featured) {
