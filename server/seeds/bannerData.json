@@ -3,498 +3,498 @@
     "name": "WELCOME SUNLIGHT LIVE Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8CWELCOME%20SUNLIGHT%20LIVE%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=41fc28bf020ce0d5308c7a476536f1fb&t=20211017232744",
     "backgroundImages": [
-      "https://project-imas.wiki/images/5/54/Shiki_GS_SSR1%2B.jpg",
-      "https://project-imas.wiki/images/c/cf/Amehiko_GS_SSR1%2B.jpg"
+      "../images/background-images/ShikiSSR1.png",
+      "../images/background-images/AmehikoSSR1.png"
     ],
-    "sparkCounter": 0
+    "featured": [105, 106, 107, 108]
   },
   {
     "name": "GROWING TWILIGHT LIVE Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8CGROWING%20TWILIGHT%20LIVE%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=294a0a34a722cdded30555cb0b17e381&t=20211023225728",
     "backgroundImages": [
-      "https://project-imas.wiki/images/c/c7/Jiro_GS_SSR1%2B.jpg",
-      "https://project-imas.wiki/images/e/e7/Shoma_GS_SSR1%2B.jpg"
+      "../images/background-images/JiroSSR1.png",
+      "../images/background-images/ShomaSSR1.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "Fireworks Illuminating the Night Sky Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8C%E5%A4%9C%E7%A9%BA%E3%81%8D%E3%82%89%E3%82%81%E3%81%8F%E8%8A%B1%E7%81%ABLive%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/bannar.jpg.webp?rev=f953a5c1b0796aa783b69c8cfd30e081&t=20211101210124",
     "backgroundImages": [
-      "https://project-imas.wiki/images/5/50/Daigo_GS_SSR1%2B.jpg",
-      "https://project-imas.wiki/images/5/54/Rei_GS_SSR1%2B.jpg"
+      "../images/background-images/DaigoSSR1.png",
+      "../images/background-images/ReiSSR1.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "Phantom Masquerade Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8C%E5%B9%BB%E5%BD%B1%E3%81%AEMasquerade%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=5e4aabdd998ee13580d6db290fd56d8b&t=20211112225550",
     "backgroundImages": [
-      "https://project-imas.wiki/images/3/3d/Eishin_GS_SSR1%2B.png",
-      "https://project-imas.wiki/images/a/a9/Kaoru_GS_SSR1%2B.jpg"
+      "../images/background-images/EishinSSR1.png",
+      "../images/background-images/KaoruSSR1.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "Exquisite Autumn Art Festival Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8C%E9%8C%A6%E7%A7%8B%E3%81%AE%E3%82%A2%E3%83%BC%E3%83%88%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=7d462008d6a88281c3ca4906a8a47d30&t=20211120165729",
     "backgroundImages": [
-      "https://project-imas.wiki/images/0/0f/Kuro_GS_SSR1%2B.jpg",
-      "https://project-imas.wiki/images/8/89/Ryu_GS_SSR1%2B.jpg"
+      "../images/background-images/KuroSSR1.png",
+      "../images/background-images/RyuSSR1.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "Twilight Snow-Piled World Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8C%E9%9B%AA%E7%A9%8D%E3%82%82%E3%82%8B%20%E5%A4%95%E6%9A%AE%E3%82%8C%E3%81%AE%E9%8A%80%E4%B8%96%E7%95%8C%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=e6863edd513fa7c6f3321583c42f107e&t=20211130154911",
     "backgroundImages": [
-      "https://project-imas.wiki/images/6/65/Pierre_GS_SSR1%2B.jpg",
-      "https://project-imas.wiki/images/0/0b/Hayato_GS_SSR1%2B.jpg"
+      "../images/background-images/PierreSSR1.png",
+      "../images/background-images/HayatoSSR1.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "Gift For You on A Holy Night Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8C%E8%81%96%E3%81%AA%E3%82%8B%E5%A4%9C%E3%81%AB%E3%82%AE%E3%83%95%E3%83%88%E3%83%BB%E3%83%95%E3%82%A9%E3%83%BC%E3%83%BB%E3%83%A6%E3%83%BC%EF%BC%81%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=d7c1c51816076396ce4ca55b342c10dd&t=20211211153306",
     "backgroundImages": [
-      "https://project-imas.wiki/images/d/d1/Kyosuke_GS_SSR1%2B.jpg",
-      "https://project-imas.wiki/images/6/60/Kei_GS_SSR1%2B.jpg"
+      "../images/background-images/KyosukeSSR1.png",
+      "../images/background-images/KeiSSR1.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "Year End Special: Best Music TV Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8C%E5%B9%B4%E6%9C%AB%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%ABBest%20MusicTV%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=9c58c062617b04cfe5727927d2aaba1f&t=20211219153118",
     "backgroundImages": [
-      "https://project-imas.wiki/images/8/88/Takeru_GS_SSR1%2B.jpg",
-      "https://project-imas.wiki/images/2/26/Kirio_GS_SSR1%2B.jpg"
+      "../images/background-images/TakeruSSR1.png",
+      "../images/background-images/KirioSSR1.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "New Year's Salutations: New Year Live Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8C%E8%BF%8E%E6%98%A5%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A4%E3%83%A4%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%96%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=706a8e4a359de2b68e50871781191779&t=20211231163433",
     "backgroundImages": [
-      "https://project-imas.wiki/images/2/24/Michio_GS_SSR1%2B.jpg",
-      "https://project-imas.wiki/images/b/b5/Seiji_GS_SSR1%2B.jpg"
+      "../images/background-images/MichioSSR1.png",
+      "../images/background-images/SeijiSSR1.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "Dauntless Steam Battlers Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8C%E4%B8%8D%E6%92%93%E4%B8%8D%E5%B1%88%E3%81%AE%E3%82%B9%E3%83%81%E3%83%BC%E3%83%A0%E3%83%BB%E3%83%90%E3%83%88%E3%83%A9%E3%83%BC%E3%82%BA%EF%BC%81%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=b9a07140633c0474997c195bbd0ffcb3&t=20220111155045",
     "backgroundImages": [
-      "https://project-imas.wiki/images/5/5f/Suzaku_GS_SSR1%2B.jpg",
-      "https://project-imas.wiki/images/b/bf/Nao_GS_SSR1%2B.jpg"
+      "../images/background-images/SuzakuSSR1.png",
+      "../images/background-images/NaoSSR1.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "Pop Off! Snacks-A-Plenty Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8C%E5%BC%BE%E3%81%91%E3%82%8D%EF%BC%81%E3%82%B9%E3%83%8A%E3%83%83%E3%82%AF%E5%B1%B1%E7%9B%9B%E3%82%8ALIVE%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=72e2fc5f3af5dcb6aba5925b7d2b9216&t=20220119160043",
     "backgroundImages": [
-      "https://project-imas.wiki/images/d/dc/Haruna_GS_SSR1%2B.jpg",
-      "https://project-imas.wiki/images/4/4c/Shiro_GS_SSR1%2B.jpg"
+      "../images/background-images/HarunaSSR1.png",
+      "../images/background-images/ShiroSSR1.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "Welcome to the Abode of Demons! Setsubun Festival Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8C%E9%AC%BC%E3%81%AE%E4%BD%8F%E5%87%A6%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A7%E3%81%BE%E3%81%9B%EF%BC%81%E7%AF%80%E5%88%86%E7%A5%AD%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=e9596212a3dbea696560aa275d0cf682&t=20220131152732",
     "backgroundImages": [
-      "https://project-imas.wiki/images/f/f5/Saki_GS_SSR1%2B.jpg",
-      "https://project-imas.wiki/images/7/71/Chris_GS_SSR1%2B.jpg"
+      "../images/background-images/SakiSSR1.png",
+      "../images/background-images/ChrisSSR1.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "Chocolate Night ~Beware the Chocolate Thieves~ Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8CChocolate%20Night%EF%BD%9E%E3%83%81%E3%83%A7%E3%82%B3%E6%80%AA%E7%9B%97%E3%81%AB%E3%81%94%E7%94%A8%E5%BF%83%EF%BC%81%EF%BD%9E%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=25b9752d4355e84e738d8fa9293140a4&t=20220210153501",
     "backgroundImages": [
-      "https://project-imas.wiki/images/d/db/Kanon_GS_SSR1%2B.jpg",
-      "https://project-imas.wiki/images/f/fb/Ren_GS_SSR1%2B.jpg"
+      "../images/background-images/KanonSSR1.png",
+      "../images/background-images/RenSSR1.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "Dark Ebony Wonderland Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8C%E6%BC%86%E9%BB%92%E3%81%AEWonderland%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=0d96b47fa3efd38488b5cec6e630dee2&t=20220218151835",
     "backgroundImages": [
-      "https://project-imas.wiki/images/7/76/Natsuki_GS_SSR1%2B.jpg",
-      "https://project-imas.wiki/images/8/82/Yusuke_GS_SSR1%2B.jpg"
+      "../images/background-images/NatsukiSSR1.png",
+      "../images/background-images/YusukeSSR1.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "Enjoy Fresh from the Oven! Apple Pie Fair Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8C%E7%84%BC%E3%81%8D%E3%81%9F%E3%81%A6%E3%82%92%E5%8F%AC%E3%81%97%E4%B8%8A%E3%81%8C%E3%82%8C%EF%BC%81%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB%E3%83%91%E3%82%A4%E3%83%95%E3%82%A7%E3%82%A2%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=1f8dc7e7d989f14edc4926e51e434317&t=20220228151940",
     "backgroundImages": [
-      "https://project-imas.wiki/images/b/b2/Momohito_GS_SSR1%2B.jpg",
-      "https://project-imas.wiki/images/b/b5/Kazuki_GS_SSR1%2B.jpg"
+      "../images/background-images/MomohitoSSR1.png",
+      "../images/background-images/KazukiSSR1.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "With Gratitude... Smile Message Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8C%E6%84%9F%E8%AC%9D%E3%82%92%E8%BE%BC%E3%82%81%E3%81%A6%E2%80%A6%E7%AC%91%E9%A1%94%E3%81%AEMessage%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=4a736bbab17091d299ed0c59a9f94c80&t=20220311151439",
     "backgroundImages": [
-      "https://project-imas.wiki/images/2/26/Genbu_GS_SSR1%2B.jpg",
-      "https://project-imas.wiki/images/0/0e/Shouta_GS_SSR1%2B.jpg"
+      "../images/background-images/GenbuSSR1.png",
+      "../images/background-images/ShoutaSSR1.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "Blow the Cold Away! Winter Sports Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8C%E5%AF%92%E3%81%95%E5%90%B9%E3%81%8D%E9%A3%9B%E3%81%B0%E3%81%99%E3%82%A6%E3%82%A3%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=8dddda0213b62b7520dc6d1b074320e8&t=20220319161354",
     "backgroundImages": [
-      "https://project-imas.wiki/images/9/96/Tsubasa_GS_SSR1%2B.jpg",
-      "https://project-imas.wiki/images/7/73/Minori_GS_SSR1%2B.jpg"
+      "../images/background-images/TsubasaSSR1.png",
+      "../images/background-images/MinoriSSR1.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "Hot Springs Dyed in Scarlet - Onsen Inn Story Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8C%E6%9C%B1%E3%81%8F%E6%9F%93%E3%81%BE%E3%82%8B%E6%B9%AF%E3%81%AE%E8%A1%97%20%E6%B8%A9%E6%B3%89%E6%97%85%E9%A4%A8%E7%89%A9%E8%AA%9E%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=570065f8b87b8f459484e64716a7f83d&t=20220331153059",
     "backgroundImages": [
-      "https://project-imas.wiki/images/9/9f/Michiru_GS_SSR1%2B.jpg",
-      "https://project-imas.wiki/images/b/b2/Hokuto_GS_SSR1%2B.jpg"
+      "../images/background-images/MichiruSSR1.png",
+      "../images/background-images/HokutoSSR1.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "Museum Where Stars Rain Down Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8C%E6%98%9F%E3%81%8C%E9%99%8D%E3%82%8A%E6%B3%A8%E3%81%90%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=6100d9bd154194cada024be1eb63e7b2&t=20220411181633",
     "backgroundImages": [
-      "https://project-imas.wiki/images/7/71/Rui_GS_SSR1%2B.jpg",
-      "https://project-imas.wiki/images/f/f3/Asselin_GS_SSR1%2B.jpg"
+      "../images/background-images/RuiSSR1.png",
+      "../images/background-images/AsselinSSR1.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "Excitement! The Great Idol Athletic Meet Live Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8C%E7%86%B1%E7%8B%82%EF%BC%81%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E5%A4%A7%E9%81%8B%E5%8B%95%E4%BC%9A%E3%83%A9%E3%82%A4%E3%83%96%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=a26f0c3d59b7f79843761fe999cad40c&t=20220419164114",
     "backgroundImages": [
-      "https://project-imas.wiki/images/1/17/Kyoji_GS_SSR1%2B.jpg",
-      "https://project-imas.wiki/images/6/6b/Makio_GS_SSR1%2B.jpg"
+      "../images/background-images/KyojiSSR1.png",
+      "../images/background-images/MakioSSR1.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "Plenty of Whipped Cream! Sweets Party Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8C%E3%83%9B%E3%82%A4%E3%83%83%E3%83%97%E3%81%9F%E3%81%A3%E3%81%B7%E3%82%8A%EF%BC%81%E3%82%B9%E3%82%A4%E3%83%BC%E3%83%84%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=f0cf0e41114ae3f2a769bde56b8676be&t=20220430183307",
     "backgroundImages": [
-      "https://project-imas.wiki/images/1/1a/Sora_GS_SSR1%2B.jpg",
-      "https://project-imas.wiki/images/c/c3/Daigo_GS_SSR2%2B.jpg"
+      "../images/background-images/SoraSSR1.png",
+      "../images/background-images/DaigoSSR2.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "Cheer for All! Sunny Day Marching Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8C%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AB%E3%82%A8%E3%83%BC%E3%83%AB%E3%82%92%EF%BC%81%E6%99%B4%E5%A4%A9%E3%81%AE%E3%83%9E%E3%83%BC%E3%83%81%E3%83%B3%E3%82%B0%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=a3737ec8250f0be6f4a204f77193a417&t=20220511153620",
     "backgroundImages": [
-      "https://project-imas.wiki/images/d/dc/Jun_GS_SSR1%2B.jpg",
-      "https://project-imas.wiki/images/f/fc/Kuro_GS_SSR2%2B.jpg"
+      "../images/background-images/JunSSR1.png",
+      "../images/background-images/KuroSSR1.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "Graceful Fashion Show Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8C%E6%B5%81%E9%BA%97%E3%81%AE%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%BC%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=dfc459375e5c8f7cd0a87dd0e963e8be&t=20220519153455",
     "backgroundImages": [
-      "https://project-imas.wiki/images/e/eb/Touma_GS_SSR2%2B.jpg",
-      "https://project-imas.wiki/images/e/e7/Soichiro_GS_SSR1%2B.jpg"
+      "../images/background-images/ToumaSSR2.png",
+      "../images/background-images/SoichiroSSR1.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "Rain Sounds That Make the Heart Dance ♪ Enjoy the Rainy Season Campaign Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8C%E5%BF%83%E8%BA%8D%E3%82%8B%E9%9B%A8%E9%9F%B3%E2%99%AA%E6%A2%85%E9%9B%A8%E3%82%92%E6%A5%BD%E3%81%97%E3%82%80%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%B3%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=350a9cecb9a7e60e40747c39a1cb8ed7&t=20220531162046",
     "backgroundImages": [
-      "https://project-imas.wiki/images/2/21/Kirio_GS_SSR2%2B.jpg",
-      "https://project-imas.wiki/images/0/01/Teru_GS_SSR2%2B.jpg"
+      "../images/background-images/KirioSSR2.png",
+      "../images/background-images/TeruSSR2.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "Blessed Flowers Dance! Blue Sky Wedding Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8C%E7%A5%9D%E7%A6%8F%E3%81%AE%E8%8A%B1%E3%81%8C%E8%88%9E%E3%81%86%20Blue%20Sky%20Wedding%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=bcd55c8b7919627f9ff0be4cc270bb0d&t=20220611153432",
     "backgroundImages": [
-      "https://project-imas.wiki/images/7/7b/Yukihiro_GS_SSR2%2B.jpg",
-      "https://project-imas.wiki/images/b/b5/Kanon_GS_SSR2%2B.jpg"
+      "../images/background-images/KamiyaSSR2.png",
+      "../images/background-images/KanonSSR2.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "Candle Night That Paints the Summer Night Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8C%E5%A4%8F%E3%81%AE%E5%A4%9C%E3%82%92%E5%BD%A9%E3%82%8B%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AB%E3%83%8A%E3%82%A4%E3%83%88%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=5628cdc588b73059a9d7a5c266903ffb&t=20220619160925",
     "backgroundImages": [
-      "https://project-imas.wiki/images/1/10/Ren_GS_SSR2%2B.jpg",
-      "https://project-imas.wiki/images/9/9b/Michio_GS_SSR2%2B.jpg"
+      "../images/background-images/RenSSR2.png",
+      "../images/background-images/MichioSSR2.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "GROWING FES ~Veiled Night Luminescence~ Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8CGROWING%20FES%20-%E5%A4%9C%E9%99%B0%E3%81%AE%E3%83%AB%E3%83%9F%E3%83%8D%E3%82%BB%E3%83%B3%E3%82%B9-%E3%80%8D/::ref/banner.png.webp?rev=b7390cb31f560568b439fb399eb1d4af&t=20220629184004",
     "backgroundImages": [
-      "https://project-imas.wiki/images/7/76/Shu_GS_SSR2.jpg",
-      "https://project-imas.wiki/images/6/69/Momohito_GS_SSR2.jpg",
-      "https://project-imas.wiki/images/3/32/Eishin_GS_SSR2.jpg"
+      "../images/background-images/ShuSSR2.png",
+      "../images/background-images/MomohitoSSR2.png",
+      "../images/background-images/EishinSSR2.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "Departing With Wishes On Board - Milky Way Train - Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8C%E9%A1%98%E3%81%84%E3%82%92%E4%B9%97%E3%81%9B%E3%81%A6%E5%87%BA%E7%99%BA%E9%80%B2%E8%A1%8C%EF%BC%81%E5%A4%A9%E3%81%AE%E5%B7%9D%E3%83%88%E3%83%AC%E3%82%A4%E3%83%B3%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=56f053d7d363ca92d260217f437ed1ca&t=20220703152821",
     "backgroundImages": [
-      "https://project-imas.wiki/images/6/68/Ryo_GS_SSR2%2BV3.jpg",
-      "https://project-imas.wiki/images/8/84/Natsuki_GS_SSR2%2BV2.jpg"
+      "../images/background-images/RyoSSR2.png",
+      "../images/background-images/NatsukiSSR2.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "Cool and Refreshing Colorful Ice Decoration Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8C%E3%81%B2%E3%82%93%E3%82%84%E3%82%8A%E7%88%BD%E3%82%84%E3%81%8BColorful%20Ice%20Decoration%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=4b434f2df9b39fc9c4295afbe4997607&t=20220711160906",
     "backgroundImages": [
-      "https://project-imas.wiki/images/5/5c/Shiro_GS_SSR2%2B.jpg",
-      "https://project-imas.wiki/images/5/5f/Jiro_GS_SSR2%2B.jpg"
+      "../images/background-images/ShiroSSR2.png",
+      "../images/background-images/JiroSSR2.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "Enjoy Nature! Summer Camp Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8C%E8%87%AA%E7%84%B6%E3%82%92%E6%BA%80%E5%96%AB%EF%BC%81%E3%82%B5%E3%83%9E%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=14b5faa10061541f75d5af60a657b99e&t=20220719171628",
     "backgroundImages": [
-      "https://project-imas.wiki/images/6/60/Rei_GS_SSR2%2B.jpg",
-      "https://project-imas.wiki/images/3/3f/Takeru_GS_SSR2%2B.jpg"
+      "../images/background-images/ReiSSR2.png",
+      "../images/background-images/TakeruSSR2.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "Capturing Summer Moments ~Resort Shot~ Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8C%E5%A4%8F%E3%81%AE%E4%B8%80%E7%9E%AC%E3%82%92%E5%88%87%E3%82%8A%E5%8F%96%E3%82%8B%E3%83%AA%E3%82%BE%E3%83%BC%E3%83%88%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=3bdcea7a0cef06d377d1d810086bff43&t=20220731155340",
     "backgroundImages": [
-      "https://project-imas.wiki/images/4/4a/Asselin_GS_SSR2%2B.jpg",
-      "https://project-imas.wiki/images/2/2f/Suzaku_GS_SSR2%2B.jpg"
+      "../images/background-images/AsselinSSR2.png",
+      "../images/background-images/SuzakuSSR2.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "Blue Balloon Dancing on the Wind Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8C%E9%9D%92%E5%B5%90%E3%81%AB%E8%88%9E%E3%81%86Blue%20Balloon%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=a6097647183304e58ecf6ebafa5811f4&t=20220812131710",
     "backgroundImages": [
-      "https://project-imas.wiki/images/d/d8/Hideo_GS_SSR2%2B.jpg",
-      "https://project-imas.wiki/images/3/32/Michiru_GS_SSR2%2B.jpg"
+      "../images/background-images/HideoSSR2.png",
+      "../images/background-images/MichiruSSR2.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "Terrifying Mansion of Fear ~Haunted Mansion PR~ Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8C%E6%88%A6%E6%85%84%E3%81%99%E3%82%8B%E6%81%90%E6%80%96%E3%81%AE%E9%A4%A8%20%E3%81%8A%E5%8C%96%E3%81%91%E5%B1%8B%E6%95%B7PR%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=c4839746646193300297bc5ab9fafe97&t=20220819164724",
     "backgroundImages": [
-      "https://project-imas.wiki/images/d/d5/Kei_GS_SSR2%2B.jpg",
-      "https://project-imas.wiki/images/9/9b/Kazuki_GS_SSR2%2B.jpg"
+      "../images/background-images/KeiSSR2.png",
+      "../images/background-images/KazukiSSR2.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "Case Files of a City Corner Detective ~The Lurker in the Dark~ Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8C%E8%A1%97%E8%A7%92%E6%8E%A2%E5%81%B5%E3%81%AE%E4%BA%8B%E4%BB%B6%E7%B0%BF%EF%BD%9E%E9%97%87%E3%81%AB%E6%BD%9C%E3%82%80%E6%80%AA%E4%BA%BA%EF%BD%9E%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=f57a1d3f520df1db96bb9a5f1074400e&t=20220831172508",
     "backgroundImages": [
-      "https://project-imas.wiki/images/e/e3/Soichiro_GS_SSR2%2B.jpg",
-      "https://project-imas.wiki/images/a/ae/Sora_GS_SSR2%2B.jpg"
+      "../images/background-images/SoichiroSSR2.png",
+      "../images/background-images/SoraSSR2.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "Bewitching Fashionable Runway Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8C%E9%AD%85%E6%83%91%E3%81%AE%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%96%E3%83%AB%E3%83%A9%E3%83%B3%E3%82%A6%E3%82%A7%E3%82%A4%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=fb2e4ca8daf088212297d67d3dd414ce&t=20220911170402",
     "backgroundImages": [
-      "https://project-imas.wiki/images/b/b2/Yusuke_GS_SSR2%2B.jpg",
-      "https://project-imas.wiki/images/1/15/Tsubasa_GS_SSR2%2B.jpg"
+      "../images/background-images/YusukeSSR2.png",
+      "../images/background-images/TsubasaSSR2.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "Fierce Match! Overline ~Bright Flames That Lead to the Future~ Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8C%E6%BF%80%E9%97%98%EF%BC%81%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%B3-%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F%E5%85%89%E7%82%8E-%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=d7be106e977496a959b217810ae77763&t=20220919155628",
     "backgroundImages": [
-      "https://project-imas.wiki/images/7/78/Ryu_GS_SSR2%2B.jpg",
-      "https://project-imas.wiki/images/f/fe/Pierre_GS_SSR2%2B.jpg"
+      "../images/background-images/RyuSSR2.png",
+      "../images/background-images/PierreSSR2.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "GROWING FES - All Night Astrology - Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8CGROWING%20FES%20-%E7%B5%82%E5%A4%9C%E3%81%AE%E3%82%A2%E3%82%B9%E3%83%88%E3%83%AD%E3%83%AD%E3%82%B8%E3%83%BC-%E3%80%8D/::ref/banner.png.webp?rev=1a22c1775e34ddabcb0a3d294e8881a1&t=20220928175351",
     "backgroundImages": [
-      "https://project-imas.wiki/images/b/ba/Haruna_GS_SSR2.jpg",
-      "https://project-imas.wiki/images/7/76/Ren_GS_SSR3.jpg",
-      "https://project-imas.wiki/images/d/d0/Amehiko_GS_SSR2.jpg"
+      "../images/background-images/HarunaSSR2.png",
+      "../images/background-images/RenSSR3.png",
+      "../images/background-images/AmehikoSSR2.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "Fun With Everybody! 315 Pajama Party Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8C%E3%81%BF%E3%82%93%E3%81%AA%E3%81%A7%E3%82%8F%E3%81%84%E3%82%8F%E3%81%84%EF%BC%81315%E3%83%91%E3%82%B8%E3%83%A3%E3%83%9E%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=1af3f868fa1970b1abd0b3c86c79313a&t=20221003153432",
     "backgroundImages": [
-      "https://project-imas.wiki/images/3/3d/Shouta_GS_SSR2%2B.jpg",
-      "https://project-imas.wiki/images/6/63/Kyosuke_GS_SSR2%2B.jpg"
+      "../images/background-images/ShoutaSSR2.png",
+      "../images/background-images/KyosukeSSR2.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "Sing Together! The Halloween Parade That Paints the Night Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8C%E5%85%B1%E3%81%AB%E6%AD%8C%E3%81%8A%E3%81%86%EF%BC%81%E5%A4%9C%E3%82%92%E5%BD%A9%E3%82%8B%E3%83%8F%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%91%E3%83%AC%E3%83%BC%E3%83%89%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=fa8088f0537f11f40133055cc6bc11ae&t=20221011153226",
     "backgroundImages": [
-      "https://project-imas.wiki/images/9/9f/Minori_GS_SSR2%2B.jpg",
-      "https://project-imas.wiki/images/b/b0/Jun_GS_SSR2%2B.jpg"
+      "../images/background-images/MinoriSSR2.png",
+      "../images/background-images/JunSSR2.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "To An Unknown World ~Mystical Aquarium~ Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8C%E6%9C%AA%E7%9F%A5%E3%81%AA%E3%82%8B%E4%B8%96%E7%95%8C%E3%81%B8%E2%80%A6%20%E7%A5%9E%E7%A7%98%E3%81%AEAquarium%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=4c88c677c74cf052991a0dde5836c6d5&t=20221020160141",
     "backgroundImages": [
-      "https://project-imas.wiki/images/f/f0/Chris_GS_SSR2%2B.jpg",
-      "https://project-imas.wiki/images/5/55/Genbu_GS_SSR2%2B.jpg"
+      "../images/background-images/ChrisSSR2.png",
+      "../images/background-images/GenbuSSR2.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "Aiming to Be Top Butler! Butler Academy Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8C%E6%9C%80%E9%AB%98%E3%81%AE%E5%9F%B7%E4%BA%8B%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%97%E3%81%A6%20%E5%9F%B7%E4%BA%8B%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%BC%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=c60bd77c59334c83ab527abac893b66e&t=20221031153948",
     "backgroundImages": [
-      "https://project-imas.wiki/images/d/d9/Hayato_GS_SSR2%2B.jpg",
-      "https://project-imas.wiki/images/5/57/Kyoji_GS_SSR2%2B.jpg"
+      "../images/background-images/HayatoSSR2.png",
+      "../images/background-images/KyojiSSR2.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "Challengers with Burning Spirit! Hot-Blooded Variety Show",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8C%E9%97%98%E9%AD%82%E7%87%83%E3%81%88%E3%82%8B%E6%8C%91%E6%88%A6%E8%80%85%20%E7%86%B1%E8%A1%80%E3%83%90%E3%83%A9%E3%82%A8%E3%83%86%E3%82%A3%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=6429896720dfe5d69e72e289b1b2d590&t=20221111155223",
     "backgroundImages": [
-      "https://project-imas.wiki/images/b/b3/Kaoru_GS_SSR2%2B.jpg",
-      "https://project-imas.wiki/images/2/20/Saki_GS_SSR2%2B.jpg"
+      "../images/background-images/KaoruSSR2.png",
+      "../images/background-images/SakiSSR2.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "TALK & LIVE ~ One Night Only Diner Show ~ Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8CTALK%EF%BC%86LIVE%20%E4%B8%80%E5%A4%9C%E9%99%90%E3%82%8A%E3%81%AE%E3%83%80%E3%82%A4%E3%83%8A%E3%83%BCSHOW%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=6e4866e8592737fa4b663863c54653a6&t=20221119161115",
     "backgroundImages": [
-      "https://project-imas.wiki/images/c/c7/Shoma_GS_SSR2%2B.jpg",
-      "https://project-imas.wiki/images/1/1c/Shiki_GS_SSR2%2B.jpg"
+      "../images/background-images/ShomaSSR2.png",
+      "../images/background-images/ShikiSSR2.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "Descending Like a Shooting Star! Planet Shooter Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8C%E6%B5%81%E6%98%9F%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E5%8F%82%E4%B8%8A%EF%BC%81%E3%83%97%E3%83%A9%E3%83%8D%E3%83%83%E3%83%88%E3%82%B7%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=a634eb942a0173e8fd96eb9b6b8b2b3f&t=20221130151957",
     "backgroundImages": [
-      "https://project-imas.wiki/images/f/f6/Nao_GS_SSR2%2B.jpg",
-      "https://project-imas.wiki/images/1/13/Touma_GS_SSR3%2B.jpg"
+      "../images/background-images/NaoSSR2.png",
+      "../images/background-images/ToumaSSR3.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "Christmas Live That Shines On the Silent Holy Night Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8C%E9%9D%99%E3%81%8B%E3%81%AA%E8%81%96%E5%A4%9C%E3%81%AB%E8%BC%9D%E3%81%8F%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%96%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=57e01f4d9b979fb146d717e43a7b5591&t=20221211155753",
     "backgroundImages": [
-      "https://project-imas.wiki/images/c/c4/Seiji_GS_SSR2%2B.jpg",
-      "https://project-imas.wiki/images/0/05/Eishin_GS_SSR3%2B.jpg"
+      "../images/background-images/SeijiSSR2.png",
+      "../images/background-images/EishinSSR3.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "Celebrate the Year's End Together - Countdown Live Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8C%E6%A5%BD%E3%81%97%E3%81%84%E7%B7%A0%E3%82%81%E3%81%8F%E3%81%8F%E3%82%8A%E3%82%92%E4%B8%80%E7%B7%92%E3%81%AB%20%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%83%80%E3%82%A6%E3%83%B3LIVE%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=804515e06b418ea7352b1d8d0d360c2c&t=20221220163024",
     "backgroundImages": [
-      "https://project-imas.wiki/images/2/26/Daigo_GS_SSR3%2B.jpg",
-      "https://project-imas.wiki/images/b/bf/Yukihiro_GS_SSR3%2B.jpg"
+      "../images/background-images/DaigoSSR3.png",
+      "../images/background-images/KamiyaSSR3.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "New Year Glorious Night GROWING FES Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8CGROWING%20FES%20-%E7%AA%AE%E6%9C%88%E3%81%AE%E3%82%B0%E3%83%AD%E3%83%AA%E3%82%A2%E3%82%B9%E3%83%8A%E3%82%A4%E3%83%88-%E3%80%8D/::ref/banner.png.webp?rev=6670d5978896f055f320e4b030720dc0&t=20221228202057",
     "backgroundImages": [
-      "https://project-imas.wiki/images/a/a0/Hokuto_GS_SSR2.jpg",
-      "https://project-imas.wiki/images/7/73/Teru_GS_SSR3.jpg",
-      "https://project-imas.wiki/images/d/d0/Rui_GS_SSR2.jpg"
+      "../images/background-images/HokutoSSR2.png",
+      "../images/background-images/TeruSSR3.png",
+      "../images/background-images/RuiSSR2.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "Have a Wonderful Year! Heartfelt New Year's Card Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8C%E4%BB%8A%E5%B9%B4%E3%82%82%E8%89%AF%E3%81%841%E5%B9%B4%E3%81%AB%EF%BC%81%E5%BF%83%E3%82%92%E8%BE%BC%E3%82%81%E3%81%9F%E5%B9%B4%E8%B3%80%E7%8A%B6%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=943e172894cd4de5807c55750ced19f4&t=20230103013705",
     "backgroundImages": [
-      "https://project-imas.wiki/images/4/4a/Makio_GS_SSR2%2B.jpg",
-      "https://project-imas.wiki/images/0/09/Hideo_GS_SSR3%2B.jpg"
+      "../images/background-images/MakioSSR2.png",
+      "../images/background-images/HideoSSR3.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "Perfect Winter Meal! Warm and Toasty Happy Milk Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8C%E5%86%AC%E3%81%AE%E9%A3%9F%E5%8D%93%E3%81%AB%E3%82%AA%E3%82%B9%E3%82%B9%E3%83%A1%EF%BC%81%E3%81%BD%E3%81%8B%E3%81%BD%E3%81%8BHappy%20Milk%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=8cbf9e0757bc2242bd66ac9fa2f5cef0&t=20230111152131",
     "backgroundImages": [
-      "https://project-imas.wiki/images/7/7f/Kazuki_GS_SSR3%2B.jpg",
-      "https://project-imas.wiki/images/d/d2/Kirio_GS_SSR3%2B.jpg"
+      "../images/background-images/KazukiSSR3.png",
+      "../images/background-images/KirioSSR3.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "Have Fun Learning Together! Kids Variety Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8C%E3%81%BF%E3%82%93%E3%81%AA%E3%81%A7%E6%A5%BD%E3%81%97%E3%81%8F%E5%AD%A6%E3%81%BC%E3%81%86%EF%BC%81%E3%82%AD%E3%83%83%E3%82%BA%E3%83%90%E3%83%A9%E3%82%A8%E3%83%86%E3%82%A3%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=e1518fc08c38ae303cb49acd48b156c8&t=20230120165128",
     "backgroundImages": [
-      "https://project-imas.wiki/images/e/ed/Michio_GS_SSR3%2B.jpg",
-      "https://project-imas.wiki/images/2/2b/Shiro_GS_SSR3%2B.jpg"
+      "../images/background-images/MichioSSR3.png",
+      "../images/background-images/ShiroSSR3.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "With Sweet Feelings Inside - Chocolate x Fruit Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8C%E7%94%98%E9%85%B8%E3%81%A3%E3%81%B1%E3%81%84%E6%83%B3%E3%81%84%E3%82%92%E5%8C%85%E3%82%93%E3%81%A7%20Chocolate%C3%97Fruits%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=173b1b8fb154003ea73da8b79ac545b2&t=20230131154956",
     "backgroundImages": [
-      "https://project-imas.wiki/images/e/ec/Takeru_GS_SSR3%2B.jpg",
-      "https://project-imas.wiki/images/5/55/Yusuke_GS_SSR3%2B.jpg"
+      "../images/background-images/TakeruSSR3.png",
+      "../images/background-images/YusukeSSR3.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "Chocolate Night ~Charming Valentine Night~ Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8CChocolate%20Night%20%EF%BD%9E%E9%AD%85%E6%83%91%E3%81%AE%E3%83%90%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%B3%E3%83%8A%E3%82%A4%E3%83%88%EF%BD%9E%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=d7f0b7321f13f342f8bdce87439f2b0a&t=20230211152844",
     "backgroundImages": [
-      "https://project-imas.wiki/images/f/fa/Tsubasa_GS_SSR3%2B.jpg",
-      "https://project-imas.wiki/images/6/65/Ryu_GS_SSR3%2B.jpg"
+      "../images/background-images/TsubasaSSR3.png",
+      "../images/background-images/RyuSSR3.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "Land the Trick! Street Skateboard Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8C%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%82%92%E6%B1%BA%E3%82%81%E3%82%8D%EF%BC%81Street%20Skateboard%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=d0017b06060ef57564b2c1bdb09af2ae&t=20230217160205",
     "backgroundImages": [
-      "https://project-imas.wiki/images/e/e7/Kuro_GS_SSR3%2B.jpg",
-      "https://project-imas.wiki/images/b/ba/Rei_GS_SSR3%2B.jpg"
+      "../images/background-images/KuroSSR3.png",
+      "../images/background-images/ReiSSR3.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "Delivering Feelings That Want to be Conveyed - Teddy Bear & Letter Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8C%E4%BC%9D%E3%81%88%E3%81%9F%E3%81%84%E6%83%B3%E3%81%84%E3%82%92%E9%81%8B%E3%82%93%E3%81%A7%20Teddy%20bear%EF%BC%86Letter%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=82626f6864527620623af2c16697c3a5&t=20230228163829",
     "backgroundImages": [
-      "https://project-imas.wiki/images/a/a5/Shu_GS_SSR3%2B.jpg",
-      "https://project-imas.wiki/images/4/49/Haruna_GS_SSR3%2B.jpg"
+      "../images/background-images/ShuSSR3.png",
+      "../images/background-images/HarunaSSR3.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   },
   {
     "name": "Full Stomach and Full Heart Festival Gacha",
     "bannerArt": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%91%E3%80%8C%E3%81%8A%E8%85%B9%E3%82%82%E3%82%B3%E3%82%B3%E3%83%AD%E3%82%82%E3%81%BE%E3%82%93%E3%81%B7%E3%81%8F%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB%E3%82%AC%E3%82%B7%E3%83%A3%E3%80%8D/::ref/banner.png.webp?rev=f5c68aa46694a97aa29b6efa336ce854&t=20230311162920",
     "backgroundImages": [
-      "https://project-imas.wiki/images/5/5a/Jiro_GS_SSR3%2B.jpg",
-      "https://project-imas.wiki/images/4/4a/Asselin_GS_SSR3%2B.jpg"
+      "../images/background-images/JiroSSR3.png",
+      "../images/background-images/AsselinSSR3.png"
     ],
-    "sparkCounter": 0
+    "featured": []
   }
 ]

@@ -1,6 +1,6 @@
-import React, { useState, useEffect } from "react";
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faArrowRotateRight, faInfo } from '@fortawesome/free-solid-svg-icons'
+import React, { useEffect } from "react";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faArrowRotateRight, faInfo } from "@fortawesome/free-solid-svg-icons";
 import "./style.css";
 
 export default function Home(props) {
@@ -35,11 +35,11 @@ export default function Home(props) {
   function updateWishView(n) {
     updateView("wish");
     setCounter(counter + n);
-    n===250 ? setPull(1) : setPull(10);
+    n === 250 ? setPull(1) : setPull(10);
   }
 
   // reset the counter to 0
-  function resetCounter(){
+  function resetCounter() {
     setCounter(0);
   }
 
@@ -51,14 +51,14 @@ export default function Home(props) {
           <span>★</span> 0
         </button>
         <button className="reset-counter" onClick={resetCounter}>
-          <FontAwesomeIcon icon={faArrowRotateRight}/>
+          <FontAwesomeIcon icon={faArrowRotateRight} />
         </button>
         <div className="currency-counter">Gems spent: {counter}</div>
       </div>
 
       <div className="info-buttons-container">
         <button className="details-btn" onClick={() => updateView("details")}>
-          <FontAwesomeIcon icon={faInfo}/>
+          <FontAwesomeIcon icon={faInfo} />
         </button>
         <button
           className="inventory-btn"

@@ -31,11 +31,17 @@ Banner.init(
     //   allowNull: false,
     //   unique: false
     // },
-    // featured: {
-    //   type: DataTypes.ARRAY,
-    //   allowNull: false,
-    //   unique: false
-    // },
+    featured: {
+      type: DataTypes.STRING,
+      allowNull: false,
+      unique: false,
+      get(){
+        return this.getDataValue('featured').split(';')
+      },
+      set(val){
+        this.setDataValue('featured', val.join(";"))
+      }
+    },
     sparkCounter: {
       type: DataTypes.INTEGER,
       allowNull: false,

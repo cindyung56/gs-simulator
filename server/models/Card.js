@@ -26,12 +26,12 @@ Card.init(
       unique: false,
     },
     unawakened: {
-      type: DataTypes.STRING,
+      type: DataTypes.TEXT,
       allowNull: false,
       unique: false,
     },
     awakened: {
-      type: DataTypes.STRING,
+      type: DataTypes.TEXT,
       allowNull: false,
       unique: false,
     },

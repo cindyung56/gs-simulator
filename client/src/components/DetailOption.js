@@ -11,8 +11,9 @@ export default function Details(props) {
           <>
             <h1>PROBABILITIES</h1>
             <p>
-              Each card is randomly selected. Some cards will be on rate up, and
-              will have a higher chance of being pulled.
+              Each card is randomly selected. Some cards will have rates up,
+              meaning they will have a higher chance of appearing. (That being
+              said, it is only a higher chance, not a guarantee.)
               <br /> Each card pulled will be chosen with the following rates:
             </p>
             <ul className="prob-rates">
@@ -27,8 +28,11 @@ export default function Details(props) {
               </li>
             </ul>
             <p>
-              Each x10 roll is guaranteed at least one SR or above. If pulling
-              10 cards, and all previous cards were all R rarity, the tenth card
+              Pressing the "Pull x1" button 10 times will <b>NOT</b> guarantee
+              an SR or above. All single pulls using the "Pull x1" button will
+              be subject to regular rates. Each x10 roll with the "Pull x10"
+              option is guaranteed at least one SR or above. If pulling 10
+              cards, and all previous cards were all R rarity, the tenth card
               will be a guaranteed SR or above with the following rates:
             </p>
             <ul className="prob-rates">
@@ -39,12 +43,7 @@ export default function Details(props) {
                 <b>SR</b>: 80%
               </li>
             </ul>
-            <p>
-              Pressing the "Pull x1" button 10 times will <b>NOT</b> guarantee
-              an SR or above. All single pulls using the "Pull x1" button will
-              be subject to regular rates. The Pull x10 button must be chosen
-              for the guarantee.
-            </p>
+            <p></p>
           </>
         );
       case "wish":
@@ -73,26 +72,33 @@ export default function Details(props) {
               <u>Credits:</u>
               <ul>
                 <li>
-                  Full SSR Art:{" "}
+                  <b>Full SSR Art: </b>
                   <a href="https://project-imas.wiki/THE_iDOLM@STER_SideM_GROWING_STARS">
                     project-imas wiki
                   </a>
                 </li>
                 <li>
-                  Card Art:{" "}
+                  <b>Card Art: </b>
                   <a href="https://gamerch.com/sidem-gs/">
                     Growing Stars Gamerch (gamerch.jp)
                   </a>
                 </li>
                 <li>
-                  Banner Art:{" "}
+                  <b>Banner Art: </b>
                   <a href="https://wikiwiki.jp/sidem-gstars/">
                     GROWING STARS Wiki (wikiwiki.jp)
                   </a>
                 </li>
                 <li>
-                  Card & Banner Translations:{" "}
-                  <a href="https://twitter.com/SideM_Eng">SideM ENG Twitter</a>
+                  <b>Card & Banner Translations: </b>
+                  <a href="https://twitter.com/SideM_Eng">
+                    SideM ENG Twitter
+                  </a>{" "}
+                  &{" "}
+                  <a href="https://project-imas.wiki/THE_iDOLM@STER_SideM_GROWING_STARS">
+                    project-imas wiki
+                  </a>{" "}
+                  (with a few stylistic edits based on context)
                 </li>
               </ul>
             </p>
