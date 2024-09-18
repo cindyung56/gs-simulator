@@ -79,8 +79,8 @@ export default function Details(props) {
                 </li>
                 <li>
                   <b>Card Art: </b>
-                  <a href="https://gamerch.com/sidem-gs/">
-                    Growing Stars Gamerch (gamerch.jp)
+                  <a href="https://wikiwiki.jp/sidem-gstars/">
+                    GROWING STARS Wiki (wikiwiki.jp)
                   </a>
                 </li>
                 <li>

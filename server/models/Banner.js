@@ -41,12 +41,12 @@ Banner.init(
       set(val){
         this.setDataValue('featured', val.join(";"))
       }
-    },
-    sparkCounter: {
-      type: DataTypes.INTEGER,
-      allowNull: false,
-      unique: false
     }
+    // sparkCounter: {
+    //   type: DataTypes.INTEGER,
+    //   allowNull: false,
+    //   unique: false
+    // }
   },
   {
     sequelize,
