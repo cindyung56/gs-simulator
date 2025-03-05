@@ -4,8 +4,8 @@
     "idol": "Touma Amagase",
     "rarity": "R",
     "attribute": "physical",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90GROWING%20STARS%E3%80%91%E5%A4%A9%E3%83%B6%E7%80%AC%20%E5%86%AC%E9%A6%AC/::attach/%E3%80%90GROWING%20STARS%E3%80%91%E5%A4%A9%E3%83%B6%E7%80%AC%E5%86%AC%E9%A6%AC.png?rev=de0285bdd1b6723dd646a6ba86b760be&t=20211020235337",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90GROWING%20STARS%E3%80%91%E5%A4%A9%E3%83%B6%E7%80%AC%20%E5%86%AC%E9%A6%AC/::attach/%E3%80%90GROWING%20STARS%E3%80%91%E5%A4%A9%E3%83%B6%E7%80%AC%E5%86%AC%E9%A6%AC%2B.png?rev=eb6297ac6fdf43c49376a724b2579dea&t=20211020235342",
+    "unawakened": "../images/card-images/Touma/ToumaR1_unawakened.png",
+    "awakened": "../images/card-images/Touma/ToumaR1_awakened.png",
     "limited": false
   },
   {
@@ -13,8 +13,8 @@
     "idol": "Shouta Mitarai",
     "rarity": "R",
     "attribute": "mental",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90GROWING%20STARS%E3%80%91%E5%BE%A1%E6%89%8B%E6%B4%97%20%E7%BF%94%E5%A4%AA/::attach/%E3%80%90GROWING%20STARS%E3%80%91%E5%BE%A1%E6%89%8B%E6%B4%97%E7%BF%94%E5%A4%AA.png?rev=797683243e9d3b76f0963b516b457a0c&t=20211023195516",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90GROWING%20STARS%E3%80%91%E5%BE%A1%E6%89%8B%E6%B4%97%20%E7%BF%94%E5%A4%AA/::attach/%E3%80%90GROWING%20STARS%E3%80%91%E5%BE%A1%E6%89%8B%E6%B4%97%E7%BF%94%E5%A4%AA%2B.png?rev=ba319ca00ba286e8cc4a519d49d6c977&t=20211023195521",
+    "unawakened": "../images/card-images/Shouta/ShoutaR1_unawakened.png",
+    "awakened": "../images/card-images/Shouta/ShoutaR1_awakened.png",
     "limited": false
   },
   {
@@ -22,8 +22,8 @@
     "idol": "Hokuto Ijuuin",
     "rarity": "R",
     "attribute": "intelligent",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90GROWING%20STARS%E3%80%91%E4%BC%8A%E9%9B%86%E9%99%A2%20%E5%8C%97%E6%96%97/::attach/%E3%80%90GROWING%20STARS%E3%80%91%E4%BC%8A%E9%9B%86%E9%99%A2%E5%8C%97%E6%96%97.png?rev=3b0882fa6fb58abc89ca1d6f1663c72b&t=20211023225424",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90GROWING%20STARS%E3%80%91%E4%BC%8A%E9%9B%86%E9%99%A2%20%E5%8C%97%E6%96%97/::attach/%E3%80%90GROWING%20STARS%E3%80%91%E4%BC%8A%E9%9B%86%E9%99%A2%E5%8C%97%E6%96%97%2B.png?rev=ca01f59295223a65c2eb400ea56771d3&t=20211023225430",
+    "unawakened": "../images/card-images/Hokuto/HokutoR1_unawakened.png",
+    "awakened": "../images/card-images/Hokuto/HokutoR1_awakened.png",
     "limited": false
   },
   {
@@ -31,8 +31,8 @@
     "idol": "Teru Tendo",
     "rarity": "R",
     "attribute": "physical",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90GROWING%20STARS%E3%80%91%E5%A4%A9%E9%81%93%20%E8%BC%9D/::attach/%E3%80%90GROWING%20STARS%E3%80%91%E5%A4%A9%E9%81%93%E8%BC%9D.png?rev=3250ecb1e05a0c829b6d4d8493d37188&t=20211021000205",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90GROWING%20STARS%E3%80%91%E5%A4%A9%E9%81%93%20%E8%BC%9D/::attach/%E3%80%90GROWING%20STARS%E3%80%91%E5%A4%A9%E9%81%93%E8%BC%9D.png?rev=3250ecb1e05a0c829b6d4d8493d37188&t=20211021000205",
+    "unawakened": "../images/card-images/Teru/TeruR1_unawakened.png",
+    "awakened": "../images/card-images/Teru/TeruR1_awakened.png",
     "limited": false
   },
   {
@@ -40,8 +40,8 @@
     "idol": "Kaoru Sakuraba",
     "rarity": "R",
     "attribute": "intelligent",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90GROWING%20STARS%E3%80%91%E6%A1%9C%E5%BA%AD%20%E8%96%AB/::attach/%E3%80%90GROWING%20STARS%E3%80%91%E6%A1%9C%E5%BA%AD%E8%96%AB.png?rev=923d1b3dc14aff664381b0219b0eecf7&t=20211022005956",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90GROWING%20STARS%E3%80%91%E6%A1%9C%E5%BA%AD%20%E8%96%AB/::attach/%E3%80%90GROWING%20STARS%E3%80%91%E6%A1%9C%E5%BA%AD%E8%96%AB%2B.png?rev=b0add28d6720a94647579a0f9fcbf203&t=20211022010000",
+    "unawakened": "../images/card-images/Kaoru/KaoruR1_unawakened.png",
+    "awakened": "../images/card-images/Kaoru/KaoruR1_awakened.png",
     "limited": false
   },
   {
@@ -103,8 +103,8 @@
     "idol": "Yusuke Aoi",
     "rarity": "R",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【GROWING%20STARS】蒼井%20悠介/::ref/【GROWING%20STARS】蒼井悠介.jpg.webp?rev=60f0bbb3c70eabe805711d647050270e&t=20211028095911",
+    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【GROWING%20STARS】蒼井%20悠介/::ref/【GROWING%20STARS】蒼井悠介%2B.jpg.webp?rev=aaa33372d526ab8df432268b18ddaab7&t=20211028095",
     "limited": false
   },
   {
@@ -121,8 +121,8 @@
     "idol": "Hideo Akuno",
     "rarity": "R",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【GROWING%20STARS】握野%20英雄/::attach/【GROWING%20STARS】握野英雄.png?rev=004fef20a4445cfaabe983936a5e4bd3&t=20211027105014",
+    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【GROWING%20STARS】握野%20英雄/::ref/【GROWING%20STARS】握野英雄%2B.png.webp?rev=e4d5f4f9d6ae64a7e8b3f12a97bfecba&t=20211027105019",
     "limited": false
   },
   {
@@ -130,8 +130,8 @@
     "idol": "Ryu Kimura",
     "rarity": "R",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【GROWING%20STARS】木村%20龍/::ref/【GROWING%20STARS】木村龍.png.webp?rev=6e5e85f3d82425a37f0b24a30a9750a3&t=20211022003806",
+    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【GROWING%20STARS】木村%20龍/::ref/【GROWING%20STARS】木村龍%2B.png.webp?rev=d8374abb4d092b914ae63b86eb7e78e8&t=20211022003812",
     "limited": false
   },
   {
@@ -139,8 +139,8 @@
     "idol": "Seiji Shingen",
     "rarity": "R",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【GROWING%20STARS】信玄%20誠司/::ref/【GROWING%20STARS】信玄誠司.png.webp?rev=046cdb72fbfacd574ff78027abd02d56&t=20211028223327",
+    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【GROWING%20STARS】信玄%20誠司/::ref/【GROWING%20STARS】信玄誠司%2B.png.webp?rev=0253c184d54f73d4a5e67f1a381f873d&t=20211028223",
     "limited": false
   },
   {
@@ -446,8 +446,8 @@
     "idol": "Touma Amagase",
     "rarity": "SR",
     "attribute": "physical",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%81%BE%E3%81%A3%E3%81%99%E3%81%90%E3%81%AB%E9%AB%98%E3%81%8F%E3%80%91%E5%A4%A9%E3%83%B6%E7%80%AC%20%E5%86%AC%E9%A6%AC/::attach/%E3%80%90%E7%9C%9F%E3%81%A3%E7%9B%B4%E3%81%90%E3%81%AB%E9%AB%98%E3%81%8F%E3%80%91%E5%A4%A9%E3%83%B6%E7%80%AC%E5%86%AC%E9%A6%AC.png?rev=9ea23edb3c6dc66caf4879739827cf55&t=20211102004259",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%81%BE%E3%81%A3%E3%81%99%E3%81%90%E3%81%AB%E9%AB%98%E3%81%8F%E3%80%91%E5%A4%A9%E3%83%B6%E7%80%AC%20%E5%86%AC%E9%A6%AC/::attach/%E3%80%90%E7%9C%9F%E3%81%A3%E7%9B%B4%E3%81%90%E3%81%AB%E9%AB%98%E3%81%8F%E3%80%91%E5%A4%A9%E3%83%B6%E7%80%AC%E5%86%AC%E9%A6%AC%2B.png?rev=04c64c9335265a22a029bf39ff9ad335&t=20211102004303",
+    "unawakened": "../images/card-images/Touma/ToumaSR1_unawakened.png",
+    "awakened": "../images/card-images/Touma/ToumaSR1_awakened.png",
     "limited": false
   },
   {
@@ -455,8 +455,8 @@
     "idol": "Shouta Mitarai",
     "rarity": "SR",
     "attribute": "mental",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E7%84%A1%E9%99%90%E5%A4%A7%E3%82%A2%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3%E3%80%91%E5%BE%A1%E6%89%8B%E6%B4%97%20%E7%BF%94%E5%A4%AA/::attach/%E3%80%90%E7%84%A1%E9%99%90%E5%A4%A7%E3%82%A2%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3%E3%80%91%E5%BE%A1%E6%89%8B%E6%B4%97%E7%BF%94%E5%A4%AA.png?rev=9da957a11d41b1a6f3b1d8a082da9b92&t=20211121130920",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E7%84%A1%E9%99%90%E5%A4%A7%E3%82%A2%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3%E3%80%91%E5%BE%A1%E6%89%8B%E6%B4%97%20%E7%BF%94%E5%A4%AA/::attach/%E3%80%90%E7%84%A1%E9%99%90%E5%A4%A7%E3%82%A2%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3%E3%80%91%E5%BE%A1%E6%89%8B%E6%B4%97%E7%BF%94%E5%A4%AA%2B.png?rev=af7971dbf7189d3010cf8a3a54f3d8f8&t=20211121130917",
+    "unawakened": "../images/card-images/Shouta/ShoutaSR1_unawakened.png",
+    "awakened": "../images/card-images/Shouta/ShoutaSR1_awakened.png",
     "limited": false
   },
   {
@@ -464,8 +464,8 @@
     "idol": "Hokuto Ijuuin",
     "rarity": "SR",
     "attribute": "intelligent",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E5%BF%83%E3%81%8C%E6%B1%82%E3%82%81%E3%82%8B%E5%A0%B4%E6%89%80%E3%80%91%E4%BC%8A%E9%9B%86%E9%99%A2%20%E5%8C%97%E6%96%97/::attach/%E3%80%90%E5%BF%83%E3%81%8C%E6%B1%82%E3%82%81%E3%82%8B%E5%A0%B4%E6%89%80%E3%80%91%E4%BC%8A%E9%9B%86%E9%99%A2%E5%8C%97%E6%96%97.png?rev=b3156a5b094b3ec77127abd94d098495&t=20211017233345",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E5%BF%83%E3%81%8C%E6%B1%82%E3%82%81%E3%82%8B%E5%A0%B4%E6%89%80%E3%80%91%E4%BC%8A%E9%9B%86%E9%99%A2%20%E5%8C%97%E6%96%97/::attach/%E3%80%90%E5%BF%83%E3%81%8C%E6%B1%82%E3%82%81%E3%82%8B%E5%A0%B4%E6%89%80%E3%80%91%E4%BC%8A%E9%9B%86%E9%99%A2%E5%8C%97%E6%96%97%2B.png?rev=d49fb7f984d8f8a3019fdfe982832567&t=20211017233354",
+    "unawakened": "../images/card-images/Hokuto/HokutoSR1_unawakened.png",
+    "awakened": "../images/card-images/Hokuto/HokutoSR1_awakened.png",
     "limited": false
   },
   {
@@ -473,8 +473,8 @@
     "idol": "Teru Tendo",
     "rarity": "SR",
     "attribute": "physical",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E6%AD%A3%E7%BE%A9%E3%81%AE%E7%B6%BA%E7%BE%85%E6%98%9F%E3%80%91%E5%A4%A9%E9%81%93%20%E8%BC%9D/::attach/%E3%80%90%E6%AD%A3%E7%BE%A9%E3%81%AE%E7%B6%BA%E7%BE%85%E6%98%9F%E3%80%91%E5%A4%A9%E9%81%93%E8%BC%9D.png?rev=3fc3ad027743a2589e55b1bdf3e299d4&t=20211029204741",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E6%AD%A3%E7%BE%A9%E3%81%AE%E7%B6%BA%E7%BE%85%E6%98%9F%E3%80%91%E5%A4%A9%E9%81%93%20%E8%BC%9D/::attach/%E3%80%90%E6%AD%A3%E7%BE%A9%E3%81%AE%E7%B6%BA%E7%BE%85%E6%98%9F%E3%80%91%E5%A4%A9%E9%81%93%E8%BC%9D%2B.png?rev=07f24c47c912fb0fe7b985012938f9d4&t=20211029204747",
+    "unawakened": "../images/card-images/Teru/TeruSR1_unawakened.png",
+    "awakened": "../images/card-images/Teru/TeruSR1_awakened.png",
     "limited": false
   },
   {
@@ -541,39 +541,39 @@
     "limited": false
   },
   {
-    "name": "",
+    "name": "Embracing Justice in my Heart",
     "idol": "Hideo Akuno",
     "rarity": "SR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【胸に抱く正義】握野%20英雄/::ref/【胸に抱く正義】握野英雄.png.webp?rev=2cc882e79b622b2468b65f2ec7c4d2c6&t=20211019220539",
+    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【胸に抱く正義】握野%20英雄/::ref/【胸に抱く正義】握野英雄%2B.png.webp?rev=4996746362c7a5ea018041d417299495&t=20211019220548",
     "limited": false
   },
   {
-    "name": "",
+    "name": "Flames of Courage",
     "idol": "Ryu Kimura",
     "rarity": "SR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【勇気の炎】木村%20龍/::ref/【勇気の炎】木村龍.png.webp?rev=de2134e8a2130071204d0f9bbe572ba4&t=20211022015302",
+    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【勇気の炎】木村%20龍/::ref/【勇気の炎】木村龍%2B.png.webp?rev=04cd006cc4923af5b824319b02bd2467&t=20211022015307",
     "limited": false
   },
   {
-    "name": "",
+    "name": "The Power to Protect Smiles",
     "idol": "Seiji Shingen",
     "rarity": "SR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【笑顔を守る力】信玄%20誠司/::ref/【笑顔を守る力】信玄誠司.png.webp?rev=a9e307cc61f077310db5b5854659211e&t=20211029084033",
+    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【笑顔を守る力】信玄%20誠司/::ref/【笑顔を守る力】信玄誠司＋.png.webp?rev=3bd127c24783e6c35ccc26799b31bf13&t=2021102908404",
     "limited": false
   },
   {
-    "name": "",
+    "name": "Brilliance of The Genius Ace",
     "idol": "Yusuke Aoi",
     "rarity": "SR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【天才エースの煌めき】蒼井%20悠介/::ref/【天才エースの煌めき】蒼井悠介.png.webp?rev=f01784e5a36a6c010ec3b30c30e99ed1&t=20211029205517",
+    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【天才エースの煌めき】蒼井%20悠介/::ref/【天才エースの煌めき】蒼井悠介%2B.png.webp?rev=2af4bb72ab447b02639b64b9708c8ed8&t=20211029205523",
     "limited": false
   },
   {
@@ -889,8 +889,8 @@
     "idol": "Touma Amagase",
     "rarity": "SSR",
     "attribute": "physical",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E7%9E%B3%E3%81%AB%E6%98%A0%E3%82%8B%E3%81%9D%E3%81%AE%E5%85%88%E3%81%AB%E3%80%91%E5%A4%A9%E3%83%B6%E7%80%AC%20%E5%86%AC%E9%A6%AC/::attach/%E3%80%90%E7%9E%B3%E3%81%AB%E6%98%A0%E3%82%8B%E3%81%9D%E3%81%AE%E5%85%88%E3%81%AB%E3%80%91%E5%A4%A9%E3%83%B6%E7%80%AC%E5%86%AC%E9%A6%AC.png?rev=03ba9f1651e052c6b536f741289b0d09&t=20211013233457",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E7%9E%B3%E3%81%AB%E6%98%A0%E3%82%8B%E3%81%9D%E3%81%AE%E5%85%88%E3%81%AB%E3%80%91%E5%A4%A9%E3%83%B6%E7%80%AC%20%E5%86%AC%E9%A6%AC/::attach/%E3%80%90%E7%9E%B3%E3%81%AB%E6%98%A0%E3%82%8B%E3%81%9D%E3%81%AE%E5%85%88%E3%81%AB%E3%80%91%E5%A4%A9%E3%83%B6%E7%80%AC%E5%86%AC%E9%A6%AC%2B.png?rev=0597b1747a038f36775f8e869a43933f&t=20211013233508",
+    "unawakened": "../images/card-images/Touma/ToumaSSR1_unawakened.png",
+    "awakened": "../images/card-images/Touma/ToumaSSR1_awakened.png",
     "limited": false
   },
   {
@@ -898,17 +898,17 @@
     "idol": "Teru Tendo",
     "rarity": "SSR",
     "attribute": "physical",
-    "unawakened": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzIzNzlcL2VudHJ5XC8wbXJNVTc1aS5wbmciLCJlZGl0cyI6eyJ0b0Zvcm1hdCI6IndlYnAifX0=",
-    "awakened": "https://cdn.gamerch.com/resize/eyJidWNrZXQiOiJnYW1lcmNoLWltZy1jb250ZW50cyIsImtleSI6Indpa2lcLzIzNzlcL2VudHJ5XC9taGJWdzN4TS5wbmciLCJlZGl0cyI6eyJ0b0Zvcm1hdCI6IndlYnAifX0=",
+    "unawakened": "../images/card-images/Teru/TeruSSR1_unawakened.png",
+    "awakened": "../images/card-images/Teru/TeruSSR1_awakened.png",
     "limited": false
   },
   {
-    "name": "",
+    "name": "Words I Want to Tell You",
     "idol": "Hideo Akuno",
     "rarity": "SSR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【君に届けたい言葉】握野%20英雄/::ref/【君に届けたい言葉】握野英雄.png.webp?rev=0d3e4b585b9a4d5fe7dff8680658f90f&t=20211013163435",
+    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【君に届けたい言葉】握野%20英雄/::ref/【君に届けたい言葉】握野英雄%2B.png.webp?rev=a2848c4e806bbc7dc6e136f781758aea&t=20211013163510",
     "limited": false
   },
   {
@@ -1073,8 +1073,8 @@
     "idol": "Hokuto Ijuuin",
     "rarity": "SR",
     "attribute": "intelligent",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E5%85%B1%E9%B3%B4%E3%81%AE%E5%86%86%E8%88%9E%E6%9B%B2%E3%80%91%E4%BC%8A%E9%9B%86%E9%99%A2%20%E5%8C%97%E6%96%97/::attach/%E3%80%90%E5%85%B1%E9%B3%B4%E3%81%AE%E5%86%86%E8%88%9E%E6%9B%B2%E3%80%91%E4%BC%8A%E9%9B%86%E9%99%A2%E5%8C%97%E6%96%97.png?rev=eb1f4d2bd980a7659690b270fa672321&t=20211112233417",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E5%85%B1%E9%B3%B4%E3%81%AE%E5%86%86%E8%88%9E%E6%9B%B2%E3%80%91%E4%BC%8A%E9%9B%86%E9%99%A2%20%E5%8C%97%E6%96%97/::attach/%E3%80%90%E5%85%B1%E9%B3%B4%E3%81%AE%E5%86%86%E8%88%9E%E6%9B%B2%E3%80%91%E4%BC%8A%E9%9B%86%E9%99%A2%E5%8C%97%E6%96%97%2B.png?rev=847cebe4c59e57e5afca25d21354e5de&t=20211112233423",
+    "unawakened": "../images/card-images/Hokuto/HokutoSR2_unawakened.png",
+    "awakened": "../images/card-images/Hokuto/HokutoSR2_awakened.png",
     "limited": false
   },
 
@@ -1088,12 +1088,12 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "An Unforseen Vividness",
     "idol": "Ryu Kimura",
     "rarity": "SSR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【予期せぬ鮮やかさ】木村%20龍/::ref/【予期せぬ鮮やかさ】木村龍.png.webp?rev=77610efb8e49dee52d63057a53bf1a89&t=20211201001230",
+    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【予期せぬ鮮やかさ】木村%20龍/::ref/【予期せぬ鮮やかさ】木村龍%2B.png.webp?rev=58b01f54dacdd3d89a43b8a8c20d02c1&t=20211201001236",
     "limited": false
   },
   {
@@ -1147,8 +1147,8 @@
     "idol": "Touma Amagase",
     "rarity": "R",
     "attribute": "physical",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E5%85%AD%E8%8F%AF%E3%81%AE%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%80%91%E5%A4%A9%E3%83%B6%E7%80%AC%20%E5%86%AC%E9%A6%AC/::attach/%E3%80%90%E5%85%AD%E8%8F%AF%E3%81%AE%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%80%91%E5%A4%A9%E3%83%B6%E7%80%AC%E5%86%AC%E9%A6%AC.png?rev=6589ae81ea2432b7c58f61ad90675d55&t=20211201150352",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E5%85%AD%E8%8F%AF%E3%81%AE%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%80%91%E5%A4%A9%E3%83%B6%E7%80%AC%20%E5%86%AC%E9%A6%AC/::attach/%E3%80%90%E5%85%AD%E8%8F%AF%E3%81%AE%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%80%91%E5%A4%A9%E3%83%B6%E7%80%AC%E5%86%AC%E9%A6%AC%2B.png?rev=067793fe1fa14b01076e96a2504fa66c&t=20211201150403",
+    "unawakened": "../images/card-images/Touma/ToumaR2_unawakened.png",
+    "awakened": "../images/card-images/Touma/ToumaR2_awakened.png",
     "limited": false
   },
 
@@ -1199,12 +1199,12 @@
     "limited": false
   },
   {
-    "name": "",
+    "name": "Cheerful Wrap Up",
     "idol": "Ryu Kimura",
     "rarity": "SR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【明るい締めくくり】木村%20龍/::ref/【明るい締めくくり】木村龍.png.webp?rev=af8a21fb7fddf5a14a3c060c4c32bc47&t=20211219163910",
+    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【明るい締めくくり】木村%20龍/::ref/【明るい締めくくり】木村龍%2B.png.webp?rev=9fbea93684deb78a954cf9b8dae0c473&t=20211219163916",
     "limited": true
   },
   {
@@ -1227,12 +1227,12 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "Heroic First Shrine Visit",
     "idol": "Seiji Shingen",
     "rarity": "SSR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【豪快な初参り】信玄%20誠司/::ref/【豪快な初参り】信玄誠司.png.webp?rev=41e6d96e61496265694c9f0f8f51ee2d&t=20220101143038",
+    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【豪快な初参り】信玄%20誠司/::ref/【豪快な初参り】信玄誠司%2B.png.webp?rev=fc1e75481bd0de029c3d862399e502bf&t=20220101143",
     "limited": false
   },
   {
@@ -1277,8 +1277,8 @@
     "idol": "Touma Amagase",
     "rarity": "SR",
     "attribute": "physical",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%81%A9%E3%82%93%E3%81%AA%E5%8B%9D%E8%B2%A0%E3%82%82%E5%85%A8%E5%8A%9B%EF%BC%81%E3%80%91%E5%A4%A9%E3%83%B6%E7%80%AC%20%E5%86%AC%E9%A6%AC/::attach/%E3%80%90%E3%81%A9%E3%82%93%E3%81%AA%E5%8B%9D%E8%B2%A0%E3%82%82%E5%85%A8%E5%8A%9B%EF%BC%81%E3%80%91%E5%A4%A9%E3%83%B6%E7%80%AC%E5%86%AC%E9%A6%AC.png?rev=31302afa4af59df57cd3eb72af502d12&t=20220111230821",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%81%A9%E3%82%93%E3%81%AA%E5%8B%9D%E8%B2%A0%E3%82%82%E5%85%A8%E5%8A%9B%EF%BC%81%E3%80%91%E5%A4%A9%E3%83%B6%E7%80%AC%20%E5%86%AC%E9%A6%AC/::attach/%E3%80%90%E3%81%A9%E3%82%93%E3%81%AA%E5%8B%9D%E8%B2%A0%E3%82%82%E5%85%A8%E5%8A%9B%EF%BC%81%E3%80%91%E5%A4%A9%E3%83%B6%E7%80%AC%E5%86%AC%E9%A6%AC%2B.png?rev=44cbd78b685d59f2dd0503a3a8cd937c&t=20220111230833",
+    "unawakened": "../images/card-images/Touma/ToumaSR2_unawakened.png",
+    "awakened": "../images/card-images/Touma/ToumaSR2_awakened.png",
     "limited": false
   },
 
@@ -1394,12 +1394,12 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "Beyond the Excitement",
     "idol": "Yusuke Aoi",
     "rarity": "SSR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【胸が高鳴る先に】蒼井%20悠介/::ref/【胸が高鳴る先に】蒼井%20悠介.png.webp?rev=969267c974eabcf5dcff6ad87a337b98&t=20220301174716",
+    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【胸が高鳴る先に】蒼井%20悠介/::ref/【胸が高鳴る先に】蒼井%20悠介%2B.png.webp?rev=f47d13c767f700a5d411da90a46abb1d&t=20220301174722",
     "limited": false
   },
   {
@@ -1440,12 +1440,12 @@
     "limited": false
   },
   {
-    "name": "",
+    "name": "Sympathetic Preparations",
     "idol": "Seiji Shingen",
     "rarity": "SR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【心通う下ごしらえ】信玄%20誠司/::ref/【心通う下ごしらえ】信玄誠司.png.webp?rev=a36650a1e20fb7b769ba78b670e18b2d&t=20220301011145",
+    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【心通う下ごしらえ】信玄%20誠司/::ref/【心通う下ごしらえ】信玄誠司%2B.png.webp?rev=e021abc298363c16e58df2d171f66679&t=20220301011149",
     "limited": true
   },
   {
@@ -1453,8 +1453,8 @@
     "idol": "Teru Tendo",
     "rarity": "R",
     "attribute": "physical",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E6%AD%A3%E7%BE%A9%E3%81%AE%E7%B6%BA%E7%BE%85%E6%98%9F%E3%80%91%E5%A4%A9%E9%81%93%20%E8%BC%9D/::attach/%E3%80%90%E6%AD%A3%E7%BE%A9%E3%81%AE%E7%B6%BA%E7%BE%85%E6%98%9F%E3%80%91%E5%A4%A9%E9%81%93%E8%BC%9D%2B.png?rev=07f24c47c912fb0fe7b985012938f9d4&t=20211029204747",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E7%88%BD%E3%82%84%E3%81%8B%E3%81%AA%E3%82%A2%E3%83%A9%E3%82%AB%E3%83%AB%E3%83%88%E3%80%91%E5%A4%A9%E9%81%93%20%E8%BC%9D/::attach/%E3%80%90%E7%88%BD%E3%82%84%E3%81%8B%E3%81%AA%E3%82%A2%E3%83%A9%E3%82%AB%E3%83%AB%E3%83%88%E3%80%91%E5%A4%A9%E9%81%93%20%E8%BC%9D%2B.png?rev=25b877e21539209ce2bac626108f9185&t=20220301170333",
+    "unawakened": "../images/card-images/Teru/TeruR2_unawakened.png",
+    "awakened": "../images/card-images/Teru/TeruR2_awakened.png",
     "limited": false
   },
 
@@ -1472,8 +1472,8 @@
     "idol": "Shouta Mitarai",
     "rarity": "SSR",
     "attribute": "mental",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E6%BA%A2%E3%82%8C%E3%82%8B%E6%84%9F%E8%AC%9D%E3%81%AE%E6%B0%97%E6%8C%81%E3%81%A1%E3%80%91%E5%BE%A1%E6%89%8B%E6%B4%97%20%E7%BF%94%E5%A4%AA/::attach/%E3%80%90%E6%BA%A2%E3%82%8C%E3%82%8B%E6%84%9F%E8%AC%9D%E3%81%AE%E6%B0%97%E6%8C%81%E3%81%A1%E3%80%91%E5%BE%A1%E6%89%8B%E6%B4%97%E7%BF%94%E5%A4%AA.png?rev=0a9c9345022d4c6f264dfbae56664930&t=20220311162423",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E6%BA%A2%E3%82%8C%E3%82%8B%E6%84%9F%E8%AC%9D%E3%81%AE%E6%B0%97%E6%8C%81%E3%81%A1%E3%80%91%E5%BE%A1%E6%89%8B%E6%B4%97%20%E7%BF%94%E5%A4%AA/::attach/%E3%80%90%E6%BA%A2%E3%82%8C%E3%82%8B%E6%84%9F%E8%AC%9D%E3%81%AE%E6%B0%97%E6%8C%81%E3%81%A1%E3%80%91%E5%BE%A1%E6%89%8B%E6%B4%97%E7%BF%94%E5%A4%AA%2B.png?rev=1a02c92e01da31fa3a9fcc6330d23c83&t=20220311163227",
+    "unawakened": "../images/card-images/Shouta/ShoutaSSR1_unawakened.png",
+    "awakened": "../images/card-images/Shouta/ShoutaSSR1_awakened.png",
     "limited": false
   },
   {
@@ -1514,12 +1514,12 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "Bringing Out Some Edge",
     "idol": "Hideo Akuno",
     "rarity": "R",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【エッジを効かせて】握野%20英雄/::attach/【エッジを効かせて】握野英雄.png?rev=ece062674fdd4c5eaac88560f486fb4e&t=20220320205726",
+    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【エッジを効かせて】握野%20英雄/::ref/【エッジを効かせて】握野英雄＋.png.webp?rev=e83aa53323cc6db059aa1b4739143b30&t=20220320205731",
     "limited": false
   },
 
@@ -1537,8 +1537,8 @@
     "idol": "Hokuto Ijuuin",
     "rarity": "SSR",
     "attribute": "intelligent",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%81%AA%E5%87%BA%E8%BF%8E%E3%81%88%E3%80%91%E4%BC%8A%E9%9B%86%E9%99%A2%20%E5%8C%97%E6%96%97/::attach/%E3%80%90%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%81%AA%E5%87%BA%E8%BF%8E%E3%81%88%E3%80%91%E4%BC%8A%E9%9B%86%E9%99%A2%E5%8C%97%E6%96%97.png?rev=7f7f6c24d5fbfaf48664e543f17b3590&t=20220402021444",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%81%AA%E5%87%BA%E8%BF%8E%E3%81%88%E3%80%91%E4%BC%8A%E9%9B%86%E9%99%A2%20%E5%8C%97%E6%96%97/::attach/%E3%80%90%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%81%AA%E5%87%BA%E8%BF%8E%E3%81%88%E3%80%91%E4%BC%8A%E9%9B%86%E9%99%A2%E5%8C%97%E6%96%97%2B.png?rev=666228bae1707d863c614768ef59531c&t=20220402021501",
+    "unawakened": "../images/card-images/Hokuto/HokutoSSR1_unawakened.png",
+    "awakened": "../images/card-images/Hokuto/HokutoSSR1_awakened.png",
     "limited": false
   },
   {
@@ -1546,8 +1546,8 @@
     "idol": "Shouta Mitarai",
     "rarity": "SR",
     "attribute": "mental",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E6%A5%BD%E3%81%97%E3%82%80%E6%B9%AF%E3%81%91%E3%82%80%E3%82%8A%E3%80%91%E5%BE%A1%E6%89%8B%E6%B4%97%20%E7%BF%94%E5%A4%AA/::attach/%E3%80%90%E6%A5%BD%E3%81%97%E3%82%80%E6%B9%AF%E3%81%91%E3%82%80%E3%82%8A%E3%80%91%E5%BE%A1%E6%89%8B%E6%B4%97%E7%BF%94%E5%A4%AA.png?rev=f859a9b9bb4f4de15638cddac0c548f2&t=20220331200939",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E6%A5%BD%E3%81%97%E3%82%80%E6%B9%AF%E3%81%91%E3%82%80%E3%82%8A%E3%80%91%E5%BE%A1%E6%89%8B%E6%B4%97%20%E7%BF%94%E5%A4%AA/::attach/%E3%80%90%E6%A5%BD%E3%81%97%E3%82%80%E6%B9%AF%E3%81%91%E3%82%80%E3%82%8A%E3%80%91%E5%BE%A1%E6%89%8B%E6%B4%97%E7%BF%94%E5%A4%AA%2B.png?rev=af71eb2b711905a95764d8b595ba50b1&t=20220331201109",
+    "unawakened": "../images/card-images/Shouta/ShoutaSR2_unawakened.png",
+    "awakened": "../images/card-images/Shouta/ShoutaSR2_awakened.png",
     "limited": true
   },
   {
@@ -1616,12 +1616,12 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "Innocent Encouragement",
     "idol": "Yusuke Aoi",
     "rarity": "R",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【無邪気な掛け声】蒼井%20悠介/::ref/【無邪気な掛け声】蒼井悠介.png.webp?rev=d15a8796b85aca8efe7604f950369f9a&t=20220421090209",
+    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【無邪気な掛け声】蒼井%20悠介/::ref/【無邪気な掛け声】蒼井悠介＋.png.webp?rev=91948fcf37929bf7bafb112c7f4a99de&t=2022042109022",
     "limited": false
   },
 
@@ -1644,12 +1644,12 @@
     "limited": false
   },
   {
-    "name": "",
+    "name": "Thinking About the Wrapping",
     "idol": "Hideo Akuno",
     "rarity": "SR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【思い巡らすラッピング】握野%20英雄/::ref/【思い巡らすラッピング】握野英雄.png.webp?rev=42907023e61704e9e56080aad4bfc9a6&t=20220501191421",
+    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【思い巡らすラッピング】握野%20英雄/::ref/【思い巡らすラッピング】握野英雄%2B.png.webp?rev=79bb877444678bda9b9fcd09fe42c3b2&t=20220501191435",
     "limited": true
   },
   {
@@ -1695,8 +1695,8 @@
     "idol": "Touma Amagase",
     "rarity": "SSR",
     "attribute": "physical",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%81%A9%E3%82%93%E3%81%AA%E5%8B%9D%E8%B2%A0%E3%82%82%E5%85%A8%E5%8A%9B%EF%BC%81%E3%80%91%E5%A4%A9%E3%83%B6%E7%80%AC%20%E5%86%AC%E9%A6%AC/::attach/%E3%80%90%E3%81%A9%E3%82%93%E3%81%AA%E5%8B%9D%E8%B2%A0%E3%82%82%E5%85%A8%E5%8A%9B%EF%BC%81%E3%80%91%E5%A4%A9%E3%83%B6%E7%80%AC%E5%86%AC%E9%A6%AC%2B.png?rev=44cbd78b685d59f2dd0503a3a8cd937c&t=20220111230833",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E8%B3%91%E3%82%84%E3%81%8B%E3%81%AA%E3%83%A9%E3%83%B3%E3%82%A6%E3%82%A7%E3%82%A4%E3%80%91%E5%A4%A9%E3%83%B6%E7%80%AC%20%E5%86%AC%E9%A6%AC/::attach/%E3%80%90%E8%B3%91%E3%82%84%E3%81%8B%E3%81%AA%E3%83%A9%E3%83%B3%E3%82%A6%E3%82%A7%E3%82%A4%E3%80%91%E5%A4%A9%E3%83%B6%E7%80%AC%20%E5%86%AC%E9%A6%AC%2B.png?rev=69e877002dd47af7553f3805dfabb6d7&t=20220528082420",
+    "unawakened": "../images/card-images/Touma/ToumaSSR2_unawakened.png",
+    "awakened": "../images/card-images/Touma/ToumaSSR2_awakened.png",
     "limited": true
   },
   {
@@ -1741,8 +1741,8 @@
     "idol": "Teru Tendo",
     "rarity": "SSR",
     "attribute": "physical",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E9%9B%A8%E4%B8%8A%E3%81%8C%E3%82%8A%E3%82%92%E5%BE%85%E3%81%A1%E3%82%8F%E3%81%B3%E3%81%A6%E3%80%91%E5%A4%A9%E9%81%93%20%E8%BC%9D/::attach/%E3%80%90%E9%9B%A8%E4%B8%8A%E3%81%8C%E3%82%8A%E3%82%92%E5%BE%85%E3%81%A1%E3%82%8F%E3%81%B3%E3%81%A6%E3%80%91%E5%A4%A9%E9%81%93%E8%BC%9D.png?rev=59e4ba7945a188b51ff7892db5d89a22&t=20220731165851",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E9%9B%A8%E4%B8%8A%E3%81%8C%E3%82%8A%E3%82%92%E5%BE%85%E3%81%A1%E3%82%8F%E3%81%B3%E3%81%A6%E3%80%91%E5%A4%A9%E9%81%93%20%E8%BC%9D/::attach/%E3%80%90%E9%9B%A8%E4%B8%8A%E3%81%8C%E3%82%8A%E3%82%92%E5%BE%85%E3%81%A1%E3%82%8F%E3%81%B3%E3%81%A6%E3%80%91%E5%A4%A9%E9%81%93%E8%BC%9D%2B.png?rev=d58af4e01017132485565b140d443379&t=20220731165857",
+    "unawakened": "../images/card-images/Teru/TeruSSR2_unawakened.png",
+    "awakened": "../images/card-images/Teru/TeruSSR2_awakened.png",
     "limited": false
   },
   {
@@ -1824,8 +1824,8 @@
     "idol": "Hokuto Ijuuin",
     "rarity": "R",
     "attribute": "intelligent",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E6%AD%93%E5%BE%85%E3%81%99%E3%82%8B%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AB%E3%80%91%E4%BC%8A%E9%9B%86%E9%99%A2%20%E5%8C%97%E6%96%97/::attach/%E3%80%90%E6%AD%93%E5%BE%85%E3%81%99%E3%82%8B%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AB%E3%80%91%E4%BC%8A%E9%9B%86%E9%99%A2%E5%8C%97%E6%96%97.png?rev=024879e8336960f36ffbdc7fa0830be8&t=20220619193146",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E6%AD%93%E5%BE%85%E3%81%99%E3%82%8B%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AB%E3%80%91%E4%BC%8A%E9%9B%86%E9%99%A2%20%E5%8C%97%E6%96%97/::attach/%E3%80%90%E6%AD%93%E5%BE%85%E3%81%99%E3%82%8B%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AB%E3%80%91%E4%BC%8A%E9%9B%86%E9%99%A2%E5%8C%97%E6%96%97%2B.png?rev=1e4d5767bedff4277d3e3cdbcde53ddb&t=20220619193151",
+    "unawakened": "../images/card-images/Hokuto/HokutoR2_unawakened.png",
+    "awakened": "../images/card-images/Hokuto/HokutoR2_awakened.png",
     "limited": false
   },
 
@@ -1997,12 +1997,12 @@
   },
 
   {
-    "name": "",
+    "name": "Surging Blue Storm",
     "idol": "Hideo Akuno",
     "rarity": "SSR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【巻き上がる青い嵐】握野%20英雄/::ref/【巻き上がる青い嵐】握野英雄.png.webp?rev=b194c9979d3bb76b29667f6e47de0628&t=20220812095327",
+    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【巻き上がる青い嵐】握野%20英雄/::ref/【巻き上がる青い嵐】握野英雄%2B.png.webp?rev=f3477ffa0064356bd90a9cf013a5b169&t=20220812095338",
     "limited": true
   },
   {
@@ -2099,12 +2099,12 @@
   },
 
   {
-    "name": "",
+    "name": "Charming Turn",
     "idol": "Yusuke Aoi",
     "rarity": "SSR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【魅力的なターン】蒼井%20悠介/::ref/【魅力的なターン】蒼井%20悠介.png.webp?rev=028aa1ddab40c6fd490ad896576a2682&t=20220915120819",
+    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【魅力的なターン】蒼井%20悠介/::ref/【魅力的なターン】蒼井%20悠介＋.png.webp?rev=65bf311c97eb613b6cd5edddcd48f0ea&t=20220915120827",
     "limited": true
   },
   {
@@ -2117,22 +2117,22 @@
     "limited": false
   },
   {
-    "name": "",
+    "name": "Fully Powered Step Forward",
     "idol": "Seiji Shingen",
     "rarity": "SR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【前進全力の一歩】信玄%20誠司/::ref/【前進全力の一歩】信玄%20誠司.png.webp?rev=4ba5da558cc5250f060644701b10f10c&t=20220911232609",
+    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【前進全力の一歩】信玄%20誠司/::ref/【前進全力の一歩】信玄%20誠司＋.png.webp?rev=5e677342a8e043bfc6d855a84f53f468&t=20220911232617",
     "limited": false
   },
 
   {
-    "name": "",
+    "name": "Blue Dragon Flash",
     "idol": "Ryu Kimura",
     "rarity": "SSR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【蒼き龍が放つ閃光】木村%20龍/::ref/【蒼き龍が放つ閃光】木村龍.png.webp?rev=c06465acc98afd0af967d34de3982919&t=20220920012135",
+    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【蒼き龍が放つ閃光】木村%20龍/::ref/【蒼き龍が放つ閃光】木村龍%2B.png.webp?rev=b3c5eb61af8b40e237304b19dec7101d&t=20220920012140",
     "limited": true
   },
   {
@@ -2196,8 +2196,8 @@
     "idol": "Shouta Mitarai",
     "rarity": "SSR",
     "attribute": "mental",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%83%91%E3%82%B8%E3%83%A3%E3%83%9E%E3%81%A7%E5%A4%A7%E6%B1%BA%E6%88%A6%21%3F%E3%80%91%E5%BE%A1%E6%89%8B%E6%B4%97%20%E7%BF%94%E5%A4%AA/::attach/%E3%80%90%E3%83%91%E3%82%B8%E3%83%A3%E3%83%9E%E3%81%A7%E5%A4%A7%E6%B1%BA%E6%88%A6%21%E3%80%91%E5%BE%A1%E6%89%8B%E6%B4%97%20%E7%BF%94%E5%A4%AA.png?rev=e3e21d16ca6fa596af9abd7db7c94979&t=20221008024825",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%83%91%E3%82%B8%E3%83%A3%E3%83%9E%E3%81%A7%E5%A4%A7%E6%B1%BA%E6%88%A6%21%3F%E3%80%91%E5%BE%A1%E6%89%8B%E6%B4%97%20%E7%BF%94%E5%A4%AA/::attach/%E3%80%90%E3%83%91%E3%82%B8%E3%83%A3%E3%83%9E%E3%81%A7%E5%A4%A7%E6%B1%BA%E6%88%A6%21%E3%80%91%E5%BE%A1%E6%89%8B%E6%B4%97%20%E7%BF%94%E5%A4%AA%2B.png?rev=f22ce8f9aed2df7732ffba024f7aa32f&t=20221008024836",
+    "unawakened": "../images/card-images/Shouta/ShoutaSSR2_unawakened.png",
+    "awakened": "../images/card-images/Shouta/ShoutaSSR2_awakened.png",
     "limited": true
   },
   {
@@ -2284,12 +2284,12 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "Invitation to a Blue World",
     "idol": "Hideo Akuno",
     "rarity": "R",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【蒼き世界への招待】握野%20英雄/::ref/【蒼き世界への招待】握野%20英雄.png.webp?rev=bf2506c3d1e27e3782341d6d2f657209&t=20221020191914",
+    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【蒼き世界への招待】握野%20英雄/::attach/【蒼き世界への招待】握野%20英雄＋.png?rev=34548c9346c57c7cc85ca2bba83fb0df&t=20221020191924",
     "limited": false
   },
 
@@ -2409,8 +2409,8 @@
     "idol": "Touma Amagase",
     "rarity": "SSR",
     "attribute": "physical",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E9%A0%BC%E3%82%8C%E3%82%8B%E7%86%B1%E8%A1%80%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%91%E5%A4%A9%E3%83%B6%E7%80%AC%20%E5%86%AC%E9%A6%AC/::attach/%E3%80%90%E9%A0%BC%E3%82%8C%E3%82%8B%E7%86%B1%E8%A1%80%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%91%E5%A4%A9%E3%83%B6%E7%80%AC%20%E5%86%AC%E9%A6%AC.png?rev=2a84408f88c90bb8169d4a75190b1fb7&t=20221203204740",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E9%A0%BC%E3%82%8C%E3%82%8B%E7%86%B1%E8%A1%80%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%91%E5%A4%A9%E3%83%B6%E7%80%AC%20%E5%86%AC%E9%A6%AC/::attach/%E3%80%90%E9%A0%BC%E3%82%8C%E3%82%8B%E7%86%B1%E8%A1%80%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%91%E5%A4%A9%E3%83%B6%E7%80%AC%20%E5%86%AC%E9%A6%AC%EF%BC%8B.png?rev=09fa5d61af3b52d01ffe46ad308c3f31&t=20221203204748",
+    "unawakened": "../images/card-images/Touma/ToumaSSR3_unawakened.png",
+    "awakened": "../images/card-images/Touma/ToumaSSR3_awakened.png",
     "limited": false
   },
   {
@@ -2433,12 +2433,12 @@
   },
 
   {
-    "name": "",
+    "name": "Gifting a Shining Moment",
     "idol": "Seiji Shingen",
     "rarity": "SSR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【輝く時を贈る】信玄%20誠司/::ref/【輝く時を贈る】信玄誠司.png.webp?rev=10e47ebd19a5b002435d7b8a90f002a7&t=20221212235425",
+    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【輝く時を贈る】信玄%20誠司/::ref/【輝く時を贈る】信玄誠司%2B.png.webp?rev=a9f45ad915853cd5ab1ba3e2fc8928a3&t=20221212235",
     "limited": true
   },
   {
@@ -2502,8 +2502,8 @@
     "idol": "Hokuto Ijuuin",
     "rarity": "SSR",
     "attribute": "intelligent",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E8%A1%8C%E3%81%8D%E5%85%88%E3%81%B8%E5%B0%8E%E3%81%8F%E4%B8%83%E3%81%A4%E6%98%9F%E3%80%91%E4%BC%8A%E9%9B%86%E9%99%A2%20%E5%8C%97%E6%96%97/::attach/%E3%80%90%E8%A1%8C%E3%81%8D%E5%85%88%E3%81%B8%E5%B0%8E%E3%81%8F%E4%B8%83%E3%81%A4%E6%98%9F%E3%80%91%E4%BC%8A%E9%9B%86%E9%99%A2%20%E5%8C%97%E6%96%97.png?rev=8cfc34fe2d0efa158b6d852d03d1452e&t=20221228235608",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E8%A1%8C%E3%81%8D%E5%85%88%E3%81%B8%E5%B0%8E%E3%81%8F%E4%B8%83%E3%81%A4%E6%98%9F%E3%80%91%E4%BC%8A%E9%9B%86%E9%99%A2%20%E5%8C%97%E6%96%97/::attach/%E3%80%90%E8%A1%8C%E3%81%8D%E5%85%88%E3%81%B8%E5%B0%8E%E3%81%8F%E4%B8%83%E3%81%A4%E6%98%9F%E3%80%91%E4%BC%8A%E9%9B%86%E9%99%A2%20%E5%8C%97%E6%96%97%EF%BC%8B.png?rev=52b1a9fedddf9f0c1df19d40a22b2c43&t=20221228235613",
+    "unawakened": "../images/card-images/Hokuto/HokutoSSR2_unawakened.png",
+    "awakened": "../images/card-images/Hokuto/HokutoSSR2_awakened.png",
     "limited": true
   },
   {
@@ -2511,8 +2511,8 @@
     "idol": "Teru Tendo",
     "rarity": "SSR",
     "attribute": "physical",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E9%9B%A8%E4%B8%8A%E3%81%8C%E3%82%8A%E3%82%92%E5%BE%85%E3%81%A1%E3%82%8F%E3%81%B3%E3%81%A6%E3%80%91%E5%A4%A9%E9%81%93%20%E8%BC%9D/::attach/%E3%80%90%E9%9B%A8%E4%B8%8A%E3%81%8C%E3%82%8A%E3%82%92%E5%BE%85%E3%81%A1%E3%82%8F%E3%81%B3%E3%81%A6%E3%80%91%E5%A4%A9%E9%81%93%E8%BC%9D%2B.png?rev=d58af4e01017132485565b140d443379&t=20220731165857",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E8%BC%9D%E3%81%8D%E7%85%A7%E3%82%89%E3%81%99%E6%9C%80%E9%AB%98%E3%81%AE%E7%AC%91%E9%A1%94%E3%80%91%E5%A4%A9%E9%81%93%20%E8%BC%9D/::attach/%E3%80%90%E8%BC%9D%E3%81%8D%E7%85%A7%E3%82%89%E3%81%99%E6%9C%80%E9%AB%98%E3%81%AE%E7%AC%91%E9%A1%94%E3%80%91%E5%A4%A9%E9%81%93%20%E8%BC%9D%EF%BC%8B.png?rev=12ed113bfa0cf6133b2c91142588dda3&t=20221228235139",
+    "unawakened": "../images/card-images/Teru/TeruSSR3_unawakened.png",
+    "awakened": "../images/card-images/Teru/TeruSSR3_awakened.png",
     "limited": true
   },
   {
@@ -2536,12 +2536,12 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "A Big Job to Celebrate Good Luck",
     "idol": "Hideo Akuno",
     "rarity": "SSR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【縁起を祝う大仕事】握野%20英雄/::ref/【縁起を祝う大仕事】握野英雄.png.webp?rev=f3e615aec68a01734da5dd45dcbb5627&t=20230102014250",
+    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【縁起を祝う大仕事】握野%20英雄/::ref/【縁起を祝う大仕事】握野英雄%2B.png.webp?rev=992f6d9d19ccfbf0a21a7f9ced9b3497&t=20230102014254",
     "limited": false
   },
   {
@@ -2623,8 +2623,8 @@
     "idol": "Teru Tendo",
     "rarity": "R",
     "attribute": "physical",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E7%9F%A5%E8%AD%98%E3%82%92%E6%8E%A2%E3%81%97%E3%81%AB%E3%80%91%E5%A4%A9%E9%81%93%20%E8%BC%9D/::attach/%E3%80%90%E7%9F%A5%E8%AD%98%E3%82%92%E6%8E%A2%E3%81%97%E3%81%AB%E3%80%91%E5%A4%A9%E9%81%93%20%E8%BC%9D.png?rev=bd53f214ccaa2ded41b4c20e45c84f7c&t=20230121231133",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E7%9F%A5%E8%AD%98%E3%82%92%E6%8E%A2%E3%81%97%E3%81%AB%E3%80%91%E5%A4%A9%E9%81%93%20%E8%BC%9D/::attach/%E3%80%90%E7%9F%A5%E8%AD%98%E3%82%92%E6%8E%A2%E3%81%97%E3%81%AB%E3%80%91%E5%A4%A9%E9%81%93%20%E8%BC%9D.png?rev=bd53f214ccaa2ded41b4c20e45c84f7c&t=20230121231133",
+    "unawakened": "../images/card-images/Teru/TeruR3_unawakened.png",
+    "awakened": "../images/card-images/Teru/TeruR3_awakened.png",
     "limited": false
   },
 
@@ -2638,12 +2638,12 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "Heartening Present",
     "idol": "Yusuke Aoi",
     "rarity": "SSR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【心浮き立つ贈り物】蒼井%20悠介/::ref/【心浮き立つ贈り物】蒼井%20悠介.png.webp?rev=b259901f6e4bbf5e83b00fe00dc4f69d&t=20230218122952",
+    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【心浮き立つ贈り物】蒼井%20悠介/::ref/【心浮き立つ贈り物】蒼井%20悠介＋.png.webp?rev=fdb199506f1c1ff1b920aa36911d2655&t=20230218123002",
     "limited": false
   },
   {
@@ -2675,12 +2675,12 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "Thieving Dolce",
     "idol": "Ryu Kimura",
     "rarity": "SSR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【掴み取るドルチェ】木村%20龍/::ref/【掴み取るドルチェ】木村龍.png.webp?rev=1f8d89bda1f0098307747b526b568d6e&t=20230212012515",
+    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【掴み取るドルチェ】木村%20龍/::ref/【掴み取るドルチェ】木村龍%2B.png.webp?rev=6ed51eb9d5cdeab478a89eaa4f2e4806&t=20230212012524",
     "limited": false
   },
   {
@@ -2725,8 +2725,8 @@
     "idol": "Shouta Mitarai",
     "rarity": "R",
     "attribute": "mental",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E4%BD%99%E8%A3%95%E3%81%AE%E3%82%B9%E3%82%B1%E3%83%BC%E3%82%BF%E3%83%BC%E3%80%91%E5%BE%A1%E6%89%8B%E6%B4%97%20%E7%BF%94%E5%A4%AA/::attach/%E3%80%90%E4%BD%99%E8%A3%95%E3%81%AE%E3%82%B9%E3%82%B1%E3%83%BC%E3%82%BF%E3%83%BC%E3%80%91%E5%BE%A1%E6%89%8B%E6%B4%97%20%E7%BF%94%E5%A4%AA.png?rev=d618be5e139090f8590875849431a721&t=20230219225738",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E4%BD%99%E8%A3%95%E3%81%AE%E3%82%B9%E3%82%B1%E3%83%BC%E3%82%BF%E3%83%BC%E3%80%91%E5%BE%A1%E6%89%8B%E6%B4%97%20%E7%BF%94%E5%A4%AA/::attach/%E3%80%90%E4%BD%99%E8%A3%95%E3%81%AE%E3%82%B9%E3%82%B1%E3%83%BC%E3%82%BF%E3%83%BC%E3%80%91%E5%BE%A1%E6%89%8B%E6%B4%97%20%E7%BF%94%E5%A4%AA%EF%BC%8B.png?rev=7b79f4e2836dcbd3af77d4118f296eea&t=20230219225744",
+    "unawakened": "../images/card-images/Shouta/ShoutaR2_unawakened.png",
+    "awakened": "../images/card-images/Shouta/ShoutaR2_awakened.png",
     "limited": false
   },
 
@@ -2749,12 +2749,12 @@
     "limited": false
   },
   {
-    "name": "",
+    "name": "Sending You My White Sincerity",
     "idol": "Seiji Shingen",
     "rarity": "SR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【白い真心を届けに】信玄%20誠司/::ref/【白い真心を届けに】信玄誠司.jpg.webp?rev=0b039971dbffed48593cf9f7b6ae0b21&t=20230301234826",
+    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【白い真心を届けに】信玄%20誠司/::ref/【白い真心を届けに】信玄誠司%2B.jpg.webp?rev=54bf2822336e1b74c6233ff07642aecc&t=20230301234841",
     "limited": true
   },
   {

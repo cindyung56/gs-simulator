@@ -16,32 +16,17 @@ function App() {
       const response = await fetch("/api/banner");
       const newData = await response.json();
       let b = newData;
-      for (let i = 0; i < b.length; i++) {
-        // if (b[i].name == "GROWING TWILIGHT LIVE GACHA"){
-        //   const bgArraySplit = b[i].backgroundImages.split(';');
-        //   console.log(bgArraySplit);
-        //   const backgroundImagesArray = [];
-        //   for (let j = 0; j < bgArraySplit.length; j++){
-        //     backgroundImagesArray.push(require(bgArraySplit[j]));
-        //   }
-        //   b[i].backgroundImages = backgroundImagesArray;
-        // }
-        
+      for (let i = 0; i < b.length; i++) {        
         b[i].backgroundImages = b[i].backgroundImages.split(";");
-        
         b[i].featured = b[i].featured.split(";");
 
-        // if (b[i].featured) {
-        //   var new_featured = [];
-        //   for (let j = 0; i < b[i].featured.length; j++) {
-        //     new_featured.push(parseInt(b[i].featured[j]));
-        //   }
-
-        //   b[i].featured = new_featured;
-        // }
-
+        if (b[i].featured){
+          for (let j = 0; j < b[i].featured.length; j++) {
+            b[i].featured[j] = parseInt(b[i].featured[j]);
+          }
+        }
       }
-      console.log(b);
+      // console.log(b);
       setBannerL(b);
       setLoading(false);
     };
@@ -72,17 +57,3 @@ export default App;
 // }, []);
 
 /* <p>{!data ? "Loading..." : data}</p> */
-
-/*
-
-  {
-    "name": "A Product to Decorate the New Chapter of Your Life ~Stationery Collab~ Gacha",
-    "bannerArt": "",
-    "backgroundImages": [
-      "https://project-imas.wiki/images/f/ff/Suzaku_GS_SSR3%2B.jpg",
-      "https://project-imas.wiki/images/a/a5/Soichiro_GS_SSR3%2B.jpg"
-    ],
-    "sparkCounter": 0
-  }
-
-*/

@@ -96,7 +96,7 @@ export default function Home(props) {
               style={{
                 position: "relative",
                 width: "100%",
-                marginTop: "1vh",
+                // marginTop: "1vh",
               }}
               onClick={() => changeActiveBanner(b)}
             >

@@ -18,9 +18,9 @@ export default function Details(props) {
     setActiveOption(a);
   }
 
-  useEffect(() => {
-    console.log(activeOption);
-  }, [activeOption]);
+  // useEffect(() => {
+  //   console.log(activeOption);
+  // }, [activeOption]);
 
   return (
     <div className="details-container">
