@@ -26,7 +26,6 @@ function App() {
           }
         }
       }
-      // console.log(b);
       setBannerL(b);
       setLoading(false);
     };
