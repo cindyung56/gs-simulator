@@ -1,8 +1,10 @@
-import React from "react";
+import React, {useState} from "react";
 import "./style.css";
 
 export default function Results(props) {
   const { goHome, pull } = props;
+
+  const [cardList, setCardList] = useState([]);
 
   function convertToCardResult(result) {
     if (result < 4) return "SRR";
@@ -51,10 +53,6 @@ export default function Results(props) {
       else if (i <= 99) SRCards.push(i);
       else SSRCards.push(i);
     }
-    // SSRCards.push(bannerFeatured[0]);
-    // SSRCards.push(bannerFeatured[1]);
-    // SRCards.push(bannerFeatured[2]);
-    // RCards.push(bannerFeatured[3]);
 
     // TODO: fetch card data from database based on card number
     for (let r of rArray) {
@@ -67,29 +65,32 @@ export default function Results(props) {
         cardNumber =
           SSRCards[Math.floor(Math.random() * SSRCards.length)];
       }
-      console.log(r, cardNumber);
 
       const cardData = async () => {
-        const response = await fetch(`/api/card/${cardNumber}`);
+        const response = await fetch(`api/card/${cardNumber}`);
         const data = await response.json();
         return data;
       };
-      console.log(cardData.name, cardData.idol, cardData.rarity);
-      cards.push(cardData);
+      cardData().then((data) => {
+        cards.push(data);
+      }).catch(error => console.log(error));
+      
     }
-    return cards;
+    console.log(cards)
+    setCardList(cards);
   }
 
-  function displayCards(rArray) {
-    return rArray.map((r, i) => (
-      <div key={i} className="card">
-        <p>{r}</p>
-      </div>
-    ));
-  }
+  // const displayCards = async(rArray) => {
+  //   console.log(rArray[0]);
+  //   return rArray.map((r, i) => (
+  //     <div key={i} className="card">
+  //       <p>{`${r.name}: ${r.idol} (${r.rarity})`}</p>
+  //     </div>
+  //   ));
+  // }
 
   const pulls =
-    pull === 1 ? displayCards(generateCards([pullOne()])) : displayCards(pullTen());
+    pull === 1 ? (generateCards([pullOne()])) : (pullTen());
 
   return (
     <div>

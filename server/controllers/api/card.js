@@ -3,15 +3,17 @@ const { Card } = require("../../models");
 
 // GET one card via ID
 router.get("/:id", async (req, res) => {
-  try {
+  try{
+    console.log("finding card...");
     const cardData = await Card.findOne({
-      id: req.params.id,
+      where: {id: req.params.id}
     });
-    console.log(cardData);
-    res.status(200).json(cardData);
-  } catch (err) {
+    res.json(cardData);
+  } catch (err){
+    console.error(err);
     res.status(500).json(err);
   }
+
 });
 
 // GET all cards from table
