@@ -13,12 +13,7 @@ export default function Results(props) {
     return convertToCardResult(r);
   };
 
-  // function to generate 10 random results
-  // pull 9 cards first and check if there was at least 1 SR or above, change SRAbove to be true if so
-  // for the 10th card, we check SRAbove;
-  // if true, pull one more card with normal rates;
-  // if false, pull from 0 to 20 to get guaranteed SR or above
-  // finally, return the array
+  // pull 10 result, guaranteed 1 SR
   const pullTen = () => {
     const rArray = [];
     let SRAbove = false;
@@ -35,64 +30,45 @@ export default function Results(props) {
     return rArray;
   };
 
-  useEffect(() => {
-    pull === 1 ? generateCards([pullOne()]) : generateCards(pullTen());
-    setLoading(false);
-  }, []);
-
   function convertToCardResult(result) {
     if (result < 4) return "SRR";
     else if (result < 20) return "SR";
     else return "R";
   }
 
-  // function to get card pictures/data from database based on card number and rarity
-  function generateCards(rArray) {
-    const cards = [];
+  useEffect(() => {
+    const pulls = pull === 1 ? [pullOne()] : pullTen();
 
-    const RCards = []; // 1- 49
-    const SRCards = []; // 50 - 99
-    const SSRCards = []; // 99 - 104
+    const generateCards = async (rArray) => {
+      const RCards = [...Array(49).keys()].map((i) => i + 1);
+      const SRCards = [...Array(50).keys()].map((i) => i + 50);
+      const SSRCards = [...Array(6).keys()].map((i) => i + 99);
 
-    for (let i = 1; i < 105; i++) {
-      if (i <= 49) RCards.push(i);
-      else if (i <= 99) SRCards.push(i);
-      else SSRCards.push(i);
-    }
-
-    // TODO: fetch card data from database based on card number
-    for (let r of rArray) {
-      let cardNumber;
-      if (r === "R") {
-        cardNumber = RCards[Math.floor(Math.random() * RCards.length)];
-      } else if (r === "SR") {
-        cardNumber = SRCards[Math.floor(Math.random() * SRCards.length)];
-      } else {
-        cardNumber = SSRCards[Math.floor(Math.random() * SSRCards.length)];
-      }
-
-      const cardData = async () => {
+      const fetchCard = async (rarity) => {
+        let cardNumber;
+        if (rarity === "R") {
+          cardNumber = RCards[Math.floor(Math.random() * RCards.length)];
+        } else if (rarity === "SR") {
+          cardNumber = SRCards[Math.floor(Math.random() * SRCards.length)];
+        } else {
+          cardNumber = SSRCards[Math.floor(Math.random() * SSRCards.length)];
+        }
         const response = await fetch(`api/card/${cardNumber}`);
-        const data = await response.json();
-        return data;
+        return response.json();
       };
-      cardData()
-        .then((data) => {
-          cards.push(data);
-        })
-        .catch((error) => console.log(error));
-    }
-    console.log(cards);
-    setCardList(cards);
-  }
 
-  const displayCards = (rArray) => {
-    return rArray.map((r, i) => (
-      <div key={i} className="card">
-        <p>{`${r.name}: ${r.idol} (${r.rarity})`}</p>
-      </div>
-    ));
-  };
+      try {
+        const cards = await Promise.all(rArray.map(fetchCard));
+        setCardList(cards);
+      } catch (error) {
+        console.error("Error fetching card data:", error);
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    generateCards(pulls);
+  }, [pull]);
 
   if (loading) {
     return <div>"loading..."</div>;
@@ -100,9 +76,11 @@ export default function Results(props) {
     return (
       <div>
         <h1>WISH PAGE</h1>
-        {console.log(cardList)}
         {cardList.map((card) => (
-          <p key={card.id}>{`${card.name}: ${card.idol} (${card.rarity})`}</p>
+          <div>
+            <p key={card.id}>{`${card.name}: ${card.idol} (${card.rarity})`}</p>
+            {/* <img src={card.unawakened} alt="card art"/> */}
+          </div>
         ))}
         <button className="continue-btn" onClick={goHome}>
           →
