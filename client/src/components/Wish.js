@@ -1,28 +1,20 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import "./style.css";
 
 export default function Results(props) {
   const { goHome, pull } = props;
 
-  function convertToCardResult(result) {
-    if (result < 4) return "SRR";
-    else if (result < 20) return "SR";
-    else return "R";
-  }
+  const [cardList, setCardList] = useState([]);
+  const [loading, setLoading] = useState(true);
 
   // pull one result with normal rates
-  function pullOne() {
+  const pullOne = () => {
     const r = Math.floor(Math.random() * 100);
     return convertToCardResult(r);
-  }
+  };
 
-  // function to generate 10 random results
-  // pull 9 cards first and check if there was at least 1 SR or above, change SRAbove to be true if so
-  // for the 10th card, we check SRAbove; 
-  // if true, pull one more card with normal rates; 
-  // if false, pull from 0 to 20 to get guaranteed SR or above
-  // finally, return the array
-  function pullTen() {
+  // pull 10 result, guaranteed 1 SR
+  const pullTen = () => {
     const rArray = [];
     let SRAbove = false;
     for (let i = 0; i < 9; i++) {
@@ -36,28 +28,64 @@ export default function Results(props) {
       ? rArray.push(pullOne())
       : rArray.push(convertToCardResult(Math.floor(Math.random() * 20)));
     return rArray;
+  };
+
+  function convertToCardResult(result) {
+    if (result < 4) return "SRR";
+    else if (result < 20) return "SR";
+    else return "R";
   }
 
-  // function to get card pictures/data from database based on card number and rarity
-  function generateCards() {}
+  useEffect(() => {
+    const pulls = pull === 1 ? [pullOne()] : pullTen();
 
-  function displayCards(rArray) {
-    return rArray.map((r, i) => (
-      <div key={i} className="card">
-        <p>{r}</p>
+    const generateCards = async (rArray) => {
+      const RCards = [...Array(49).keys()].map((i) => i + 1);
+      const SRCards = [...Array(50).keys()].map((i) => i + 50);
+      const SSRCards = [...Array(6).keys()].map((i) => i + 99);
+
+      const fetchCard = async (rarity) => {
+        let cardNumber;
+        if (rarity === "R") {
+          cardNumber = RCards[Math.floor(Math.random() * RCards.length)];
+        } else if (rarity === "SR") {
+          cardNumber = SRCards[Math.floor(Math.random() * SRCards.length)];
+        } else {
+          cardNumber = SSRCards[Math.floor(Math.random() * SSRCards.length)];
+        }
+        const response = await fetch(`api/card/${cardNumber}`);
+        return response.json();
+      };
+
+      try {
+        const cards = await Promise.all(rArray.map(fetchCard));
+        setCardList(cards);
+      } catch (error) {
+        console.error("Error fetching card data:", error);
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    generateCards(pulls);
+  }, [pull]);
+
+  if (loading) {
+    return <div>"loading..."</div>;
+  } else {
+    return (
+      <div>
+        <h1>WISH PAGE</h1>
+        {cardList.map((card) => (
+          <div>
+            <p key={card.id}>{`${card.name}: ${card.idol} (${card.rarity})`}</p>
+            {/* <img src={card.unawakened} alt="card art"/> */}
+          </div>
+        ))}
+        <button className="continue-btn" onClick={goHome}>
+          →
+        </button>
       </div>
-    ));
+    );
   }
-
-  const pulls = pull === 1 ? pullOne() : displayCards(pullTen());
-
-  return (
-    <div>
-      <h1>WISH PAGE</h1>
-      <p>{pulls}</p>
-      <button className="continue-btn" onClick={goHome}>
-        →
-      </button>
-    </div>
-  );
 }
