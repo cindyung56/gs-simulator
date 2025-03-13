@@ -112,8 +112,8 @@
     "idol": "Kyosuke Aoi",
     "rarity": "R",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【GROWING%20STARS】蒼井%20享介/::ref/【GROWING%20STARS】蒼井享介.png.webp?rev=a19b0774ae19405fe1638d2b48a825a4&t=20211023234522",
+    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【GROWING%20STARS】蒼井%20享介/::ref/【GROWING%20STARS】蒼井享介%2B.png.webp?rev=9ae31ab4cbca170e812445767fd13713&t=20211023234527",
     "limited": false
   },
   {
@@ -148,8 +148,8 @@
     "idol": "Shoma Hanamura",
     "rarity": "R",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【GROWING%20STARS】華村%20翔真/::ref/【GROWING%20STARS】華村翔真.png.webp?rev=3fab67515977345b09724e813843f72a&t=20211027091950",
+    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【GROWING%20STARS】華村%20翔真/::ref/【GROWING%20STARS】華村翔真%2B.png.webp?rev=f80249b40fc6c5bcad865e9fd9a1735c&t=20211027091958",
     "limited": false
   },
   {
@@ -157,8 +157,8 @@
     "idol": "Kirio Nekoyanagi",
     "rarity": "R",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【GROWING%20STARS】猫柳%20キリオ/::ref/【GROWING%20STARS】猫柳キリオ.png.webp?rev=07da94a3564d47e008e8ad51f64b6887&t=20211022003551",
+    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【GROWING%20STARS】猫柳%20キリオ/::ref/【GROWING%20STARS】猫柳キリオ%2B.png.webp?rev=a1e294ffeb265e7766c07d37ead35db4&t=20211022003556",
     "limited": false
   },
   {
@@ -577,30 +577,30 @@
     "limited": false
   },
   {
-    "name": "",
+    "name": "Brilliance of the Brainy Ace",
     "idol": "Kyosuke Aoi",
     "rarity": "SR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【頭脳派エースの輝き】蒼井%20享介/::ref/【頭脳派エースの輝き】蒼井享介.png.webp?rev=f9fab7311aba42723a2e841564c55a2f&t=20211027000114",
+    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【頭脳派エースの輝き】蒼井%20享介/::ref/【頭脳派エースの輝き】蒼井享介%20%2B.png.webp?rev=583a58e420d211853e05a5e0e1ebeed1&t=20211027000123",
     "limited": false
   },
   {
-    "name": "",
+    "name": "On the Brilliant Stage",
     "idol": "Shoma Hanamura",
     "rarity": "SR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【光り輝く舞台の上で】華村%20翔真/::attach/【光り輝く舞台の上で】華村翔真.png?rev=7d9510ee7bc382b03a9201cae378d6da&t=20211103102300",
+    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【光り輝く舞台の上で】華村%20翔真/::ref/【光り輝く舞台の上で】華村翔真%2B.png.webp?rev=0f2da701783e8583ffa1ba2c9fb22cdd&t=20211103102307",
     "limited": false
   },
   {
-    "name": "",
+    "name": "Shupipi~n!",
     "idol": "Kirio Nekoyanagi",
     "rarity": "SR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【しゅぴぴーん！】猫柳%20キリオ/::ref/【しゅぴぴーん！】猫柳キリオ.png.webp?rev=9c7c60596a6de5654ee5a98a5d67cd85&t=20211023150841",
+    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【しゅぴぴーん！】猫柳%20キリオ/::ref/【しゅぴぴーん！】猫柳キリオ%2B.png.webp?rev=cade81aa670a4b7ad5a0973cca1c562b&t=20211023150845",
     "limited": false
   },
   {
@@ -986,12 +986,12 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "Don't Overlook My Flourishing Arrangements",
     "idol": "Shoma Hanamura",
     "rarity": "SSR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【華の支度は抜かりなく】華村%20翔真/::ref/【華の支度は抜かりなく】華村翔真.png.webp?rev=0c576320db99c50fedf47c59366f541b&t=20211102225816",
+    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【華の支度は抜かりなく】華村%20翔真/::ref/【華の支度は抜かりなく】華村翔真%2B.png.webp?rev=588f1970e90465e2fdc0e193bea2dc5b&t=20211102225821",
     "limited": false
   },
   {
@@ -1041,12 +1041,12 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "Smile That Adorns the Night Sky",
     "idol": "Kirio Nekoyanagi",
     "rarity": "R",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【夜空を飾る笑顔】猫柳%20キリオ/::ref/【夜空を飾る笑顔】猫柳キリオ.png.webp?rev=b9131b155355656795f067bf7467a949&t=20211101235351",
+    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【夜空を飾る笑顔】猫柳%20キリオ/::ref/【夜空を飾る笑顔】猫柳キリオ%2B.png.webp?rev=47c19a29f1e3edc87e0238d6d40dc009&t=20211101235356",
     "limited": false
   },
 
@@ -1153,12 +1153,12 @@
   },
 
   {
-    "name": "",
+    "name": "Holiday Promise",
     "idol": "Kyosuke Aoi",
     "rarity": "SSR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【約束のホリデー】蒼井%20享介/::ref/【約束のホリデー】蒼井%20享介.png.webp?rev=451570eb8b7c8610d9b2f49dac96005a&t=20211211211241",
+    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【約束のホリデー】蒼井%20享介/::ref/【約束のホリデー】蒼井%20享介%2B.png.webp?rev=203e6430dfe6dd7d84f108c9c3ff1f7c&t=20211211211252",
     "limited": true
   },
   {
@@ -1190,12 +1190,12 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "Smile Appeal",
     "idol": "Kirio Nekoyanagi",
     "rarity": "SSR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【にっこりあぴーる】猫柳%20キリオ/::ref/A41B52CA-73B4-428D-8BB3-C9EB37156068.jpeg.webp?rev=b33292d8464a0095267ef4dc69756a70&t=20220104153608",
+    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【にっこりあぴーる】猫柳%20キリオ/::ref/FF706D60-199D-4170-BDB9-A8394D707621.jpeg.webp?rev=a3b438ef74878116e1434e0ba2f6ab73&t=20220104124832",
     "limited": false
   },
   {
@@ -1505,12 +1505,12 @@
     "limited": false
   },
   {
-    "name": "",
+    "name": "Warm Snow Blanket",
     "idol": "Shoma Hanamura",
     "rarity": "SR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【暖かな雪化粧】華村%20翔真/::ref/【暖かな雪化粧】華村翔真.png.webp?rev=2a6d0aac4cb2e882ac4c2bec9f141f2f&t=20220326005606",
+    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【暖かな雪化粧】華村%20翔真/::ref/【暖かな雪化粧】華村翔真＋.png.webp?rev=4789daf8e9d83e3592d54414c78d3d74&t=20220326005610",
     "limited": true
   },
   {
@@ -1579,12 +1579,12 @@
     "limited": false
   },
   {
-    "name": "",
+    "name": "Pioneer of Fun",
     "idol": "Kirio Nekoyanagi",
     "rarity": "SR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【楽しさの先導者】猫柳%20キリオ/::ref/【楽しさの先導者】猫柳キリオ.png.webp?rev=b1572eea987a3341b0fd0f5966fea8f2&t=20220412150214",
+    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【楽しさの先導者】猫柳%20キリオ/::ref/【楽しさの先導者】猫柳キリオ＋.png.webp?rev=10ec9ab9ab8be8ad8c713e998698782e&t=20220412150219",
     "limited": false
   },
 
@@ -1913,12 +1913,12 @@
     "limited": false
   },
   {
-    "name": "",
+    "name": "Brilliant Frozen Dessert",
     "idol": "Shoma Hanamura",
     "rarity": "SR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【華やかな氷菓子】華村%20翔真/::ref/【華やかな氷菓子】華村%20翔真.png.webp?rev=5921af4ec3f0994a91a293a5b3be50e3&t=20220713144551",
+    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【華やかな氷菓子】華村%20翔真/::ref/【華やかな氷菓子】華村%20翔真%2B.png.webp?rev=42c0ebce239e4b49dc1a549f8c5b1175&t=20220713144556",
     "limited": false
   },
   
@@ -2052,12 +2052,12 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "Leave the Spookings to Me",
     "idol": "Kyosuke Aoi",
     "rarity": "R",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【驚かすのは任せて】蒼井%20享介/::ref/【驚かすのは任せて】蒼井%20享介.png.webp?rev=555d3210f566c89674de30a17ff21ee5&t=20220819184723",
+    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【驚かすのは任せて】蒼井%20享介/::ref/【驚かすのは任せて】蒼井%20享介%2B.png.webp?rev=e843b9e1a038a9f8c4205744c34ee3aa&t=20220819184729",
     "limited": false
   },
 
@@ -2201,12 +2201,12 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "A Toast With Everyone!",
     "idol": "Kyosuke Aoi",
     "rarity": "SSR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/蒼井享介/::attach/【みんなでカンパイ%21】蒼井享介.jpg?rev=e59d19b755373219a3df0f5558c952ae&t=20221112001909",
+    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/蒼井享介/::attach/【みんなでカンパイ%21】蒼井享介＋.jpg?rev=64e25c40fcc950bb209e24005d904a75&t=20221112001917",
     "limited": false
   },
   {
@@ -2359,12 +2359,12 @@
   },
 
   {
-    "name": "",
+    "name": "Alluring Neon Sign",
     "idol": "Shoma Hanamura",
     "rarity": "SSR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【魅惑のネオンサイン】華村%20翔真/::ref/【魅惑のネオンサイン】華村翔真.jpg.webp?rev=c29708ae4ea806343afadcb860e3f6a0&t=20230106233802",
+    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【魅惑のネオンサイン】華村%20翔真/::ref/【魅惑のネオンサイン】華村翔真＋.jpg.webp?rev=1d2781dbc163f00ecf8b0eab94e7618e&t=20230106233846",
     "limited": true
   },
   {
@@ -2545,12 +2545,12 @@
     "limited": false
   },
   {
-    "name": "",
+    "name": "Decorations That Bring Good Fortune",
     "idol": "Kyosuke Aoi",
     "rarity": "SR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【福を呼ぶ飾り付け】蒼井%20享介/::ref/【福を呼ぶ飾り付け】蒼井享介%2B.png.webp?rev=f8c15b1e4aa27bf897ca6d5c40d9b3cc&t=20230102014805",
+    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【福を呼ぶ飾り付け】蒼井%20享介/::ref/【福を呼ぶ飾り付け】蒼井享介%2B.png.webp?rev=f8c15b1e4aa27bf897ca6d5c40d9b3cc&t=20230102014805",
     "limited": true
   },
   {
@@ -2647,12 +2647,12 @@
     "limited": false
   },
   {
-    "name": "",
+    "name": "Just One Special Thing",
     "idol": "Shoma Hanamura",
     "rarity": "SR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【ただひとつの特別を】華村%20翔真/::ref/【ただひとつの特別を】華村翔真.png.webp?rev=a7bb42c3a624b6d5e55f5b8ad55d83fd&t=20230202021341",
+    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【ただひとつの特別を】華村%20翔真/::ref/【ただひとつの特別を】華村翔真%2B.png.webp?rev=6318221043f254eaf1946e67fbcdeb17&t=20230202021346",
     "limited": true
   },
   {
@@ -2842,12 +2842,12 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "Dancing Under the Sunlight",
     "idol": "Shoma Hanamura",
     "rarity": "SSR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【陽光の下舞い踊る】華村%20翔真/::ref/【陽光の下舞い踊る】華村翔真.png.webp?rev=a9359c22b7c4e0582b8ce5e296bc5256&t=20230326163010",
+    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【陽光の下舞い踊る】華村%20翔真/::ref/【陽光の下舞い踊る】華村翔真%2B.png.webp?rev=16cf0ab3cbd8a092c9c313c30cfce902&t=20230326163016",
     "limited": true
   },
   {
