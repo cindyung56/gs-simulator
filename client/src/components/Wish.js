@@ -75,7 +75,7 @@ export default function Results(props) {
   } else {
     return (
       <div>
-        <h1>WISH PAGE</h1>
+        <h1>WISH RESULT</h1>
         {cardList.map((card) => (
           <div>
             <p key={card.id}>{`${card.name}: ${card.idol} (${card.rarity})`}</p>
