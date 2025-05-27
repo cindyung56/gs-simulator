@@ -103,8 +103,8 @@
     "idol": "Yusuke Aoi",
     "rarity": "R",
     "attribute": "mental",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【GROWING%20STARS】蒼井%20悠介/::ref/【GROWING%20STARS】蒼井悠介.jpg.webp?rev=60f0bbb3c70eabe805711d647050270e&t=20211028095911",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【GROWING%20STARS】蒼井%20悠介/::ref/【GROWING%20STARS】蒼井悠介%2B.jpg.webp?rev=aaa33372d526ab8df432268b18ddaab7&t=20211028095",
+    "unawakened": "../images/card-images/Yusuke/YusukeR1_unawakened.png",
+    "awakened": "../images/card-images/Yusuke/YusukeR1_awakened.png",
     "limited": false
   },
   {
@@ -112,8 +112,8 @@
     "idol": "Kyosuke Aoi",
     "rarity": "R",
     "attribute": "intelligent",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【GROWING%20STARS】蒼井%20享介/::ref/【GROWING%20STARS】蒼井享介.png.webp?rev=a19b0774ae19405fe1638d2b48a825a4&t=20211023234522",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【GROWING%20STARS】蒼井%20享介/::ref/【GROWING%20STARS】蒼井享介%2B.png.webp?rev=9ae31ab4cbca170e812445767fd13713&t=20211023234527",
+    "unawakened": "../images/card-images/Kyosuke/KyosukeR1_unawakened.png",
+    "awakened": "../images/card-images/Kyosuke/KyosukeR1_awakened.png",
     "limited": false
   },
   {
@@ -121,8 +121,8 @@
     "idol": "Hideo Akuno",
     "rarity": "R",
     "attribute": "intelligent",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【GROWING%20STARS】握野%20英雄/::attach/【GROWING%20STARS】握野英雄.png?rev=004fef20a4445cfaabe983936a5e4bd3&t=20211027105014",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【GROWING%20STARS】握野%20英雄/::ref/【GROWING%20STARS】握野英雄%2B.png.webp?rev=e4d5f4f9d6ae64a7e8b3f12a97bfecba&t=20211027105019",
+    "unawakened": "../images/card-images/Hideo/HideoR1_unawakened.png",
+    "awakened": "../images/card-images/Hideo/HideoR1_awakened.png",
     "limited": false
   },
   {
@@ -130,8 +130,8 @@
     "idol": "Ryu Kimura",
     "rarity": "R",
     "attribute": "physical",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【GROWING%20STARS】木村%20龍/::ref/【GROWING%20STARS】木村龍.png.webp?rev=6e5e85f3d82425a37f0b24a30a9750a3&t=20211022003806",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【GROWING%20STARS】木村%20龍/::ref/【GROWING%20STARS】木村龍%2B.png.webp?rev=d8374abb4d092b914ae63b86eb7e78e8&t=20211022003812",
+    "unawakened": "../images/card-images/Ryu/RyuR1_unawakened.png",
+    "awakened": "../images/card-images/Ryu/RyuR1_awakened.png",
     "limited": false
   },
   {
@@ -211,8 +211,8 @@
     "idol": "Haruna Wakazato",
     "rarity": "R",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Haruna/HarunaR1_unawakened.png",
+    "awakened": "../images/card-images/Haruna/HarunaR1_awakened.png",
     "limited": false
   },
   {
@@ -545,8 +545,8 @@
     "idol": "Hideo Akuno",
     "rarity": "SR",
     "attribute": "intelligent",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【胸に抱く正義】握野%20英雄/::ref/【胸に抱く正義】握野英雄.png.webp?rev=2cc882e79b622b2468b65f2ec7c4d2c6&t=20211019220539",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【胸に抱く正義】握野%20英雄/::ref/【胸に抱く正義】握野英雄%2B.png.webp?rev=4996746362c7a5ea018041d417299495&t=20211019220548",
+    "unawakened": "../images/card-images/Hideo/HideoSR1_unawakened.png",
+    "awakened": "../images/card-images/Hideo/HideoSR1_awakened.png",
     "limited": false
   },
   {
@@ -554,8 +554,8 @@
     "idol": "Ryu Kimura",
     "rarity": "SR",
     "attribute": "physical",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【勇気の炎】木村%20龍/::ref/【勇気の炎】木村龍.png.webp?rev=de2134e8a2130071204d0f9bbe572ba4&t=20211022015302",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【勇気の炎】木村%20龍/::ref/【勇気の炎】木村龍%2B.png.webp?rev=04cd006cc4923af5b824319b02bd2467&t=20211022015307",
+    "unawakened": "../images/card-images/Ryu/RyuSR1_unawakened.png",
+    "awakened": "../images/card-images/Ryu/RyuSR1_awakened.png",
     "limited": false
   },
   {
@@ -572,8 +572,8 @@
     "idol": "Yusuke Aoi",
     "rarity": "SR",
     "attribute": "mental",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【天才エースの煌めき】蒼井%20悠介/::ref/【天才エースの煌めき】蒼井悠介.png.webp?rev=f01784e5a36a6c010ec3b30c30e99ed1&t=20211029205517",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【天才エースの煌めき】蒼井%20悠介/::ref/【天才エースの煌めき】蒼井悠介%2B.png.webp?rev=2af4bb72ab447b02639b64b9708c8ed8&t=20211029205523",
+    "unawakened": "../images/card-images/Yusuke/YusukeSR1_unawakened.png",
+    "awakened": "../images/card-images/Yusuke/YusukeSR1_awakened.png",
     "limited": false
   },
   {
@@ -581,8 +581,8 @@
     "idol": "Kyosuke Aoi",
     "rarity": "SR",
     "attribute": "intelligent",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【頭脳派エースの輝き】蒼井%20享介/::ref/【頭脳派エースの輝き】蒼井享介.png.webp?rev=f9fab7311aba42723a2e841564c55a2f&t=20211027000114",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【頭脳派エースの輝き】蒼井%20享介/::ref/【頭脳派エースの輝き】蒼井享介%20%2B.png.webp?rev=583a58e420d211853e05a5e0e1ebeed1&t=20211027000123",
+    "unawakened": "../images/card-images/Kyosuke/KyosukeSR1_unawakened.png",
+    "awakened": "../images/card-images/Kyosuke/KyosukeSR1_awakened.png",
     "limited": false
   },
   {
@@ -649,12 +649,12 @@
     "limited": false
   },
   {
-    "name": "",
+    "name": "A Rhythm For Connecting Hearts",
     "idol": "Haruna Wakazato",
     "rarity": "SR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Haruna/HarunaSR1_unawakened.png",
+    "awakened": "../images/card-images/Haruna/HarunaSR1_awakened.png",
     "limited": false
   },
   {
@@ -907,8 +907,8 @@
     "idol": "Hideo Akuno",
     "rarity": "SSR",
     "attribute": "intelligent",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【君に届けたい言葉】握野%20英雄/::ref/【君に届けたい言葉】握野英雄.png.webp?rev=0d3e4b585b9a4d5fe7dff8680658f90f&t=20211013163435",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【君に届けたい言葉】握野%20英雄/::ref/【君に届けたい言葉】握野英雄%2B.png.webp?rev=a2848c4e806bbc7dc6e136f781758aea&t=20211013163510",
+    "unawakened": "../images/card-images/Hideo/HideoSSR1_unawakened.png",
+    "awakened": "../images/card-images/Hideo/HideoSSR1_awakened.png",
     "limited": false
   },
   {
@@ -1092,8 +1092,8 @@
     "idol": "Ryu Kimura",
     "rarity": "SSR",
     "attribute": "physical",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【予期せぬ鮮やかさ】木村%20龍/::ref/【予期せぬ鮮やかさ】木村龍.png.webp?rev=77610efb8e49dee52d63057a53bf1a89&t=20211201001230",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【予期せぬ鮮やかさ】木村%20龍/::ref/【予期せぬ鮮やかさ】木村龍%2B.png.webp?rev=58b01f54dacdd3d89a43b8a8c20d02c1&t=20211201001236",
+    "unawakened": "../images/card-images/Ryu/RyuSSR1_unawakened.png",
+    "awakened": "../images/card-images/Ryu/RyuSSR1_awakened.png",
     "limited": false
   },
   {
@@ -1157,8 +1157,8 @@
     "idol": "Kyosuke Aoi",
     "rarity": "SSR",
     "attribute": "intelligent",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【約束のホリデー】蒼井%20享介/::ref/【約束のホリデー】蒼井%20享介.png.webp?rev=451570eb8b7c8610d9b2f49dac96005a&t=20211211211241",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【約束のホリデー】蒼井%20享介/::ref/【約束のホリデー】蒼井%20享介%2B.png.webp?rev=203e6430dfe6dd7d84f108c9c3ff1f7c&t=20211211211252",
+    "unawakened": "../images/card-images/Kyosuke/KyosukeSSR1_unawakened.png",
+    "awakened": "../images/card-images/Kyosuke/KyosukeSSR1_awakened.png",
     "limited": true
   },
   {
@@ -1203,8 +1203,8 @@
     "idol": "Ryu Kimura",
     "rarity": "SR",
     "attribute": "physical",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【明るい締めくくり】木村%20龍/::ref/【明るい締めくくり】木村龍.png.webp?rev=af8a21fb7fddf5a14a3c060c4c32bc47&t=20211219163910",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【明るい締めくくり】木村%20龍/::ref/【明るい締めくくり】木村龍%2B.png.webp?rev=9fbea93684deb78a954cf9b8dae0c473&t=20211219163916",
+    "unawakened": "../images/card-images/Ryu/RyuSR2_unawakened.png",
+    "awakened": "../images/card-images/Ryu/RyuSR2_awakened.png",
     "limited": true
   },
   {
@@ -1283,12 +1283,12 @@
   },
 
   {
-    "name": "",
+    "name": "Vivid Flavor",
     "idol": "Haruna Wakazato",
     "rarity": "SSR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Haruna/HarunaSSR1_unawakened.png",
+    "awakened": "../images/card-images/Haruna/HarunaSSR1_awakened.png",
     "limited": true
   },
   {
@@ -1398,8 +1398,8 @@
     "idol": "Yusuke Aoi",
     "rarity": "SSR",
     "attribute": "mental",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【胸が高鳴る先に】蒼井%20悠介/::ref/【胸が高鳴る先に】蒼井%20悠介.png.webp?rev=969267c974eabcf5dcff6ad87a337b98&t=20220301174716",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【胸が高鳴る先に】蒼井%20悠介/::ref/【胸が高鳴る先に】蒼井%20悠介%2B.png.webp?rev=f47d13c767f700a5d411da90a46abb1d&t=20220301174722",
+    "unawakened": "../images/card-images/Yusuke/YusukeSSR1_unawakened.png",
+    "awakened": "../images/card-images/Yusuke/YusukeSSR1_awakened.png",
     "limited": false
   },
   {
@@ -1518,8 +1518,8 @@
     "idol": "Hideo Akuno",
     "rarity": "R",
     "attribute": "intelligent",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【エッジを効かせて】握野%20英雄/::attach/【エッジを効かせて】握野英雄.png?rev=ece062674fdd4c5eaac88560f486fb4e&t=20220320205726",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【エッジを効かせて】握野%20英雄/::ref/【エッジを効かせて】握野英雄＋.png.webp?rev=e83aa53323cc6db059aa1b4739143b30&t=20220320205731",
+    "unawakened": "../images/card-images/Hideo/HideoR2_unawakened.png",
+    "awakened": "../images/card-images/Hideo/HideoR2_awakened.png",
     "limited": false
   },
 
@@ -1620,8 +1620,8 @@
     "idol": "Yusuke Aoi",
     "rarity": "R",
     "attribute": "mental",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【無邪気な掛け声】蒼井%20悠介/::ref/【無邪気な掛け声】蒼井悠介.png.webp?rev=d15a8796b85aca8efe7604f950369f9a&t=20220421090209",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【無邪気な掛け声】蒼井%20悠介/::ref/【無邪気な掛け声】蒼井悠介＋.png.webp?rev=91948fcf37929bf7bafb112c7f4a99de&t=2022042109022",
+    "unawakened": "../images/card-images/Yusuke/YusukeR2_unawakened.png",
+    "awakened": "../images/card-images/Yusuke/YusukeR2_awakened.png",
     "limited": false
   },
 
@@ -1648,17 +1648,17 @@
     "idol": "Hideo Akuno",
     "rarity": "SR",
     "attribute": "intelligent",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【思い巡らすラッピング】握野%20英雄/::ref/【思い巡らすラッピング】握野英雄.png.webp?rev=42907023e61704e9e56080aad4bfc9a6&t=20220501191421",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【思い巡らすラッピング】握野%20英雄/::ref/【思い巡らすラッピング】握野英雄%2B.png.webp?rev=79bb877444678bda9b9fcd09fe42c3b2&t=20220501191435",
+    "unawakened": "../images/card-images/Hideo/HideoSR2_unawakened.png",
+    "awakened": "../images/card-images/Hideo/HideoSR2_awakened.png",
     "limited": true
   },
   {
-    "name": "",
+    "name": "Make a Heart",
     "idol": "Haruna Wakazato",
     "rarity": "R",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Haruna/HarunaR2_unawakened.png",
+    "awakened": "../images/card-images/Haruna/HarunaR2_awakened.png",
     "limited": false
   },
 
@@ -2001,8 +2001,8 @@
     "idol": "Hideo Akuno",
     "rarity": "SSR",
     "attribute": "intelligent",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【巻き上がる青い嵐】握野%20英雄/::ref/【巻き上がる青い嵐】握野英雄.png.webp?rev=b194c9979d3bb76b29667f6e47de0628&t=20220812095327",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【巻き上がる青い嵐】握野%20英雄/::ref/【巻き上がる青い嵐】握野英雄%2B.png.webp?rev=f3477ffa0064356bd90a9cf013a5b169&t=20220812095338",
+    "unawakened": "../images/card-images/Hideo/HideoSSR2_unawakened.png",
+    "awakened": "../images/card-images/Hideo/HideoSSR2_awakened.png",
     "limited": true
   },
   {
@@ -2056,8 +2056,8 @@
     "idol": "Kyosuke Aoi",
     "rarity": "R",
     "attribute": "intelligent",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【驚かすのは任せて】蒼井%20享介/::ref/【驚かすのは任せて】蒼井%20享介.png.webp?rev=555d3210f566c89674de30a17ff21ee5&t=20220819184723",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【驚かすのは任せて】蒼井%20享介/::ref/【驚かすのは任せて】蒼井%20享介%2B.png.webp?rev=e843b9e1a038a9f8c4205744c34ee3aa&t=20220819184729",
+    "unawakened": "../images/card-images/Kyosuke/KyosukeR2_unawakened.png",
+    "awakened": "../images/card-images/Kyosuke/KyosukeR2_awakened.png",
     "limited": false
   },
 
@@ -2103,8 +2103,8 @@
     "idol": "Yusuke Aoi",
     "rarity": "SSR",
     "attribute": "mental",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【魅力的なターン】蒼井%20悠介/::ref/【魅力的なターン】蒼井%20悠介.png.webp?rev=028aa1ddab40c6fd490ad896576a2682&t=20220915120819",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【魅力的なターン】蒼井%20悠介/::ref/【魅力的なターン】蒼井%20悠介＋.png.webp?rev=65bf311c97eb613b6cd5edddcd48f0ea&t=20220915120827",
+    "unawakened": "../images/card-images/Yusuke/YusukeSSR2_unawakened.png",
+    "awakened": "../images/card-images/Yusuke/YusukeSSR2_awakened.png",
     "limited": true
   },
   {
@@ -2131,8 +2131,8 @@
     "idol": "Ryu Kimura",
     "rarity": "SSR",
     "attribute": "physical",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【蒼き龍が放つ閃光】木村%20龍/::ref/【蒼き龍が放つ閃光】木村龍.png.webp?rev=c06465acc98afd0af967d34de3982919&t=20220920012135",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【蒼き龍が放つ閃光】木村%20龍/::ref/【蒼き龍が放つ閃光】木村龍%2B.png.webp?rev=b3c5eb61af8b40e237304b19dec7101d&t=20220920012140",
+    "unawakened": "../images/card-images/Ryu/RyuSSR2_unawakened.png",
+    "awakened": "../images/card-images/Ryu/RyuSSR2_awakened.png",
     "limited": true
   },
   {
@@ -2164,12 +2164,12 @@
   },
 
   {
-    "name": "",
+    "name": "The Compass Floating in the Dark",
     "idol": "Haruna Wakazato",
     "rarity": "SSR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Haruna/HarunaSSR2_unawakened.png",
+    "awakened": "../images/card-images/Haruna/HarunaSSR2_awakened.png",
     "limited": true
   },
   {
@@ -2205,8 +2205,8 @@
     "idol": "Kyosuke Aoi",
     "rarity": "SSR",
     "attribute": "intelligent",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/蒼井享介/::attach/【みんなでカンパイ%21】蒼井享介.jpg?rev=e59d19b755373219a3df0f5558c952ae&t=20221112001909",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/蒼井享介/::attach/【みんなでカンパイ%21】蒼井享介＋.jpg?rev=64e25c40fcc950bb209e24005d904a75&t=20221112001917",
+    "unawakened": "../images/card-images/Kyosuke/KyosukeSSR2_unawakened.png",
+    "awakened": "../images/card-images/Kyosuke/KyosukeSSR2_awakened.png",
     "limited": false
   },
   {
@@ -2288,8 +2288,8 @@
     "idol": "Hideo Akuno",
     "rarity": "R",
     "attribute": "intelligent",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【蒼き世界への招待】握野%20英雄/::ref/【蒼き世界への招待】握野%20英雄.png.webp?rev=bf2506c3d1e27e3782341d6d2f657209&t=20221020191914",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【蒼き世界への招待】握野%20英雄/::attach/【蒼き世界への招待】握野%20英雄＋.png?rev=34548c9346c57c7cc85ca2bba83fb0df&t=20221020191924",
+    "unawakened": "../images/card-images/Hideo/HideoR3_unawakened.png",
+    "awakened": "../images/card-images/Hideo/HideoR3_awakened.png",
     "limited": false
   },
 
@@ -2414,12 +2414,12 @@
     "limited": false
   },
   {
-    "name": "",
+    "name": "Enjoying Every Moment",
     "idol": "Haruna Wakazato",
     "rarity": "SR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Haruna/HarunaSR2_unawakened.png",
+    "awakened": "../images/card-images/Haruna/HarunaSR2_awakened.png",
     "limited": true
   },
   {
@@ -2540,8 +2540,8 @@
     "idol": "Hideo Akuno",
     "rarity": "SSR",
     "attribute": "intelligent",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【縁起を祝う大仕事】握野%20英雄/::ref/【縁起を祝う大仕事】握野英雄.png.webp?rev=f3e615aec68a01734da5dd45dcbb5627&t=20230102014250",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【縁起を祝う大仕事】握野%20英雄/::ref/【縁起を祝う大仕事】握野英雄%2B.png.webp?rev=992f6d9d19ccfbf0a21a7f9ced9b3497&t=20230102014254",
+    "unawakened": "../images/card-images/Hideo/HideoSSR3_unawakened.png",
+    "awakened": "../images/card-images/Hideo/HideoSSR3_awakened.png",
     "limited": false
   },
   {
@@ -2549,8 +2549,8 @@
     "idol": "Kyosuke Aoi",
     "rarity": "SR",
     "attribute": "intelligent",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【福を呼ぶ飾り付け】蒼井%20享介/::ref/【福を呼ぶ飾り付け】蒼井享介%2B.png.webp?rev=f8c15b1e4aa27bf897ca6d5c40d9b3cc&t=20230102014805",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【福を呼ぶ飾り付け】蒼井%20享介/::ref/【福を呼ぶ飾り付け】蒼井享介%2B.png.webp?rev=f8c15b1e4aa27bf897ca6d5c40d9b3cc&t=20230102014805",
+    "unawakened": "../images/card-images/Kyosuke/KyosukeSR2_unawakened.png",
+    "awakened": "../images/card-images/Kyosuke/KyosukeSR2_awakened.png",
     "limited": true
   },
   {
@@ -2642,8 +2642,8 @@
     "idol": "Yusuke Aoi",
     "rarity": "SSR",
     "attribute": "mental",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【心浮き立つ贈り物】蒼井%20悠介/::ref/【心浮き立つ贈り物】蒼井%20悠介.png.webp?rev=b259901f6e4bbf5e83b00fe00dc4f69d&t=20230218122952",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【心浮き立つ贈り物】蒼井%20悠介/::ref/【心浮き立つ贈り物】蒼井%20悠介＋.png.webp?rev=fdb199506f1c1ff1b920aa36911d2655&t=20230218123002",
+    "unawakened": "../images/card-images/Yusuke/YusukeSSR3_unawakened.png",
+    "awakened": "../images/card-images/Yusuke/YusukeSSR3_awakened.png",
     "limited": false
   },
   {
@@ -2679,8 +2679,8 @@
     "idol": "Ryu Kimura",
     "rarity": "SSR",
     "attribute": "physical",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【掴み取るドルチェ】木村%20龍/::ref/【掴み取るドルチェ】木村龍.png.webp?rev=1f8d89bda1f0098307747b526b568d6e&t=20230212012515",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【掴み取るドルチェ】木村%20龍/::ref/【掴み取るドルチェ】木村龍%2B.png.webp?rev=6ed51eb9d5cdeab478a89eaa4f2e4806&t=20230212012524",
+    "unawakened": "../images/card-images/Ryu/RyuSSR3_unawakened.png",
+    "awakened": "../images/card-images/Ryu/RyuSSR3_awakened.png",
     "limited": false
   },
   {
@@ -2740,12 +2740,12 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "With Affections and Gratitudes",
     "idol": "Haruna Wakazato",
     "rarity": "SSR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Haruna/HarunaSSR3_unawakened.png",
+    "awakened": "../images/card-images/Haruna/HarunaSSR3_awakened.png",
     "limited": false
   },
   {
