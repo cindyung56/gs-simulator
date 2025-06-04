@@ -139,8 +139,8 @@
     "idol": "Seiji Shingen",
     "rarity": "R",
     "attribute": "mental",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【GROWING%20STARS】信玄%20誠司/::ref/【GROWING%20STARS】信玄誠司.png.webp?rev=046cdb72fbfacd574ff78027abd02d56&t=20211028223327",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【GROWING%20STARS】信玄%20誠司/::ref/【GROWING%20STARS】信玄誠司%2B.png.webp?rev=0253c184d54f73d4a5e67f1a381f873d&t=20211028223",
+    "unawakened": "../images/card-images/Seiji/SeijiR1_unawakened.png",
+    "awakened": "../images/card-images/Seiji/SeijiR1_awakened.png",
     "limited": false
   },
   {
@@ -148,8 +148,8 @@
     "idol": "Shoma Hanamura",
     "rarity": "R",
     "attribute": "mental",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【GROWING%20STARS】華村%20翔真/::ref/【GROWING%20STARS】華村翔真.png.webp?rev=3fab67515977345b09724e813843f72a&t=20211027091950",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【GROWING%20STARS】華村%20翔真/::ref/【GROWING%20STARS】華村翔真%2B.png.webp?rev=f80249b40fc6c5bcad865e9fd9a1735c&t=20211027091958",
+    "unawakened": "../images/card-images/Shoma/ShomaR1_unawakened.png",
+    "awakened": "../images/card-images/Shoma/ShomaR1_awakened.png",
     "limited": false
   },
   {
@@ -157,8 +157,8 @@
     "idol": "Kirio Nekoyanagi",
     "rarity": "R",
     "attribute": "intelligent",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【GROWING%20STARS】猫柳%20キリオ/::ref/【GROWING%20STARS】猫柳キリオ.png.webp?rev=07da94a3564d47e008e8ad51f64b6887&t=20211022003551",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【GROWING%20STARS】猫柳%20キリオ/::ref/【GROWING%20STARS】猫柳キリオ%2B.png.webp?rev=a1e294ffeb265e7766c07d37ead35db4&t=20211022003556",
+    "unawakened": "../images/card-images/Kirio/KirioR1_unawakened.png",
+    "awakened": "../images/card-images/Kirio/KirioR1_awakened.png",
     "limited": false
   },
   {
@@ -166,8 +166,8 @@
     "idol": "Kuro Kiyosumi",
     "rarity": "R",
     "attribute": "mental",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【GROWING%20STARS】清澄%20九郎/::ref/【GROWING%20STARS】清澄九郎.png.webp?rev=88202ab9696570605d9424caa886a10b&t=20211022003337",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【GROWING%20STARS】清澄%20九郎/::ref/【GROWING%20STARS】清澄九郎%2B.png.webp?rev=55f264fc433bc29b2b3b73b69c4b6bdd&t=20211022003329",
+    "unawakened": "../images/card-images/Kuro/KuroR1_unawakened.png",
+    "awakened": "../images/card-images/Kuro/KuroR1_awakened.png",
     "limited": false
   },
   {
@@ -184,8 +184,8 @@
     "idol": "Hayato Akiyama",
     "rarity": "R",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Hayato/HayatoR1_unawakened.png",
+    "awakened": "../images/card-images/Hayato/HayatoR1_awakened.png",
     "limited": false
   },
   {
@@ -193,8 +193,8 @@
     "idol": "Jun Fuyumi",
     "rarity": "R",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Jun/JunR1_unawakened.png",
+    "awakened": "../images/card-images/Jun/JunR1_awakened.png",
     "limited": false
   },
   {
@@ -202,8 +202,8 @@
     "idol": "Natsuki Sakaki",
     "rarity": "R",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Natsuki/NatsukiR1_unawakened.png",
+    "awakened": "../images/card-images/Natsuki/NatsukiR1_awakened.png",
     "limited": false
   },
   {
@@ -220,8 +220,8 @@
     "idol": "Suzaku Akai",
     "rarity": "R",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Suzaku/SuzakuR1_unawakened.png",
+    "awakened": "../images/card-images/Suzaku/SuzakuR1_awakened.png",
     "limited": false
   },
   {
@@ -229,8 +229,8 @@
     "idol": "Genbu Kurono",
     "rarity": "R",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Genbu/GenbuR1_unawakened.png",
+    "awakened": "../images/card-images/Genbu/GenbuR1_awakened.png",
     "limited": false
   },
   {
@@ -238,8 +238,8 @@
     "idol": "Yukihiro Kamiya",
     "rarity": "R",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Yukihiro/YukihiroR1_unawakened.png",
+    "awakened": "../images/card-images/Yukihiro/YukihiroR1_awakened.png",
     "limited": false
   },
   {
@@ -247,8 +247,8 @@
     "idol": "Soichiro Sononome",
     "rarity": "R",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Soichiro/SoichiroR1_unawakened.png",
+    "awakened": "../images/card-images/Soichiro/SoichiroR1_awakened.png",
     "limited": false
   },
   {
@@ -256,8 +256,8 @@
     "idol": "Asselin BB II",
     "rarity": "R",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Asselin/AsselinR1_unawakened.png",
+    "awakened": "../images/card-images/Asselin/AsselinR1_awakened.png",
     "limited": false
   },
   {
@@ -265,8 +265,8 @@
     "idol": "Makio Uzuki",
     "rarity": "R",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Makio/MakioR1_unawakened.png",
+    "awakened": "../images/card-images/Makio/MakioR1_awakened.png",
     "limited": false
   },
   {
@@ -274,8 +274,8 @@
     "idol": "Saki Mizushima",
     "rarity": "R",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Saki/SakiR1_unawakened.png",
+    "awakened": "../images/card-images/Saki/SakiR1_awakened.png",
     "limited": false
   },
   {
@@ -283,8 +283,8 @@
     "idol": "Nao Okamura",
     "rarity": "R",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Nao/NaoR1_unawakened.png",
+    "awakened": "../images/card-images/Nao/NaoR1_awakened.png",
     "limited": false
   },
   {
@@ -292,8 +292,8 @@
     "idol": "Shiro Tachibana",
     "rarity": "R",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Shiro/ShiroR1_unawakened.png",
+    "awakened": "../images/card-images/Shiro/ShiroR1_awakened.png",
     "limited": false
   },
   {
@@ -301,8 +301,8 @@
     "idol": "Kanon Himeno",
     "rarity": "R",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Kanon/KanonR1_unawakened.png",
+    "awakened": "../images/card-images/Kanon/KanonR1_awakened.png",
     "limited": false
   },
   {
@@ -482,8 +482,8 @@
     "idol": "Kaoru Sakuraba",
     "rarity": "SR",
     "attribute": "intelligent",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%B9%E3%83%88%E3%82%A4%E3%83%83%E3%82%AF%E3%81%AA%E9%8B%AD%E5%85%89%E3%80%91%E6%A1%9C%E5%BA%AD%20%E8%96%AB/::attach/%E3%80%90%E3%82%B9%E3%83%88%E3%82%A4%E3%83%83%E3%82%AF%E3%81%AA%E9%8B%AD%E5%85%89%E3%80%91%E6%A1%9C%E5%BA%AD%E8%96%AB.png?rev=0b512687928d8e412137ab2ca666fdef&t=20211102113924",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%82%B9%E3%83%88%E3%82%A4%E3%83%83%E3%82%AF%E3%81%AA%E9%8B%AD%E5%85%89%E3%80%91%E6%A1%9C%E5%BA%AD%20%E8%96%AB/::attach/%E3%80%90%E3%82%B9%E3%83%88%E3%82%A4%E3%83%83%E3%82%AF%E3%81%AA%E9%8B%AD%E5%85%89%E3%80%91%E6%A1%9C%E5%BA%AD%E8%96%AB%2B.png?rev=345ba85b531591daecdf3fff2e14f9b1&t=20211023225714",
+    "unawakened": "../images/card-images/Kaoru/KaoruSR1_unawakened.png",
+    "awakened": "../images/card-images/Kaoru/KaoruSR1_awakened.png",
     "limited": false
   },
   {
@@ -563,8 +563,8 @@
     "idol": "Seiji Shingen",
     "rarity": "SR",
     "attribute": "mental",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【笑顔を守る力】信玄%20誠司/::ref/【笑顔を守る力】信玄誠司.png.webp?rev=a9e307cc61f077310db5b5854659211e&t=20211029084033",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【笑顔を守る力】信玄%20誠司/::ref/【笑顔を守る力】信玄誠司＋.png.webp?rev=3bd127c24783e6c35ccc26799b31bf13&t=2021102908404",
+    "unawakened": "../images/card-images/Seiji/SeijiSR1_unawakened.png",
+    "awakened": "../images/card-images/Seiji/SeijiSR1_awakened.png",
     "limited": false
   },
   {
@@ -590,8 +590,8 @@
     "idol": "Shoma Hanamura",
     "rarity": "SR",
     "attribute": "mental",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【光り輝く舞台の上で】華村%20翔真/::attach/【光り輝く舞台の上で】華村翔真.png?rev=7d9510ee7bc382b03a9201cae378d6da&t=20211103102300",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【光り輝く舞台の上で】華村%20翔真/::ref/【光り輝く舞台の上で】華村翔真%2B.png.webp?rev=0f2da701783e8583ffa1ba2c9fb22cdd&t=20211103102307",
+    "unawakened": "../images/card-images/Shoma/ShomaSR1_unawakened.png",
+    "awakened": "../images/card-images/Shoma/ShomaSR1_awakened.png",
     "limited": false
   },
   {
@@ -599,8 +599,8 @@
     "idol": "Kirio Nekoyanagi",
     "rarity": "SR",
     "attribute": "intelligent",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【しゅぴぴーん！】猫柳%20キリオ/::ref/【しゅぴぴーん！】猫柳キリオ.png.webp?rev=9c7c60596a6de5654ee5a98a5d67cd85&t=20211023150841",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【しゅぴぴーん！】猫柳%20キリオ/::ref/【しゅぴぴーん！】猫柳キリオ%2B.png.webp?rev=cade81aa670a4b7ad5a0973cca1c562b&t=20211023150845",
+    "unawakened": "../images/card-images/Kirio/KirioSR1_unawakened.png",
+    "awakened": "../images/card-images/Kirio/KirioSR1_awakened.png",
     "limited": false
   },
   {
@@ -608,8 +608,8 @@
     "idol": "Kuro Kiyosumi",
     "rarity": "SR",
     "attribute": "mental",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【伝えたい思いと伝統】清澄%20九郎/::ref/【伝えたい思いと伝統】清澄九郎.png.webp?rev=a3de41ed1e93ae5203379826e9da7b44&t=20211029084215",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【伝えたい思いと伝統】清澄%20九郎/::ref/【伝えたい思いと伝統】清澄九郎＋.png.webp?rev=6b8532d8c4f35d7952d6733f1fdc7283&t=20211029084218",
+    "unawakened": "../images/card-images/Kuro/KuroSR1_unawakened.png",
+    "awakened": "../images/card-images/Kuro/KuroSR1_awakened.png",
     "limited": false
   },
   {
@@ -622,30 +622,30 @@
     "limited": false
   },
   {
-    "name": "",
+    "name": "Overlapping Memories",
     "idol": "Hayato Akiyama",
     "rarity": "SR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Hayato/HayatoSR1_unawakened.png",
+    "awakened": "../images/card-images/Hayato/HayatoSR1_awakened.png",
     "limited": false
   },
   {
-    "name": "",
+    "name": "Starting From the Fingertips Again",
     "idol": "Jun Fuyumi",
     "rarity": "SR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Jun/JunSR1_unawakened.png",
+    "awakened": "../images/card-images/Jun/JunSR1_awakened.png",
     "limited": false
   },
   {
-    "name": "",
+    "name": "Repeating That Melody",
     "idol": "Natsuki Sakaki",
     "rarity": "SR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Natsuki/NatsukiSR1_unawakened.png",
+    "awakened": "../images/card-images/Natsuki/NatsukiSR1_awakened.png",
     "limited": false
   },
   {
@@ -658,93 +658,93 @@
     "limited": false
   },
   {
-    "name": "",
+    "name": "Red Hot Soul",
     "idol": "Suzaku Akai",
     "rarity": "SR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Suzaku/SuzakuSR1_unawakened.png",
+    "awakened": "../images/card-images/Suzaku/SuzakuSR1_unawakened.png",
     "limited": false
   },
   {
-    "name": "",
+    "name": "Stark Passion",
     "idol": "Genbu Kurono",
     "rarity": "SR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Genbu/GenbuSR1_unawakened.png",
+    "awakened": "../images/card-images/Genbu/GenbuSR1_awakened.png",
     "limited": false
   },
   {
-    "name": "",
+    "name": "Best Time & Cup",
     "idol": "Yukihiro Kamiya",
     "rarity": "SR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Yukihiro/YukihiroSR1_unawakened.png",
+    "awakened": "../images/card-images/Yukihiro/YukihiroSR1_awakened.png",
     "limited": false
   },
   {
-    "name": "",
+    "name": "Magic of Happy Sweets",
     "idol": "Soichiro Sononome",
     "rarity": "SR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Soichiro/SoichiroSR1_unawakened.png",
+    "awakened": "../images/card-images/Soichiro/SoichiroSR1_awakened.png",
     "limited": false
   },
   {
-    "name": "",
+    "name": "Kind-Hearted Follower of Darkness",
     "idol": "Asselin BB II",
     "rarity": "SR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Asselin/AsselinSR1_unawakened.png",
+    "awakened": "../images/card-images/Asselin/AsselinSR1_awakened.png",
     "limited": false
   },
   {
-    "name": "",
+    "name": "A Cake For You",
     "idol": "Makio Uzuki",
     "rarity": "SR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Makio/MakioSR1_unawakened.png",
+    "awakened": "../images/card-images/Makio/MakioSR1_awakened.png",
     "limited": false
   },
   {
-    "name": "",
+    "name": "Fully Blooming in My Own Way",
     "idol": "Saki Mizushima",
     "rarity": "SR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Saki/SakiSR1_unawakened.png",
+    "awakened": "../images/card-images/Saki/SakiSR1_unawakened.png",
     "limited": false
   },
   {
-    "name": "",
+    "name": "The First Step Towards Courage",
     "idol": "Nao Okamura",
     "rarity": "SR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Nao/NaoSR1_unawakened.png",
+    "awakened": "../images/card-images/Nao/NaoSR1_awakened.png",
     "limited": false
   },
   {
-    "name": "",
+    "name": "Smiling New Year's Eve",
     "idol": "Shiro Tachibana",
     "rarity": "SR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Shiro/ShiroSR1_unawakened.png",
+    "awakened": "../images/card-images/Shiro/ShiroSR1_awakened.png",
     "limited": false
   },
   {
-    "name": "",
+    "name": "Full of Cuteness",
     "idol": "Kanon Himeno",
     "rarity": "SR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Kanon/KanonSR1_unawakened.png",
+    "awakened": "../images/card-images/Kanon/KanonSR1_awakened.png",
     "limited": false
   },
   {
@@ -912,12 +912,12 @@
     "limited": false
   },
   {
-    "name": "",
+    "name": "Stage of Hospitality",
     "idol": "Yukihiro Kamiya",
     "rarity": "SSR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Yukihiro/YukihiroSSR1_unawakened.png",
+    "awakened": "../images/card-images/Yukihiro/YukihiroSSR1_awakened.png",
     "limited": false
   },
   {
@@ -967,12 +967,12 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "Fist Raised to the Sky",
     "idol": "Suzaku Akai",
     "rarity": "R",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Suzaku/SuzakuR2_unawakened.png",
+    "awakened": "../images/card-images/Suzaku/SuzakuR2_awakened.png",
     "limited": false
   },
 
@@ -990,17 +990,17 @@
     "idol": "Shoma Hanamura",
     "rarity": "SSR",
     "attribute": "mental",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【華の支度は抜かりなく】華村%20翔真/::ref/【華の支度は抜かりなく】華村翔真.png.webp?rev=0c576320db99c50fedf47c59366f541b&t=20211102225816",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【華の支度は抜かりなく】華村%20翔真/::ref/【華の支度は抜かりなく】華村翔真%2B.png.webp?rev=588f1970e90465e2fdc0e193bea2dc5b&t=20211102225821",
+    "unawakened": "../images/card-images/Shoma/ShomaSSR1_unawakened.png",
+    "awakened": "../images/card-images/Shoma/ShomaSSR1_awakened.png",
     "limited": false
   },
   {
-    "name": "",
+    "name": "Gazing Beyond the Shine",
     "idol": "Saki Mizushima",
     "rarity": "SR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Saki/SakiSR2_unawakened.png",
+    "awakened": "../images/card-images/Saki/SakiSR2_awakened.png",
     "limited": true
   },
   {
@@ -1045,8 +1045,8 @@
     "idol": "Kirio Nekoyanagi",
     "rarity": "R",
     "attribute": "intelligent",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【夜空を飾る笑顔】猫柳%20キリオ/::ref/【夜空を飾る笑顔】猫柳キリオ.png.webp?rev=b9131b155355656795f067bf7467a949&t=20211101235351",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【夜空を飾る笑顔】猫柳%20キリオ/::ref/【夜空を飾る笑顔】猫柳キリオ%2B.png.webp?rev=47c19a29f1e3edc87e0238d6d40dc009&t=20211101235356",
+    "unawakened": "../images/card-images/Kirio/KirioR2_unawakened.png",
+    "awakened": "../images/card-images/Kirio/KirioR2_awakened.png",
     "limited": false
   },
 
@@ -1064,8 +1064,8 @@
     "idol": "Kaoru Sakuraba",
     "rarity": "SSR",
     "attribute": "intelligent",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E8%89%B6%E3%82%84%E3%81%8B%E3%81%AA%E4%BB%AE%E9%9D%A2%E3%81%AE%E5%A5%A5%E3%80%91%E6%A1%9C%E5%BA%AD%20%E8%96%AB/::attach/%E3%80%90%E8%89%B6%E3%82%84%E3%81%8B%E3%81%AA%E4%BB%AE%E9%9D%A2%E3%81%AE%E5%A5%A5%E3%80%91%E6%A1%9C%E5%BA%AD%E8%96%AB.png?rev=3076a5722b37a8e7195ce7b0f78cb9bb&t=20211121113109",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E8%89%B6%E3%82%84%E3%81%8B%E3%81%AA%E4%BB%AE%E9%9D%A2%E3%81%AE%E5%A5%A5%E3%80%91%E6%A1%9C%E5%BA%AD%20%E8%96%AB/::attach/%E3%80%90%E8%89%B6%E3%82%84%E3%81%8B%E3%81%AA%E4%BB%AE%E9%9D%A2%E3%81%AE%E5%A5%A5%E3%80%91%E6%A1%9C%E5%BA%AD%E8%96%AB%2B.png?rev=5a83d430c5134113ab35e260af987c8f&t=20211121113105",
+    "unawakened": "../images/card-images/Kaoru/KaoruSSR1_unawakened.png",
+    "awakened": "../images/card-images/Kaoru/KaoruSSR1_awakened.png",
     "limited": false
   },
   {
@@ -1083,8 +1083,8 @@
     "idol": "Kuro Kiyosumi",
     "rarity": "SSR",
     "attribute": "mental",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【秋風の薫香】清澄%20九郎/::ref/【秋風の薫香】清澄九郎.png.webp?rev=239d50d90af35bc2d9cdac570b038e21&t=20211120174351",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【秋風の薫香】清澄%20九郎/::ref/【秋風の薫香】清澄九郎%2B.png.webp?rev=413864fc87f93ea86a735428b0aa122e&t=20211120174339",
+    "unawakened": "../images/card-images/Kuro/KuroSSR1_unawakened.png",
+    "awakened": "../images/card-images/Kuro/KuroSSR1_awakened.png",
     "limited": true
   },
   {
@@ -1097,12 +1097,12 @@
     "limited": false
   },
   {
-    "name": "",
+    "name": "Coloring in the Way I Like",
     "idol": "Nao Okamura",
     "rarity": "SR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Nao/NaoSR2_unawakened.png",
+    "awakened": "../images/card-images/Nao/NaoSR2_unawakened.png",
     "limited": true
   },
   {
@@ -1125,12 +1125,12 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "Clear Snow That Blows the Coldness Away",
     "idol": "Hayato Akiyama",
     "rarity": "SSR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Hayato/HayatoSSR1_unawakened.png",
+    "awakened": "../images/card-images/Hayato/HayatoSSR1_awakened.png",
     "limited": false
   },
   {
@@ -1171,12 +1171,12 @@
     "limited": false
   },
   {
-    "name": "",
+    "name": "Sincere Present",
     "idol": "Suzaku Akai",
     "rarity": "SR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Suzaku/SuzakuSR2_unawakened.png",
+    "awakened": "../images/card-images/Suzaku/SuzakuSR2_unawakened.png",
     "limited": false
   },
 
@@ -1194,8 +1194,8 @@
     "idol": "Kirio Nekoyanagi",
     "rarity": "SSR",
     "attribute": "intelligent",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【にっこりあぴーる】猫柳%20キリオ/::ref/A41B52CA-73B4-428D-8BB3-C9EB37156068.jpeg.webp?rev=b33292d8464a0095267ef4dc69756a70&t=20220104153608",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【にっこりあぴーる】猫柳%20キリオ/::ref/FF706D60-199D-4170-BDB9-A8394D707621.jpeg.webp?rev=a3b438ef74878116e1434e0ba2f6ab73&t=20220104124832",
+    "unawakened": "../images/card-images/Kirio/KirioSSR1_unawakened.png",
+    "awakened": "../images/card-images/Kirio/KirioSSR1_awakened.png",
     "limited": false
   },
   {
@@ -1208,12 +1208,12 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "Smiling New Year's Eve",
     "idol": "Shiro Tachibana",
     "rarity": "R",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Shiro/ShiroR2_unawakened.png",
+    "awakened": "../images/card-images/Shiro/ShiroR2_awakened.png",
     "limited": false
   },
 
@@ -1231,17 +1231,17 @@
     "idol": "Seiji Shingen",
     "rarity": "SSR",
     "attribute": "mental",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【豪快な初参り】信玄%20誠司/::ref/【豪快な初参り】信玄誠司.png.webp?rev=41e6d96e61496265694c9f0f8f51ee2d&t=20220101143038",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【豪快な初参り】信玄%20誠司/::ref/【豪快な初参り】信玄誠司%2B.png.webp?rev=fc1e75481bd0de029c3d862399e502bf&t=20220101143",
+    "unawakened": "../images/card-images/Seiji/SeijiSSR1_unawakened.png",
+    "awakened": "../images/card-images/Seiji/SeijiSSR1_awakened.png",
     "limited": false
   },
   {
-    "name": "",
+    "name": "Sweets That Soak in the Great New Year's Sky",
     "idol": "Soichiro Sononome",
     "rarity": "SR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Soichiro/SoichiroSR2_unawakened.png",
+    "awakened": "../images/card-images/Soichiro/SoichiroSR2_unawakened.png",
     "limited": true
   },
   {
@@ -1255,21 +1255,21 @@
   },
 
   {
-    "name": "",
+    "name": "A Gambit to Protect My Friends",
     "idol": "Suzaku Akai",
     "rarity": "SSR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Suzaku/SuzakuSSR1_unawakened.png",
+    "awakened": "../images/card-images/Suzaku/SuzakuSSR1_awakened.png",
     "limited": true
   },
   {
-    "name": "",
+    "name": "To A Great Journey on the Skies",
     "idol": "Nao Okamura",
     "rarity": "SSR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Nao/NaoSSR1_unawakened.png",
+    "awakened": "../images/card-images/Nao/NaoSSR1_awakened.png",
     "limited": false
   },
   {
@@ -1292,12 +1292,12 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "Eagerly Filling Both of My Hands",
     "idol": "Shiro Tachibana",
     "rarity": "SSR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Shiro/ShiroSSR1_unawakened.png",
+    "awakened": "../images/card-images/Shiro/ShiroSSR1_awakened.png",
     "limited": false
   },
   {
@@ -1320,12 +1320,12 @@
   },
 
   {
-    "name": "",
+    "name": "Hair Fluttering in the Chilly Sunny Sky",
     "idol": "Saki Mizushima",
     "rarity": "SSR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Saki/SakiSSR1_unawakened.png",
+    "awakened": "../images/card-images/Saki/SakiSSR1_awakened.png",
     "limited": true
   },
   {
@@ -1347,22 +1347,22 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "The Loud Laughter of the Elegant Demon God",
     "idol": "Asselin BB II",
     "rarity": "R",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Asselin/AsselinR2_unawakened.png",
+    "awakened": "../images/card-images/Asselin/AsselinR2_awakened.png",
     "limited": false
   },
 
   {
-    "name": "",
+    "name": "The Truth Hidden Behind Those Eyes",
     "idol": "Kanon Himeno",
     "rarity": "SSR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Kanon/KanonSSR1_unawakened.png",
+    "awakened": "../images/card-images/Kanon/KanonSSR1_awakened.png",
     "limited": true
   },
   {
@@ -1375,22 +1375,22 @@
     "limited": false
   },
   {
-    "name": "",
+    "name": "Smiling Phantom Thief in the Moonlit Night",
     "idol": "Yukihiro Kamiya",
     "rarity": "SR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Yukihiro/YukihiroSR2_unawakened.png",
+    "awakened": "../images/card-images/Yukihiro/YukihiroSR2_awakened.png",
     "limited": false
   },
 
   {
-    "name": "",
+    "name": "What Lies Hidden Within That Heart",
     "idol": "Natsuki Sakaki",
     "rarity": "SSR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Natsuki/NatsukiSSR1_unawakened.png",
+    "awakened": "../images/card-images/Natsuki/NatsukiSSR1_awakened.png",
     "limited": true
   },
   {
@@ -1412,15 +1412,14 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "That Alluring Hand",
     "idol": "Genbu Kurono",
     "rarity": "R",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Genbu/GenbuR2_unawakened.png",
+    "awakened": "../images/card-images/Genbu/GenbuR2_awakened.png",
     "limited": false
   },
-
   {
     "name": "",
     "idol": "Momohito Hanazono",
@@ -1444,8 +1443,8 @@
     "idol": "Seiji Shingen",
     "rarity": "SR",
     "attribute": "mental",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【心通う下ごしらえ】信玄%20誠司/::ref/【心通う下ごしらえ】信玄誠司.png.webp?rev=a36650a1e20fb7b769ba78b670e18b2d&t=20220301011145",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【心通う下ごしらえ】信玄%20誠司/::ref/【心通う下ごしらえ】信玄誠司%2B.png.webp?rev=e021abc298363c16e58df2d171f66679&t=20220301011149",
+    "unawakened": "../images/card-images/Seiji/SeijiSR2_unawakened.png",
+    "awakened": "../images/card-images/Seiji/SeijiSR2_awakened.png",
     "limited": true
   },
   {
@@ -1459,12 +1458,12 @@
   },
 
   {
-    "name": "",
+    "name": "The Knowledge to Convey One's Feelings",
     "idol": "Genbu Kurono",
     "rarity": "SSR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Genbu/GenbuSSR1_unawakened.png",
+    "awakened": "../images/card-images/Genbu/GenbuSSR1_awakened.png",
     "limited": true
   },
   {
@@ -1477,12 +1476,12 @@
     "limited": false
   },
   {
-    "name": "",
+    "name": "Smile Dessert",
     "idol": "Soichiro Sononome",
     "rarity": "SR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Soichiro/SoichiroSR3_unawakened.png",
+    "awakened": "../images/card-images/Soichiro/SoichiroSR3_awakened.png",
     "limited": false
   },
 
@@ -1509,8 +1508,8 @@
     "idol": "Shoma Hanamura",
     "rarity": "SR",
     "attribute": "mental",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【暖かな雪化粧】華村%20翔真/::ref/【暖かな雪化粧】華村翔真.png.webp?rev=2a6d0aac4cb2e882ac4c2bec9f141f2f&t=20220326005606",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【暖かな雪化粧】華村%20翔真/::ref/【暖かな雪化粧】華村翔真＋.png.webp?rev=4789daf8e9d83e3592d54414c78d3d74&t=20220326005610",
+    "unawakened": "../images/card-images/Shoma/ShomaSR2_unawakened.png",
+    "awakened": "../images/card-images/Shoma/ShomaSR2_awakened.png",
     "limited": true
   },
   {
@@ -1570,12 +1569,12 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "Expanse of Comprehension",
     "idol": "Asselin BB II",
     "rarity": "SSR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Asselin/AsselinSSR1_unawakened.png",
+    "awakened": "../images/card-images/Asselin/AsselinSSR1_awakened.png",
     "limited": false
   },
   {
@@ -1583,8 +1582,8 @@
     "idol": "Kirio Nekoyanagi",
     "rarity": "SR",
     "attribute": "intelligent",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【楽しさの先導者】猫柳%20キリオ/::ref/【楽しさの先導者】猫柳キリオ.png.webp?rev=b1572eea987a3341b0fd0f5966fea8f2&t=20220412150214",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【楽しさの先導者】猫柳%20キリオ/::ref/【楽しさの先導者】猫柳キリオ＋.png.webp?rev=10ec9ab9ab8be8ad8c713e998698782e&t=20220412150219",
+    "unawakened": "../images/card-images/Kirio/KirioSR2_unawakened.png",
+    "awakened": "../images/card-images/Kirio/KirioSR2_awakened.png",
     "limited": false
   },
 
@@ -1598,12 +1597,12 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "Vibrant Radiance Dancing About",
     "idol": "Makio Uzuki",
     "rarity": "SSR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Makio/MakioSSR1_unawakened.png",
+    "awakened": "../images/card-images/Makio/MakioSSR1_awakened.png",
     "limited": false
   },
   {
@@ -1663,12 +1662,12 @@
   },
 
   {
-    "name": "",
+    "name": "Drum and Fire Resounding To the Skies",
     "idol": "Jun Fuyumi",
     "rarity": "SSR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Jun/JunSSR1_unawakened.png",
+    "awakened": "../images/card-images/Jun/JunSSR1_awakened.png",
     "limited": true
   },
   {
@@ -1676,8 +1675,8 @@
     "idol": "Kuro Kiyosumi",
     "rarity": "SSR",
     "attribute": "mental",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【蒼空に舞うバトン】清澄%20九郎/::ref/【蒼空に舞うバトン】清澄九郎.png.webp?rev=1694597ca33b52aaac777d93ad4d24a9&t=20220515123617",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【蒼空に舞うバトン】清澄%20九郎/::ref/【蒼空に舞うバトン】清澄九郎%2B.png.webp?rev=cf9da73613070b4686fb470943b2b181&t=20220515123632",
+    "unawakened": "../images/card-images/Kuro/KuroSSR2_unawakened.png",
+    "awakened": "../images/card-images/Kuro/KuroSSR2_awakened.png",
     "limited": false
   },
   {
@@ -1700,12 +1699,12 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "Elegant Collection",
     "idol": "Soichiro Sononome",
     "rarity": "SSR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Soichiro/SoichiroSSR1_unawakened.png",
+    "awakened": "../images/card-images/Soichiro/SoichiroSSR1_awakened.png",
     "limited": false
   },
   {
@@ -1732,8 +1731,8 @@
     "idol": "Kirio Nekoyanagi",
     "rarity": "SSR",
     "attribute": "intelligent",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【水たまりとすきっぷ】猫柳%20キリオ/::ref/【水たまりとすきっぷ】猫柳キリオ.png.webp?rev=1ee2f9c6c3140531e408d373dd3240e5&t=20220602090105",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【水たまりとすきっぷ】猫柳%20キリオ/::ref/【水たまりとすきっぷ】猫柳キリオ＋.png.webp?rev=c8919f9bd849abb6a15e7fd77d098caf&t=20220602090109",
+    "unawakened": "../images/card-images/Kirio/KirioSSR2_unawakened.png",
+    "awakened": "../images/card-images/Kirio/KirioSSR2_awakened.png",
     "limited": true
   },
   {
@@ -1765,21 +1764,21 @@
   },
 
   {
-    "name": "",
+    "name": "The First Dawn of Our Lives Together",
     "idol": "Yukihiro Kamiya",
     "rarity": "SSR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Yukihiro/YukihiroSSR2_unawakened.png",
+    "awakened": "../images/card-images/Yukihiro/YukihiroSSR2_unawakened.png",
     "limited": true
   },
   {
-    "name": "",
+    "name": "To a Clear Sunny Path of Happiness",
     "idol": "Kanon Himeno",
     "rarity": "SSR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Kanon/KanonSSR2_unawakened.png",
+    "awakened": "../images/card-images/Kanon/KanonSSR2_awakened.png",
     "limited": false
   },
   {
@@ -1867,12 +1866,12 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "With Shining Wishes Onboard",
     "idol": "Natsuki Sakaki",
     "rarity": "SSR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Natsuki/NatsukiSSR2_unawakened.png",
+    "awakened": "../images/card-images/Natsuki/NatsukiSSR2_awakened.png",
     "limited": false
   },
   {
@@ -1895,12 +1894,12 @@
   },
 
   {
-    "name": "",
+    "name": "Exciting Topping",
     "idol": "Shiro Tachibana",
     "rarity": "SSR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Shiro/ShiroSSR2_unawakened.png",
+    "awakened": "../images/card-images/Shiro/ShiroSSR2_awakened.png",
     "limited": true
   },
   {
@@ -1917,8 +1916,8 @@
     "idol": "Shoma Hanamura",
     "rarity": "SR",
     "attribute": "mental",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【華やかな氷菓子】華村%20翔真/::ref/【華やかな氷菓子】華村%20翔真.png.webp?rev=5921af4ec3f0994a91a293a5b3be50e3&t=20220713144551",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【華やかな氷菓子】華村%20翔真/::ref/【華やかな氷菓子】華村%20翔真%2B.png.webp?rev=42c0ebce239e4b49dc1a549f8c5b1175&t=20220713144556",
+    "unawakened": "../images/card-images/Shoma/ShomaSR3_unawakened.png",
+    "awakened": "../images/card-images/Shoma/ShomaSR3_awakened.png",
     "limited": false
   },
   
@@ -1941,40 +1940,40 @@
     "limited": false
   },
   {
-    "name": "",
+    "name": "Pieces to Share",
     "idol": "Jun Fuyumi",
     "rarity": "SR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Jun/JunSR2_unawakened.png",
+    "awakened": "../images/card-images/Jun/JunSR2_awakened.png",
     "limited": true
   },
   {
-    "name": "",
+    "name": "Joyful Finding",
     "idol": "Hayato Akiyama",
     "rarity": "R",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Hayato/HayatoR2_unawakened.png",
+    "awakened": "../images/card-images/Hayato/HayatoR2_awakened.png",
     "limited": false
   },
 
   {
-    "name": "",
+    "name": "Jewel Reflected Between the Waves",
     "idol": "Asselin BB II",
     "rarity": "SSR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Asselin/AsselinSSR2_unawakened.png",
+    "awakened": "../images/card-images/Asselin/AsselinSSR2_awakened.png",
     "limited": true
   },
   {
-    "name": "",
+    "name": "Anticipating the Peak of Summer",
     "idol": "Suzaku Akai",
     "rarity": "SSR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Suzaku/SuzakuSSR2_unawakened.png",
+    "awakened": "../images/card-images/Suzaku/SuzakuSSR2_unawakened.png",
     "limited": false
   },
   {
@@ -1982,8 +1981,8 @@
     "idol": "Kaoru Sakuraba",
     "rarity": "SR",
     "attribute": "intelligent",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%83%91%E3%83%A9%E3%82%BD%E3%83%AB%E3%81%AE%E4%B8%8B%E3%81%A7%E3%80%91%E6%A1%9C%E5%BA%AD%20%E8%96%AB/::attach/%E3%80%90%E3%83%91%E3%83%A9%E3%82%BD%E3%83%AB%E3%81%AE%E4%B8%8B%E3%81%A7%E3%80%91%E6%A1%9C%E5%BA%AD%20%E8%96%AB.PNG?rev=58775122363bdd8346ca8bd8a0222fb9&t=20220731214126",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E3%83%91%E3%83%A9%E3%82%BD%E3%83%AB%E3%81%AE%E4%B8%8B%E3%81%A7%E3%80%91%E6%A1%9C%E5%BA%AD%20%E8%96%AB/::attach/%E3%80%90%E3%83%91%E3%83%A9%E3%82%BD%E3%83%AB%E3%81%AE%E4%B8%8B%E3%81%A7%E3%80%91%E6%A1%9C%E5%BA%AD%20%E8%96%AB%2B.PNG?rev=4296e74c8bac45ce4bf336bb2bc0f7ce&t=20220731214137",
+    "unawakened": "../images/card-images/Kaoru/KaoruSR2_unawakened.png",
+    "awakened": "../images/card-images/Kaoru/KaoruSR2_awakened.png",
     "limited": true
   },
   {
@@ -2043,12 +2042,12 @@
     "limited": false
   },
   {
-    "name": "",
+    "name": "Pulling the Hands of Lost Children",
     "idol": "Kanon Himeno",
     "rarity": "SR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Kanon/KanonSR2_unawakened.png",
+    "awakened": "../images/card-images/Kanon/KanonSR2_awakened.png",
     "limited": true
   },
   {
@@ -2062,12 +2061,12 @@
   },
 
   {
-    "name": "",
+    "name": "Pursuing the Truth",
     "idol": "Soichiro Sononome",
     "rarity": "SSR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Soichiro/SoichiroSSR2_unawakened.png",
+    "awakened": "../images/card-images/Soichiro/SoichiroSSR2_awakened.png",
     "limited": true
   },
   {
@@ -2089,12 +2088,12 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "Maintaining a Sense of Justice",
     "idol": "Jun Fuyumi",
     "rarity": "R",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Jun/JunR2_unawakened.png",
+    "awakened": "../images/card-images/Jun/JunR2_awakened.png",
     "limited": false
   },
 
@@ -2121,8 +2120,8 @@
     "idol": "Seiji Shingen",
     "rarity": "SR",
     "attribute": "mental",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【前進全力の一歩】信玄%20誠司/::ref/【前進全力の一歩】信玄%20誠司.png.webp?rev=4ba5da558cc5250f060644701b10f10c&t=20220911232609",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【前進全力の一歩】信玄%20誠司/::ref/【前進全力の一歩】信玄%20誠司＋.png.webp?rev=5e677342a8e043bfc6d855a84f53f468&t=20220911232617",
+    "unawakened": "../images/card-images/Seiji/SeijiSR3_unawakened.png",
+    "awakened": "../images/card-images/Seiji/SeijiSR3_awakened.png",
     "limited": false
   },
 
@@ -2214,8 +2213,8 @@
     "idol": "Kirio Nekoyanagi",
     "rarity": "SR",
     "attribute": "intelligent",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【賑やかな夜を一緒に】猫柳%20キリオ/::ref/【賑やかな夜を一緒に】猫柳%20キリオ.png.webp?rev=8f2171a19cb107924c92b6ee7c0556a1&t=20221009025608",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【賑やかな夜を一緒に】猫柳%20キリオ/::ref/【賑やかな夜を一緒に】猫柳%20キリオ%2B.png.webp?rev=730ac8f513eeb632263a4584aa6c9ce0&t=20221009025615",
+    "unawakened": "../images/card-images/Kirio/KirioSR3_unawakened.png",
+    "awakened": "../images/card-images/Kirio/KirioSR3_awakened.png",
     "limited": true
   },
   {
@@ -2238,21 +2237,21 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "Magic For All",
     "idol": "Jun Fuyumi",
     "rarity": "SSR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Jun/JunSSR2_unawakened.png",
+    "awakened": "../images/card-images/Jun/JunSSR2_awakened.png",
     "limited": false
   },
   {
-    "name": "",
+    "name": "Opening Baton",
     "idol": "Nao Okamura",
     "rarity": "SR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Nao/NaoSR3_unawakened.png",
+    "awakened": "../images/card-images/Nao/NaoSR3_awakened.png",
     "limited": false
   },
 
@@ -2266,12 +2265,12 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "With My Friends",
     "idol": "Genbu Kurono",
     "rarity": "SSR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Genbu/GenbuSSR2_unawakened.png",
+    "awakened": "../images/card-images/Genbu/GenbuSSR2_awakened.png",
     "limited": false
   },
   {
@@ -2294,12 +2293,12 @@
   },
 
   {
-    "name": "",
+    "name": "Aiming To Be a Diligent Butler",
     "idol": "Hayato Akiyama",
     "rarity": "SSR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Hayato/HayatoSSR2_unawakened.png",
+    "awakened": "../images/card-images/Hayato/HayatoSSR2_awakened.png",
     "limited": true
   },
   {
@@ -2335,17 +2334,17 @@
     "idol": "Kaoru Sakuraba",
     "rarity": "SSR",
     "attribute": "intelligent",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E7%86%B1%E3%82%92%E8%BE%BC%E3%82%81%E3%81%9F%E4%B8%80%E7%90%83%E3%80%91%E6%A1%9C%E5%BA%AD%20%E8%96%AB/::attach/%E3%80%90%E7%86%B1%E3%82%92%E8%BE%BC%E3%82%81%E3%81%9F%E4%B8%80%E7%90%83%E3%80%91%E6%A1%9C%E5%BA%AD%20%E8%96%AB.png?rev=6a9345d092b10177911e8555cf51c568&t=20221118232104",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E7%86%B1%E3%82%92%E8%BE%BC%E3%82%81%E3%81%9F%E4%B8%80%E7%90%83%E3%80%91%E6%A1%9C%E5%BA%AD%20%E8%96%AB/::attach/%E3%80%90%E7%86%B1%E3%82%92%E8%BE%BC%E3%82%81%E3%81%9F%E4%B8%80%E7%90%83%E3%80%91%E6%A1%9C%E5%BA%AD%20%E8%96%AB.png?rev=6a9345d092b10177911e8555cf51c568&t=20221118232104",
+    "unawakened": "../images/card-images/Kaoru/KaoruSSR2_unawakened.png",
+    "awakened": "../images/card-images/Kaoru/KaoruSSR2_awakened.png",
     "limited": true
   },
   {
-    "name": "",
+    "name": "Charming Bowler",
     "idol": "Saki Mizushima",
     "rarity": "SSR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Saki/SakiSSR2_unawakened.png",
+    "awakened": "../images/card-images/Saki/SakiSSR2_awakened.png",
     "limited": false
   },
   {
@@ -2363,8 +2362,8 @@
     "idol": "Shoma Hanamura",
     "rarity": "SSR",
     "attribute": "mental",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【魅惑のネオンサイン】華村%20翔真/::ref/【魅惑のネオンサイン】華村翔真.jpg.webp?rev=c29708ae4ea806343afadcb860e3f6a0&t=20230106233802",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【魅惑のネオンサイン】華村%20翔真/::ref/【魅惑のネオンサイン】華村翔真＋.jpg.webp?rev=1d2781dbc163f00ecf8b0eab94e7618e&t=20230106233846",
+    "unawakened": "../images/card-images/Shoma/ShomaSSR2_unawakened.png",
+    "awakened": "../images/card-images/Shoma/ShomaSSR2_awakened.png",
     "limited": true
   },
   {
@@ -2386,22 +2385,22 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "Charming Stage",
     "idol": "Yukihiro Kamiya",
     "rarity": "R",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Yukihiro/YukihiroR2_unawakened.png",
+    "awakened": "../images/card-images/Yukihiro/YukihiroR2_awakened.png",
     "limited": false
   },
 
   {
-    "name": "",
+    "name": "A Surprise For Everyone",
     "idol": "Nao Okamura",
     "rarity": "SSR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Nao/NaoSSR2_unawakened.png",
+    "awakened": "../images/card-images/Nao/NaoSSR2_awakened.png",
     "limited": true
   },
   {
@@ -2423,12 +2422,12 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "Shy Hero",
     "idol": "Kanon Himeno",
     "rarity": "R",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Kanon/KanonR2_unawakened.png",
+    "awakened": "../images/card-images/Kanon/KanonR2_awakened.png",
     "limited": false
   },
 
@@ -2437,8 +2436,8 @@
     "idol": "Seiji Shingen",
     "rarity": "SSR",
     "attribute": "mental",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【輝く時を贈る】信玄%20誠司/::ref/【輝く時を贈る】信玄誠司.png.webp?rev=10e47ebd19a5b002435d7b8a90f002a7&t=20221212235425",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【輝く時を贈る】信玄%20誠司/::ref/【輝く時を贈る】信玄誠司%2B.png.webp?rev=a9f45ad915853cd5ab1ba3e2fc8928a3&t=20221212235",
+    "unawakened": "../images/card-images/Seiji/SeijiSSR2_unawakened.png",
+    "awakened": "../images/card-images/Seiji/SeijiSSR2_awakened.png",
     "limited": true
   },
   {
@@ -2470,12 +2469,12 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "A Step Towards a Brand New Parade",
     "idol": "Yukihiro Kamiya",
     "rarity": "SSR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Yukihiro/YukihiroSSR3_unawakened.png",
+    "awakened": "../images/card-images/Yukihiro/YukihiroSSR3_awakened.png",
     "limited": false
   },
   {
@@ -2527,12 +2526,12 @@
 
   
   {
-    "name": "",
+    "name": "The First Dawn Heralding The New Year",
     "idol": "Makio Uzuki",
     "rarity": "SSR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Makio/MakioSSR2_unawakened.png",
+    "awakened": "../images/card-images/Makio/MakioSSR2_awakened.png",
     "limited": true
   },
   {
@@ -2577,17 +2576,17 @@
     "idol": "Kirio Nekoyanagi",
     "rarity": "SSR",
     "attribute": "intelligent",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【身もとろける甘さ】猫柳%20キリオ/::ref/【身もとろける甘さ】猫柳%20キリオ.PNG.webp?rev=c464a8636b7968e7f03802b6ec850275&t=20230302214151",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【身もとろける甘さ】猫柳%20キリオ/::ref/【身もとろける甘さ】猫柳%20キリオ%2B.PNG.webp?rev=9de6cdf347501163fa86ae563182244a&t=20230302214416",
+    "unawakened": "../images/card-images/Kirio/KirioSSR3_unawakened.png",
+    "awakened": "../images/card-images/Kirio/KirioSSR3_awakened.png",
     "limited": false
   },
   {
-    "name": "",
+    "name": "Natural Flavor",
     "idol": "Soichiro Sononome",
     "rarity": "SR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Soichiro/SoichiroSR4_unawakened.png",
+    "awakened": "../images/card-images/Soichiro/SoichiroSR4_unawakened.png",
     "limited": false
   },
 
@@ -2601,12 +2600,12 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "The Start of a Fun Lesson",
     "idol": "Shiro Tachibana",
     "rarity": "SSR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Shiro/ShiroSSR3_unawakened.png",
+    "awakened": "../images/card-images/Shiro/ShiroSSR3_awakened.png",
     "limited": false
   },
   {
@@ -2651,8 +2650,8 @@
     "idol": "Shoma Hanamura",
     "rarity": "SR",
     "attribute": "mental",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【ただひとつの特別を】華村%20翔真/::ref/【ただひとつの特別を】華村翔真.png.webp?rev=a7bb42c3a624b6d5e55f5b8ad55d83fd&t=20230202021341",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【ただひとつの特別を】華村%20翔真/::ref/【ただひとつの特別を】華村翔真%2B.png.webp?rev=6318221043f254eaf1946e67fbcdeb17&t=20230202021346",
+    "unawakened": "../images/card-images/Shoma/ShomaSR4_unawakened.png",
+    "awakened": "../images/card-images/Shoma/ShomaSR4_awakened.png",
     "limited": true
   },
   {
@@ -2698,8 +2697,8 @@
     "idol": "Kuro Kiyosumi",
     "rarity": "SSR",
     "attribute": "mental",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【自己変革スピン】清澄%20九郎/::ref/【自己変革スピン】清澄%20九郎.png.webp?rev=14962aa2cef61f65892d9d509a5e66d5&t=20230226171706",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【自己変革スピン】清澄%20九郎/::ref/【自己変革スピン】清澄%20九郎%2B.png.webp?rev=9dd0552e97fa7e3a95dd2ee63e57f3ba&t=20230226171713",
+    "unawakened": "../images/card-images/Kuro/KuroSSR3_unawakened.png",
+    "awakened": "../images/card-images/Kuro/KuroSSR3_awakened.png",
     "limited": true
   },
   {
@@ -2749,12 +2748,12 @@
     "limited": false
   },
   {
-    "name": "Sending You My White Sincerity",
+    "name": "Sending You My White Day Sincerity",
     "idol": "Seiji Shingen",
     "rarity": "SR",
     "attribute": "mental",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【白い真心を届けに】信玄%20誠司/::ref/【白い真心を届けに】信玄誠司.jpg.webp?rev=0b039971dbffed48593cf9f7b6ae0b21&t=20230301234826",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【白い真心を届けに】信玄%20誠司/::ref/【白い真心を届けに】信玄誠司%2B.jpg.webp?rev=54bf2822336e1b74c6233ff07642aecc&t=20230301234841",
+    "unawakened": "../images/card-images/Seiji/SeijiSR4_unawakened.png",
+    "awakened": "../images/card-images/Seiji/SeijiSR4_awakened.png",
     "limited": true
   },
   {
@@ -2777,40 +2776,40 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "Hellfire Flambé",
     "idol": "Asselin BB II",
     "rarity": "SSR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Asselin/AsselinSSR3_unawakened.png",
+    "awakened": "../images/card-images/Asselin/AsselinSSR3_awakened.png",
     "limited": false
   },
   {
-    "name": "",
+    "name": "Sweet's Brilliance",
     "idol": "Makio Uzuki",
     "rarity": "SR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Makio/MakioSR2_unawakened.png",
+    "awakened": "../images/card-images/Makio/MakioSR2_awakened.png",
     "limited": false
   },
 
   {
-    "name": "",
+    "name": "A Stroke of Being Cool",
     "idol": "Suzaku Akai",
     "rarity": "SSR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Suzaku/SuzakuR1_unawakened.png",
+    "awakened": "../images/card-images/Suzaku/SuzakuR1_unawakened.png",
     "limited": true
   },
   {
-    "name": "",
+    "name": "Beautifully Charming Records",
     "idol": "Soichiro Sononome",
     "rarity": "SSR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Soichiro/SoichiroSSR3_unawakened.png",
+    "awakened": "../images/card-images/Soichiro/SoichiroSSR3_unawakened.png",
     "limited": false
   },
   {
@@ -2818,8 +2817,8 @@
     "idol": "Kaoru Sakuraba",
     "rarity": "SR",
     "attribute": "intelligent",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E6%83%85%E5%A0%B1%E6%95%B4%E7%90%86%E3%81%AF%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%81%AB%E3%80%91%E6%A1%9C%E5%BA%AD%20%E8%96%AB/::attach/%E3%80%90%E6%83%85%E5%A0%B1%E6%95%B4%E7%90%86%E3%81%AF%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%81%AB%E3%80%91%E6%A1%9C%E5%BA%AD%20%E8%96%AB.png?rev=842b3cedad2eda5af91a86e9b006a571&t=20230402095131",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/%E3%80%90%E6%83%85%E5%A0%B1%E6%95%B4%E7%90%86%E3%81%AF%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%81%AB%E3%80%91%E6%A1%9C%E5%BA%AD%20%E8%96%AB/::attach/%E3%80%90%E6%83%85%E5%A0%B1%E6%95%B4%E7%90%86%E3%81%AF%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%81%AB%E3%80%91%E6%A1%9C%E5%BA%AD%20%E8%96%AB.png?rev=842b3cedad2eda5af91a86e9b006a571&t=20230402095131",
+    "unawakened": "../images/card-images/Kaoru/KaoruSR3_unawakened.png",
+    "awakened": "../images/card-images/Kaoru/KaoruSR3_awakened.png",
     "limited": true
   },
   {
@@ -2846,8 +2845,8 @@
     "idol": "Shoma Hanamura",
     "rarity": "SSR",
     "attribute": "mental",
-    "unawakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【陽光の下舞い踊る】華村%20翔真/::ref/【陽光の下舞い踊る】華村翔真.png.webp?rev=a9359c22b7c4e0582b8ce5e296bc5256&t=20230326163010",
-    "awakened": "https://cdn.wikiwiki.jp/to/w/sidem-gstars/【陽光の下舞い踊る】華村%20翔真/::ref/【陽光の下舞い踊る】華村翔真%2B.png.webp?rev=16cf0ab3cbd8a092c9c313c30cfce902&t=20230326163016",
+    "unawakened": "../images/card-images/Shoma/ShomaSSR3_unawakened.png",
+    "awakened": "../images/card-images/Shoma/ShomaSSR3_awakened.png",
     "limited": true
   },
   {
