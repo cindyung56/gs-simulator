@@ -310,8 +310,8 @@
     "idol": "Michio Hazama",
     "rarity": "R",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Michio/MichioR1_unawakened.png",
+    "awakened": "../images/card-images/Michio/MichioR1_awakened.png",
     "limited": false
   },
   {
@@ -319,8 +319,8 @@
     "idol": "Rui Maita",
     "rarity": "R",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Rui/RuiR1_unawakened.png",
+    "awakened": "../images/card-images/Rui/RuiR1_awakened.png",
     "limited": false
   },
   {
@@ -328,8 +328,8 @@
     "idol": "Jiro Yamashita",
     "rarity": "R",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Jiro/JiroR1_unawakened.png",
+    "awakened": "../images/card-images/Jiro/JiroR1_awakened.png",
     "limited": false
   },
   {
@@ -337,8 +337,8 @@
     "idol": "Takeru Taiga",
     "rarity": "R",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Takeru/TakeruR1_unawakened.png",
+    "awakened": "../images/card-images/Takeru/TakeruR1_awakened.png",
     "limited": false
   },
   {
@@ -346,8 +346,8 @@
     "idol": "Ren Kizaki",
     "rarity": "R",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Ren/RenR1_unawakened.png",
+    "awakened": "../images/card-images/Ren/RenR1_awakened.png",
     "limited": false
   },
   {
@@ -355,8 +355,8 @@
     "idol": "Michiru Enjoji",
     "rarity": "R",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Michiru/MichiruR1_unawakened.png",
+    "awakened": "../images/card-images/Michiru/MichiruR1_awakened.png",
     "limited": false
   },
   {
@@ -364,8 +364,8 @@
     "idol": "Ryo Akizuki",
     "rarity": "R",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Ryo/RyoR1_unawakened.png",
+    "awakened": "../images/card-images/Ryo/RyoR1_awakened.png",
     "limited": false
   },
   {
@@ -373,8 +373,8 @@
     "idol": "Kazuki Tsukumo",
     "rarity": "R",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Kazuki/KazukiR1_unawakened.png",
+    "awakened": "../images/card-images/Kazuki/KazukiR1_awakened.png",
     "limited": false
   },
   {
@@ -382,8 +382,8 @@
     "idol": "Daigo Kabuto",
     "rarity": "R",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Daigo/DaigoR1_unawakened.png",
+    "awakened": "../images/card-images/Daigo/DaigoR1_awakened.png",
     "limited": false
   },
   {
@@ -391,8 +391,8 @@
     "idol": "Amehiko Kuzunoha",
     "rarity": "R",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Amehiko/AmehikoR1_unawakened.png",
+    "awakened": "../images/card-images/Amehiko/AmehikoR1_awakened.png",
     "limited": false
   },
   {
@@ -400,8 +400,8 @@
     "idol": "Sora Kitamura",
     "rarity": "R",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Sora/SoraR1_unawakened.png",
+    "awakened": "../images/card-images/Sora/SoraR1_awakened.png",
     "limited": false
   },
   {
@@ -409,8 +409,8 @@
     "idol": "Chris Koron",
     "rarity": "R",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Chris/ChrisR1_unawakened.png",
+    "awakened": "../images/card-images/Chris/ChrisR1_awakened.png",
     "limited": false
   },
   {
@@ -418,8 +418,8 @@
     "idol": "Shu Amamine",
     "rarity": "R",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Shu/ShuR1_unawakened.png",
+    "awakened": "../images/card-images/Shu/ShuR1_awakened.png",
     "limited": false
   },
   {
@@ -427,8 +427,8 @@
     "idol": "Momohito Hanazono",
     "rarity": "R",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Momohito/MomohitoR1_unawakened.png",
+    "awakened": "../images/card-images/Momohito/MomohitoR1_awakened.png",
     "limited": false
   },
   {
@@ -436,8 +436,8 @@
     "idol": "Eishin Mayumi",
     "rarity": "R",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Eishin/EishinR1_unawakened.png",
+    "awakened": "../images/card-images/Eishin/EishinR1_awakened.png",
     "limited": false
   },
 
@@ -501,7 +501,7 @@
     "rarity": "SR",
     "attribute": "intelligent",
     "unawakened": "../images/card-images/Rei/ReiSR1_unawakened.png",
-    "awakened": "../images/card-images/Rei/ReiSR1_unawakened.png",
+    "awakened": "../images/card-images/Rei/ReiSR1_awakened.png",
     "limited": false
   },
     {
@@ -663,7 +663,7 @@
     "rarity": "SR",
     "attribute": "physical",
     "unawakened": "../images/card-images/Suzaku/SuzakuSR1_unawakened.png",
-    "awakened": "../images/card-images/Suzaku/SuzakuSR1_unawakened.png",
+    "awakened": "../images/card-images/Suzaku/SuzakuSR1_awakened.png",
     "limited": false
   },
   {
@@ -717,7 +717,7 @@
     "rarity": "SR",
     "attribute": "physical",
     "unawakened": "../images/card-images/Saki/SakiSR1_unawakened.png",
-    "awakened": "../images/card-images/Saki/SakiSR1_unawakened.png",
+    "awakened": "../images/card-images/Saki/SakiSR1_awakened.png",
     "limited": false
   },
   {
@@ -748,138 +748,138 @@
     "limited": false
   },
   {
-    "name": "",
+    "name": "Equations for Facing the Future",
     "idol": "Michio Hazama",
     "rarity": "SR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Michio/MichioSR1_unawakened.png",
+    "awakened": "../images/card-images/Michio/MichioSR1_awakened.png",
     "limited": false
   },
   {
-    "name": "",
+    "name": "Brilliant Feeling",
     "idol": "Rui Maita",
     "rarity": "SR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Rui/RuiSR1_unawakened.png",
+    "awakened": "../images/card-images/Rui/RuiSR1_awakened.png",
     "limited": false
   },
   {
-    "name": "",
+    "name": "Colorful Chemical Change",
     "idol": "Jiro Yamashita",
     "rarity": "SR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Jiro/JiroSR1_unawakened.png",
+    "awakened": "../images/card-images/Jiro/JiroSR1_awakened.png",
     "limited": false
   },
   {
-    "name": "",
+    "name": "Blazing Blue Fighting Spirit",
     "idol": "Takeru Taiga",
     "rarity": "SR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Takeru/TakeruSR1_unawakened.png",
+    "awakened": "../images/card-images/Takeru/TakeruSR1_awakened.png",
     "limited": false
   },
   {
-    "name": "",
+    "name": "The Strongest Genius Makes His Appearance!",
     "idol": "Ren Kizaki",
     "rarity": "SR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Ren/RenSR1_unawakened.png",
+    "awakened": "../images/card-images/Ren/RenSR1_awakened.png",
     "limited": false
   },
   {
-    "name": "",
+    "name": "The Way of the Heart",
     "idol": "Michiru Enjoji",
     "rarity": "SR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Michiru/MichiruR1_unawakened.png",
+    "awakened": "../images/card-images/Michiru/MichiruSR1_awakened.png",
     "limited": false
   },
   {
-    "name": "",
+    "name": "I'm Sure This Will Help Someone",
     "idol": "Ryo Akizuki",
     "rarity": "SR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Ryo/RyoSR1_unawakened.png",
+    "awakened": "../images/card-images/Ryo/RyoSR1_awakened.png",
     "limited": false
   },
   {
-    "name": "",
+    "name": "A Story of Hope",
     "idol": "Kazuki Tsukumo",
     "rarity": "SR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Kazuki/KazukiSR1_unawakened.png",
+    "awakened": "../images/card-images/Kazuki/KazukiSR1_awakened.png",
     "limited": false
   },
   {
-    "name": "",
+    "name": "Setting Sail With a Gold Star Smile",
     "idol": "Daigo Kabuto",
     "rarity": "SR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Daigo/DaigoSR1_unawakened.png",
+    "awakened": "../images/card-images/Daigo/DaigoSR1_awakened.png",
     "limited": false
   },
   {
-    "name": "",
+    "name": "Occultic Gaze",
     "idol": "Amehiko Kuzunoha",
     "rarity": "SR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Amehiko/AmehikoSR1_unawakened.png",
+    "awakened": "../images/card-images/Amehiko/AmehikoSR1_awakened.png",
     "limited": false
   },
   {
-    "name": "",
+    "name": "As My Heart Desires",
     "idol": "Sora Kitamura",
     "rarity": "SR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Sora/SoraSR1_unawakened.png",
+    "awakened": "../images/card-images/Sora/SoraSR1_awakened.png",
     "limited": false
   },
   {
-    "name": "",
+    "name": "Now, Let's Go to the Unknown Seas",
     "idol": "Chris Koron",
     "rarity": "SR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Chris/ChrisSR1_unawakened.png",
+    "awakened": "../images/card-images/Chris/ChrisSR1_awakened.png",
     "limited": false
   },
   {
-    "name": "",
+    "name": "The Possibilities of Starting to Make Progress",
     "idol": "Shu Amamine",
     "rarity": "SR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Shu/ShuSR1_unawakened.png",
+    "awakened": "../images/card-images/Shu/ShuSR1_awakened.png",
     "limited": false
   },
   {
-    "name": "",
+    "name": "To a Shining World",
     "idol": "Momohito Hanazono",
     "rarity": "SR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Momohito/MomohitoSR1_unawakened.png",
+    "awakened": "../images/card-images/Momohito/MomohitoSR1_awakened.png",
     "limited": false
   },
   {
-    "name": "",
+    "name": "A View to Reach For Greater Heights",
     "idol": "Eishin Mayumi",
     "rarity": "SR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Eishin/EishinSR1_unawakened.png",
+    "awakened": "../images/card-images/Eishin/EishinSR1_awakened.png",
     "limited": false
   },
 
@@ -921,21 +921,21 @@
     "limited": false
   },
   {
-    "name": "",
+    "name": "Fanfare Resonating in the Sky",
     "idol": "Ryo Akizuki",
     "rarity": "SSR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Ryo/RyoSSR1_unawakened.png",
+    "awakened": "../images/card-images/Ryo/RyoSSR1_awakened.png",
     "limited": false
   },
   {
-    "name": "",
+    "name": "A Song That Satisfies the World",
     "idol": "Shu Amamine",
     "rarity": "SSR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Shu/ShuSSR1_unawakened.png",
+    "awakened": "../images/card-images/Shu/ShuSSR1_awakened.png",
     "limited": false
   },
 
@@ -949,12 +949,12 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "Morning Stars in my Hands",
     "idol": "Amehiko Kuzunoha",
     "rarity": "SSR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Amehiko/AmehikoSSR1_unawakened.png",
+    "awakened": "../images/card-images/Amehiko/AmehikoSSR1_awakened.png",
     "limited": false
   },
   {
@@ -977,12 +977,12 @@
   },
 
   {
-    "name": "",
+    "name": "Rising Twilight Star",
     "idol": "Jiro Yamashita",
     "rarity": "SSR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Jiro/JiroSSR1_unawakened.png",
+    "awakened": "../images/card-images/Jiro/JiroSSR1_awakened.png",
     "limited": true
   },
   {
@@ -1004,22 +1004,22 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "Illuminated By a Wave of Lights",
     "idol": "Kazuki Tsukumo",
     "rarity": "R",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Kazuki/KazukiR2_unawakened.png",
+    "awakened": "../images/card-images/Kazuki/KazukiR2_awakened.png",
     "limited": false
   },
 
   {
-    "name": "",
+    "name": "Refreshing Fireworks",
     "idol": "Daigo Kabuto",
     "rarity": "SSR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Daigo/DaigoSSR1_unawakened.png",
+    "awakened": "../images/card-images/Daigo/DaigoSSR1_awakened.png",
     "limited": true
   },
   {
@@ -1032,12 +1032,12 @@
     "limited": false
   },
   {
-    "name": "",
+    "name": "Spending a Moment Together",
     "idol": "Momohito Hanazono",
     "rarity": "SR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Momohito/MomohitoSR2_unawakened.png",
+    "awakened": "../images/card-images/Momohito/MomohitoSR2_awakened.png",
     "limited": true
   },
   {
@@ -1051,12 +1051,12 @@
   },
 
   {
-    "name": "",
+    "name": "A Solemn Rondo",
     "idol": "Eishin Mayumi",
     "rarity": "SSR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Eishin/EishinSSR1_unawakened.png",
+    "awakened": "../images/card-images/Eishin/EishinSSR1_awakened.png",
     "limited": true
   },
   {
@@ -1102,16 +1102,16 @@
     "rarity": "SR",
     "attribute": "intelligent",
     "unawakened": "../images/card-images/Nao/NaoSR2_unawakened.png",
-    "awakened": "../images/card-images/Nao/NaoSR2_unawakened.png",
+    "awakened": "../images/card-images/Nao/NaoSR2_awakened.png",
     "limited": true
   },
   {
-    "name": "",
+    "name": "TIding of Autumn Leaves",
     "idol": "Ryo Akizuki",
     "rarity": "R",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Ryo/RyoR2_unawakened.png",
+    "awakened": "../images/card-images/Ryo/RyoR2_awakened.png",
     "limited": false
   },
 
@@ -1134,12 +1134,12 @@
     "limited": false
   },
   {
-    "name": "",
+    "name": "Beyond the Gaze",
     "idol": "Shu Amamine",
     "rarity": "SR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Shu/ShuSR2_unawakened.png",
+    "awakened": "../images/card-images/Shu/ShuSR2_awakened.png",
     "limited": true
   },
   {
@@ -1176,17 +1176,17 @@
     "rarity": "SR",
     "attribute": "physical",
     "unawakened": "../images/card-images/Suzaku/SuzakuSR2_unawakened.png",
-    "awakened": "../images/card-images/Suzaku/SuzakuSR2_unawakened.png",
+    "awakened": "../images/card-images/Suzaku/SuzakuSR2_awakened.png",
     "limited": false
   },
 
   {
-    "name": "",
+    "name": "Sincere Strength",
     "idol": "Takeru Taiga",
     "rarity": "SSR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Takeru/TakeruSSR1_unawakened.png",
+    "awakened": "../images/card-images/Takeru/TakeruSSR1_awakened.png",
     "limited": true
   },
   {
@@ -1218,12 +1218,12 @@
   },
 
   {
-    "name": "",
+    "name": "Changing Bad Luck Into Good",
     "idol": "Michio Hazama",
     "rarity": "SSR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Michio/MichioSSR1_unawakened.png",
+    "awakened": "../images/card-images/Michio/MichioSSR1_awakened.png",
     "limited": true
   },
   {
@@ -1241,16 +1241,16 @@
     "rarity": "SR",
     "attribute": "intelligent",
     "unawakened": "../images/card-images/Soichiro/SoichiroSR2_unawakened.png",
-    "awakened": "../images/card-images/Soichiro/SoichiroSR2_unawakened.png",
+    "awakened": "../images/card-images/Soichiro/SoichiroSR2_awakened.png",
     "limited": true
   },
   {
-    "name": "",
+    "name": "Fortune-Calling Strength",
     "idol": "Michiru Enjoji",
     "rarity": "R",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Michiru/MichiruR2_unawakened.png",
+    "awakened": "../images/card-images/Michiru/MichiruR2_awakened.png",
     "limited": false
   },
 
@@ -1301,12 +1301,12 @@
     "limited": false
   },
   {
-    "name": "",
+    "name": "My Awesome Recommendation",
     "idol": "Ren Kizaki",
     "rarity": "SR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Ren/RenSR2_unawakened.png",
+    "awakened": "../images/card-images/Ren/RenSR2_awakened.png",
     "limited": true
   },
   {
@@ -1329,12 +1329,12 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "Illuminating Gaze",
     "idol": "Chris Koron",
     "rarity": "SSR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Chris/ChrisSSR1_unawakened.png",
+    "awakened": "../images/card-images/Chris/ChrisSSR1_awakened.png",
     "limited": false
   },
   {
@@ -1366,12 +1366,12 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "Unrivaled Smile",
     "idol": "Ren Kizaki",
     "rarity": "SSR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Ren/RenSSR1_unawakened.png",
+    "awakened": "../images/card-images/Ren/RenSSR1_awakened.png",
     "limited": false
   },
   {
@@ -1420,22 +1420,23 @@
     "awakened": "../images/card-images/Genbu/GenbuR2_awakened.png",
     "limited": false
   },
+
   {
-    "name": "",
+    "name": "A Dish Made Just For You",
     "idol": "Momohito Hanazono",
     "rarity": "SSR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Momohito/MomohitoSSR1_unawakened.png",
+    "awakened": "../images/card-images/Momohito/MomohitoSSR1_awakened.png",
     "limited": true
   },
   {
-    "name": "",
+    "name": "A Marché Full of Choices",
     "idol": "Kazuki Tsukumo",
     "rarity": "SSR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Kazuki/KazukiSSR1_unawakened.png",
+    "awakened": "../images/card-images/Kazuki/KazukiSSR1_awakened.png",
     "limited": false
   },
   {
@@ -1523,12 +1524,12 @@
   },
 
   {
-    "name": "",
+    "name": "Nestling Madder Red",
     "idol": "Michiru Enjoji",
     "rarity": "SSR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Michiru/MichiruSSR1_unawakened.png",
+    "awakened": "../images/card-images/Michiru/MichiruSSR1_awakened.png",
     "limited": true
   },
   {
@@ -1560,12 +1561,12 @@
   },
 
   {
-    "name": "",
+    "name": "Pointing Towards That Shine",
     "idol": "Rui Maita",
     "rarity": "SSR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Rui/RuiSSR1_unawakened.png",
+    "awakened": "../images/card-images/Rui/RuiSSR1_awakened.png",
     "limited": true
   },
   {
@@ -1606,12 +1607,12 @@
     "limited": false
   },
   {
-    "name": "",
+    "name": "Beyond the Sea of Lights",
     "idol": "Chris Koron",
     "rarity": "SR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Chris/ChrisSR2_unawakened.png",
+    "awakened": "../images/card-images/Chris/ChrisSR2_awakened.png",
     "limited": true
   },
   {
@@ -1625,21 +1626,21 @@
   },
 
   {
-    "name": "",
+    "name": "Sweet Step",
     "idol": "Sora Kitamura",
     "rarity": "SSR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Sora/SoraSSR1_unawakened.png",
+    "awakened": "../images/card-images/Sora/SoraSSR1_awakened.png",
     "limited": true
   },
   {
-    "name": "",
+    "name": "Delectable Smile",
     "idol": "Daigo Kabuto",
     "rarity": "SSR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Daigo/DaigoSSR2_unawakened.png",
+    "awakened": "../images/card-images/Daigo/DaigoSSR2_awakened.png",
     "limited": false
   },
   {
@@ -1680,12 +1681,12 @@
     "limited": false
   },
   {
-    "name": "",
+    "name": "Our Feelings Are One",
     "idol": "Michiru Enjoji",
     "rarity": "SR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Michiru/MichiruSR2_unawakened.png",
+    "awakened": "../images/card-images/Michiru/MichiruSR2_awakened.png",
     "limited": false
   },
 
@@ -1708,21 +1709,21 @@
     "limited": false
   },
   {
-    "name": "",
+    "name": "The Angle is Perfect☆",
     "idol": "Rui Maita",
     "rarity": "SR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Rui/RuiSR2_unawakened.png",
+    "awakened": "../images/card-images/Rui/RuiSR2_awakened.png",
     "limited": true
   },
   {
-    "name": "",
+    "name": "Captivating Proportions",
     "idol": "Shu Amamine",
     "rarity": "R",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Shu/ShuR2_unawakened.png",
+    "awakened": "../images/card-images/Shu/ShuR2_awakened.png",
     "limited": false
   },
 
@@ -1769,7 +1770,7 @@
     "rarity": "SSR",
     "attribute": "mental",
     "unawakened": "../images/card-images/Yukihiro/YukihiroSSR2_unawakened.png",
-    "awakened": "../images/card-images/Yukihiro/YukihiroSSR2_unawakened.png",
+    "awakened": "../images/card-images/Yukihiro/YukihiroSSR2_awakened.png",
     "limited": true
   },
   {
@@ -1792,30 +1793,30 @@
   },
 
   {
-    "name": "",
+    "name": "Soul Shocking Lantern",
     "idol": "Ren Kizaki",
     "rarity": "SSR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Ren/RenSSR2_unawakened.png",
+    "awakened": "../images/card-images/Ren/RenSSR2_awakened.png",
     "limited": true
   },
   {
-    "name": "",
+    "name": "Lighting the Way to Learning",
     "idol": "Michio Hazama",
     "rarity": "SSR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Michio/MichioSSR2_unawakened.png",
+    "awakened": "../images/card-images/Michio/MichioSSR2_awakened.png",
     "limited": false
   },
   {
-    "name": "",
+    "name": "Gazing Upon the Flickering Light",
     "idol": "Sora Kitamura",
     "rarity": "SR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Sora/SoraSR2_unawakened.png",
+    "awakened": "../images/card-images/Sora/SoraSR2_awakened.png",
     "limited": true
   },
   {
@@ -1829,40 +1830,40 @@
   },
 
   {
-    "name": "",
+    "name": "Aim That Pierces the Azure Skies",
     "idol": "Shu Amamine",
     "rarity": "SSR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Shu/ShuSSR2_unawakened.png",
+    "awakened": "../images/card-images/Shu/ShuSSR2_awakened.png",
     "limited": true
   },
   {
-    "name": "",
+    "name": "The Blade That Lurks in the Twilight",
     "idol": "Momohito Hanazono",
     "rarity": "SSR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Momohito/MomohitoSSR2_unawakened.png",
+    "awakened": "../images/card-images/Momohito/MomohitoSSR2_awakened.png",
     "limited": true
   },
   {
-    "name": "",
+    "name": "A Flash Burning in Crimson",
     "idol": "Eishin Mayumi",
     "rarity": "SSR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Eishin/EishinSSR2_unawakened.png",
+    "awakened": "../images/card-images/Eishin/EishinSSR2_awakened.png",
     "limited": true
   },
 
   {
-    "name": "",
+    "name": "Journey to Meet the Two Stars",
     "idol": "Ryo Akizuki",
     "rarity": "SSR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Ryo/RyoSSR2_unawakened.png",
+    "awakened": "../images/card-images/Ryo/RyoSSR2_awakened.png",
     "limited": true
   },
   {
@@ -1903,12 +1904,12 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "Refreshing in the Heat",
     "idol": "Jiro Yamashita",
     "rarity": "SSR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Jiro/JiroSSR2_unawakened.png",
+    "awakened": "../images/card-images/Jiro/JiroSSR2_awakened.png",
     "limited": false
   },
   {
@@ -1931,12 +1932,12 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "In the Shade of The Trees",
     "idol": "Takeru Taiga",
     "rarity": "SSR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Takeru/TakeruSSR2_unawakened.png",
+    "awakened": "../images/card-images/Takeru/TakeruSSR2_awakened.png",
     "limited": false
   },
   {
@@ -1973,7 +1974,7 @@
     "rarity": "SSR",
     "attribute": "physical",
     "unawakened": "../images/card-images/Suzaku/SuzakuSSR2_unawakened.png",
-    "awakened": "../images/card-images/Suzaku/SuzakuSSR2_unawakened.png",
+    "awakened": "../images/card-images/Suzaku/SuzakuSSR2_awakened.png",
     "limited": false
   },
   {
@@ -1986,12 +1987,12 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "Sharing a Cool Sensation",
     "idol": "Momohito Hanazono",
     "rarity": "R",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Momohito/MomohitoR2_unawakened.png",
+    "awakened": "../images/card-images/Momohito/MomohitoR2_awakened.png",
     "limited": false
   },
 
@@ -2005,21 +2006,21 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "Enveloping Fresh Breeze",
     "idol": "Michiru Enjoji",
     "rarity": "SSR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Michiru/MichiruSSR2_unawakened.png",
+    "awakened": "../images/card-images/Michiru/MichiruSSR2_awakened.png",
     "limited": false
   },
   {
-    "name": "",
+    "name": "Whimsical Whirlwind",
     "idol": "Ren Kizaki",
     "rarity": "SR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Ren/RenSR3_unawakened.png",
+    "awakened": "../images/card-images/Ren/RenSR3_awakened.png",
     "limited": false
   },
 
@@ -2033,12 +2034,12 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "Eyes Luring You to the Devil's Pond",
     "idol": "Kazuki Tsukumo",
     "rarity": "SSR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Kazuki/KazukiSSR2_unawakened.png",
+    "awakened": "../images/card-images/Kazuki/KazukiSSR2_awakened.png",
     "limited": false
   },
   {
@@ -2070,21 +2071,21 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "Beneath the Exposed Veil",
     "idol": "Sora Kitamura",
     "rarity": "SSR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Sora/SoraSSR2_unawakened.png",
+    "awakened": "../images/card-images/Sora/SoraSSR2_awakened.png",
     "limited": false
   },
   {
-    "name": "",
+    "name": "Supporting Someone They Respect",
     "idol": "Eishin Mayumi",
     "rarity": "SR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Eishin/EishinSR2_unawakened.png",
+    "awakened": "../images/card-images/Eishin/EishinSR2_awakened.png",
     "limited": true
   },
   {
@@ -2144,12 +2145,12 @@
     "limited": false
   },
   {
-    "name": "",
+    "name": "Uplifting Opening",
     "idol": "Ryo Akizuki",
     "rarity": "SR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Ryo/RyoSR2_unawakened.png",
+    "awakened": "../images/card-images/Ryo/RyoSR2_awakened.png",
     "limited": true
   },
   {
@@ -2172,21 +2173,21 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "Boredom Enveloped by the Veil of Night",
     "idol": "Ren Kizaki",
     "rarity": "SSR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Ren/RenSSR3_unawakened.png",
+    "awakened": "../images/card-images/Ren/RenSSR3_awakened.png",
     "limited": true
   },
   {
-    "name": "",
+    "name": "Reciting Tales of an Unforgettable Night",
     "idol": "Amehiko Kuzunoha",
     "rarity": "SSR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Amehiko/AmehikoSSR2_unawakened.png",
+    "awakened": "../images/card-images/Amehiko/AmehikoSSR2_awakened.png",
     "limited": true
   },
 
@@ -2218,12 +2219,12 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "Before Saying Good Night",
     "idol": "Shu Amamine",
     "rarity": "R",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Shu/ShuR3_unawakened.png",
+    "awakened": "../images/card-images/Shu/ShuR3_awakened.png",
     "limited": false
   },
 
@@ -2256,12 +2257,12 @@
   },
 
   {
-    "name": "",
+    "name": "Sea Gods' Conversation",
     "idol": "Chris Koron",
     "rarity": "SSR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Chris/ChrisSSR2_unawakened.png",
+    "awakened": "../images/card-images/Chris/ChrisSSR2_awakened.png",
     "limited": true
   },
   {
@@ -2274,12 +2275,12 @@
     "limited": false
   },
   {
-    "name": "",
+    "name": "Encounter With Treasures",
     "idol": "Takeru Taiga",
     "rarity": "SR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Takeru/TakeruSR2_unawakened.png",
+    "awakened": "../images/card-images/Takeru/TakeruSR2_awakened.png",
     "limited": true
   },
   {
@@ -2311,21 +2312,21 @@
     "limited": false
   },
   {
-    "name": "",
+    "name": "Strict Guidance",
     "idol": "Michio Hazama",
     "rarity": "SR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Michio/MichioSR2_unawakened.png",
+    "awakened": "../images/card-images/Michio/MichioSR2_awakened.png",
     "limited": true
   },
   {
-    "name": "",
+    "name": "Serving Teatime to my Master",
     "idol": "Kazuki Tsukumo",
     "rarity": "R",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Kazuki/KazukiR3_unawakened.png",
+    "awakened": "../images/card-images/Kazuki/KazukiR3_awakened.png",
     "limited": false
   },
 
@@ -2376,12 +2377,12 @@
     "limited": false
   },
   {
-    "name": "",
+    "name": "Chat Bursting Into Laughter",
     "idol": "Daigo Kabuto",
     "rarity": "SR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Daigo/DaigoSR2_unawakened.png",
+    "awakened": "../images/card-images/Daigo/DaigoSR2_awakened.png",
     "limited": true
   },
   {
@@ -2441,31 +2442,31 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "A Special Night That Lights Your Heart",
     "idol": "Eishin Mayumi",
     "rarity": "SSR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Eishin/EishinSRR3_unawakened.png",
+    "awakened": "../images/card-images/Eishin/EishinSSR3_awakened.png",
     "limited": false
   },
   {
-    "name": "",
+    "name": "A Stage For Yours Truly",
     "idol": "Ren Kizaki",
     "rarity": "SR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Ren/RenSR4_unawakened.png",
+    "awakened": "../images/card-images/Ren/RenSR4_awakened.png",
     "limited": false
   },
 
   {
-    "name": "",
+    "name": "Gold Star Countdown",
     "idol": "Daigo Kabuto",
     "rarity": "SSR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Daigo/DaigoSSR3_unawakened.png",
+    "awakened": "../images/card-images/Daigo/DaigoSSR3_awakened.png",
     "limited": true
   },
   {
@@ -2478,21 +2479,21 @@
     "limited": false
   },
   {
-    "name": "",
+    "name": "Hopping Joy",
     "idol": "Momohito Hanazono",
     "rarity": "SR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Momohito/MomohitoSR3_unawakened.png",
+    "awakened": "../images/card-images/Momohito/MomohitoSR3_awakened.png",
     "limited": true
   },
   {
-    "name": "",
+    "name": "Resolute Outfit",
     "idol": "Amehiko Kuzunoha",
     "rarity": "R",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Amehiko/AmehikoR2_unawakened.png",
+    "awakened": "../images/card-images/Amehiko/AmehikoR2_awakened.png",
     "limited": false
   },
 
@@ -2515,12 +2516,12 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "Exceptional Entertainer",
     "idol": "Rui Maita",
     "rarity": "SSR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Rui/RuiSSR2_unawakened.png",
+    "awakened": "../images/card-images/Rui/RuiSSR2_awakened.png",
     "limited": true
   },
 
@@ -2553,22 +2554,22 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "Celebratory Stroke",
     "idol": "Takeru Taiga",
     "rarity": "R",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Takeru/TakeruR2_unawakened.png",
+    "awakened": "../images/card-images/Takeru/TakeruR2_awakened.png",
     "limited": false
   },
 
   {
-    "name": "",
+    "name": "Heartwarming Dinner Table",
     "idol": "Kazuki Tsukumo",
     "rarity": "SSR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Kazuki/KazukiSSR3_unawakened.png",
+    "awakened": "../images/card-images/Kazuki/KazukiSSR3_awakened.png",
     "limited": true
   },
   {
@@ -2586,17 +2587,17 @@
     "rarity": "SR",
     "attribute": "intelligent",
     "unawakened": "../images/card-images/Soichiro/SoichiroSR4_unawakened.png",
-    "awakened": "../images/card-images/Soichiro/SoichiroSR4_unawakened.png",
+    "awakened": "../images/card-images/Soichiro/SoichiroSR4_awakened.png",
     "limited": false
   },
 
   {
-    "name": "",
+    "name": "Surprised to Learn",
     "idol": "Michio Hazama",
     "rarity": "SSR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Michio/MichioSSR3_unawakened.png",
+    "awakened": "../images/card-images/Michio/MichioSSR3_awakened.png",
     "limited": true
   },
   {
@@ -2628,12 +2629,12 @@
   },
 
   {
-    "name": "",
+    "name": "Receiving Passion",
     "idol": "Takeru Taiga",
     "rarity": "SSR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Takeru/TakeruSSR3_unawakened.png",
+    "awakened": "../images/card-images/Takeru/TakeruSSR3_awakened.png",
     "limited": true
   },
   {
@@ -2655,12 +2656,12 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "This Feeling is for You",
     "idol": "Michiru Enjoji",
     "rarity": "R",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Michiru/MichiruR3_unawakened.png",
+    "awakened": "../images/card-images/Michiru/MichiruR3_awakened.png",
     "limited": false
   },
 
@@ -2683,12 +2684,12 @@
     "limited": false
   },
   {
-    "name": "",
+    "name": "Treasured Kiss",
     "idol": "Jiro Yamashita",
     "rarity": "SR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Jiro/JiroSR2_unawakened.png",
+    "awakened": "../images/card-images/Jiro/JiroSR2_awakened.png",
     "limited": false
   },
 
@@ -2711,12 +2712,12 @@
     "limited": false
   },
   {
-    "name": "",
+    "name": "Rising Confidence",
     "idol": "Sora Kitamura",
     "rarity": "SR",
     "attribute": "mental",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Sora/SoraSR3_unawakened.png",
+    "awakened": "../images/card-images/Sora/SoraSR3_awakened.png",
     "limited": true
   },
   {
@@ -2730,12 +2731,12 @@
   },
 
   {
-    "name": "",
+    "name": "Can't Be Honest With My Feelings",
     "idol": "Shu Amamine",
     "rarity": "SSR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Shu/ShuSSR3_unawakened.png",
+    "awakened": "../images/card-images/Shu/ShuSSR3_awakened.png",
     "limited": true
   },
   {
@@ -2757,22 +2758,22 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "Writing Out My Feelings",
     "idol": "Michio Hazama",
     "rarity": "R",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Michio/MichioR2_unawakened.png",
+    "awakened": "../images/card-images/Michio/MichioR2_awakened.png",
     "limited": false
   },
 
   {
-    "name": "",
+    "name": "Hidden Famed Gourmet",
     "idol": "Jiro Yamashita",
     "rarity": "SSR",
     "attribute": "intelligent",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Jiro/JiroSSR3_unawakened.png",
+    "awakened": "../images/card-images/Jiro/JiroSSR3_awakened.png",
     "limited": true
   },
   {
@@ -2800,7 +2801,7 @@
     "rarity": "SSR",
     "attribute": "physical",
     "unawakened": "../images/card-images/Suzaku/SuzakuR1_unawakened.png",
-    "awakened": "../images/card-images/Suzaku/SuzakuR1_unawakened.png",
+    "awakened": "../images/card-images/Suzaku/SuzakuR1_awakened.png",
     "limited": true
   },
   {
@@ -2809,7 +2810,7 @@
     "rarity": "SSR",
     "attribute": "intelligent",
     "unawakened": "../images/card-images/Soichiro/SoichiroSSR3_unawakened.png",
-    "awakened": "../images/card-images/Soichiro/SoichiroSSR3_unawakened.png",
+    "awakened": "../images/card-images/Soichiro/SoichiroSSR3_awakened.png",
     "limited": false
   },
   {
@@ -2822,12 +2823,12 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "Casually Stylish",
     "idol": "Eishin Mayumi",
     "rarity": "R",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Eishin/EishinR2_unawakened.png",
+    "awakened": "../images/card-images/Eishin/EishinR2_awakened.png",
     "limited": false
   },
 
@@ -2850,12 +2851,12 @@
     "limited": true
   },
   {
-    "name": "",
+    "name": "The Nightscape Showing The Way",
     "idol": "Michiru Enjoji",
     "rarity": "SSR",
     "attribute": "physical",
-    "unawakened": "",
-    "awakened": "",
+    "unawakened": "../images/card-images/Michiru/MichiruSSR3_unawakened.png",
+    "awakened": "../images/card-images/Michiru/MichiruSSR3_awakened.png",
     "limited": true
   }
 
