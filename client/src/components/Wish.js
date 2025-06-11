@@ -75,13 +75,16 @@ export default function Results(props) {
   } else {
     return (
       <div>
-        <h1>WISH PAGE</h1>
-        {cardList.map((card) => (
-          <div>
-            <p key={card.id}>{`${card.name}: ${card.idol} (${card.rarity})`}</p>
-            {/* <img src={card.unawakened} alt="card art"/> */}
-          </div>
-        ))}
+        <h1>WISH RESULT</h1>
+        <div className="cards-container">
+          {console.log(cardList)}
+          {cardList.map((card, index) => (
+            <div key={card.id + "-" + index} className="card">
+              <h4>{`${card.name}: ${card.idol} (${card.rarity})`}</h4>
+              <img src={card.unawakened} alt="card art" className="card-img" />
+            </div>
+          ))}
+        </div>
         <button className="continue-btn" onClick={goHome}>
           →
         </button>
